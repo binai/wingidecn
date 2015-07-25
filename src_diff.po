@@ -6,20 +6,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2010-11-24 23:48 EST\n"
+"PO-Revision-Date: 2015-07-21 21:51+0800\n"
 "Last-Translator: 小雨<rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: text/plain\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:53
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:135
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:187
 msgid "Diff/Merge"
-msgstr ""
+msgstr "Diff / Merge"
 
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:59
 msgid "Difference and Merge"
@@ -38,7 +39,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:158
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:168
 msgid "Diff/merge panel state"
-msgstr ""
+msgstr "Diff / merge面板的状态"
 
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:180
 msgid "Dummy"
@@ -51,7 +52,7 @@ msgstr "名称"
 #: /Users/sdeibel/src/ide/src/diff/diffpanel.py:302
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2037
 msgid "Changes"
-msgstr ""
+msgstr "修改"
 
 #: /Users/sdeibel/src/ide/src/diff/diffutils.py:281
 msgid "%s Lines"
@@ -59,11 +60,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/diff/diffutils.py:283
 msgid "Changed"
-msgstr ""
+msgstr "已更改"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:268
 msgid "Compare Failed"
-msgstr ""
+msgstr "比较失败"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:269
 msgid ""
@@ -88,7 +89,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/diff/manager.py:411
 #: /Users/sdeibel/src/ide/src/diff/manager.py:633
 msgid "Show White Space"
-msgstr ""
+msgstr "显示空白"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:412
 #: /Users/sdeibel/src/ide/src/diff/manager.py:634
@@ -102,7 +103,7 @@ msgstr "不再显示此消息"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:480
 msgid "Failed to set up the diff session"
-msgstr ""
+msgstr "未能设置diff会话"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:483
 msgid "Diff Failed::Diff failed: %s"
@@ -114,21 +115,21 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:508
 msgid "Compare to Directory..."
-msgstr ""
+msgstr "比较目录……"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:511
 msgid "Compare to File..."
-msgstr ""
+msgstr "比较文件……"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:616
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1829
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1888
 msgid "There are no differences"
-msgstr ""
+msgstr "没有差异"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:623
 msgid "Session Contains Only White Space Changes"
-msgstr ""
+msgstr "会议只包含空格的变化"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:624
 msgid ""
@@ -142,7 +143,7 @@ msgstr "取消"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1073
 msgid "Create Directories?"
-msgstr ""
+msgstr "创建目录吗?"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1074
 msgid ""
@@ -157,7 +158,7 @@ msgstr "创建"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1084
 msgid "Cancel Merge"
-msgstr ""
+msgstr "取消合并"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1394
 msgid "Line %s: Changed %s Lines%s"
@@ -173,20 +174,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1414
 msgid "Terminate Diff/Merge Session"
-msgstr ""
+msgstr "Diff / Merge终止会话"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1419
 msgid "Lock Scrolling"
-msgstr ""
+msgstr "锁滚动"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1424
 msgid "Ignore Whitespace"
-msgstr ""
+msgstr "忽略空格"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1533
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1577
 msgid "Could not open one or both editors"
-msgstr ""
+msgstr "不能打开一个或两个编辑器吗"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:1596
 msgid "Revision"
@@ -212,7 +213,7 @@ msgstr "“%s”不是一个文件"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2037
 msgid "Filename"
-msgstr ""
+msgstr "文件名"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2156
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2370
@@ -233,7 +234,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2377
 msgid "Fetching revision..."
-msgstr ""
+msgstr "获取修改……"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2416
 msgid ""

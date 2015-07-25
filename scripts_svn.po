@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
+"PO-Revision-Date: 2015-07-21 21:49+0800\n"
 "Last-Translator: 小雨 <rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:1
 msgid ""
@@ -44,11 +44,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:56
 msgid "Perform svn update on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行svn update"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:69
 msgid "SVN _Update"
-msgstr ""
+msgstr "SVN更新"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:73
 #: /Users/sdeibel/src/ide/scripts/svn.py:96
@@ -66,11 +66,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:76
 msgid "Perform svn revert on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行svn恢复"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:79
 msgid "Discard Changes in Files?"
-msgstr ""
+msgstr "丢弃的变化文件?"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:80
 msgid ""
@@ -89,15 +89,15 @@ msgstr "取消"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:92
 msgid "SVN _Revert"
-msgstr ""
+msgstr "SVN恢复"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:99
 msgid "Perform svn diff on the given files or directories."
-msgstr ""
+msgstr "对给定的执行svn diff文件或目录。"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:104
 msgid "SVN _Diff"
-msgstr ""
+msgstr "SVN比较差异"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:110
 msgid ""
@@ -111,7 +111,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:132
 msgid "Perform svn log on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行svn日志"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:136
 msgid "SVN _Log"
@@ -119,15 +119,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:142
 msgid "Perform svn status on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行svn状态"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:156
 msgid "SVN _Status"
-msgstr ""
+msgstr "SVN状态"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:160
 msgid "Perform svn blame/praise on the given files or directories."
-msgstr ""
+msgstr "执行svn /赞美归咎于给定的文件或目录。"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:165
 msgid "SVN Blame_/Praise"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:171
 msgid "Perform svn list on the given files or directories."
-msgstr ""
+msgstr "对给定的文件或目录执行svn列表。"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:186
 msgid "SVN Lis_t"
@@ -143,16 +143,16 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:192
 msgid "Perform svn commit on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行svn commit"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:197
 #: /Users/sdeibel/src/ide/scripts/svn.py:214
 msgid "SVN _Commit"
-msgstr ""
+msgstr "SVN提交"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:199
 msgid "Log message to attach to this revision"
-msgstr ""
+msgstr "日志消息将修订"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:204
 msgid ""
@@ -162,7 +162,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:218
 msgid "Perform svn resolved on the given files or directories"
-msgstr ""
+msgstr "执行svn解决给定的文件或目录"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:222
 msgid "SVN Res_olved"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:226
 msgid "Perform svn add on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行svn添加"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:250
 msgid "SVN _Add"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:270
 msgid "Configure SVN options"
-msgstr ""
+msgstr "起见SVN备选办法"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:278
 msgid "_Options..."
@@ -208,7 +208,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:327
 msgid "SSH Agent Not Found"
-msgstr ""
+msgstr "SSH代理没有找到"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:328
 msgid ""
@@ -224,11 +224,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:337
 msgid "Disable this test"
-msgstr ""
+msgstr "禁用这个测试"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:348
 msgid "Perform given svn operation on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行给定的svn操作"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:368
 msgid "Login for %s:"
@@ -258,7 +258,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:528
 msgid "Manage multiple pending SVN commands for single status display"
-msgstr ""
+msgstr "管理多个悬而未决的SVN命令单状态显示"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:576
 msgid "SVN %s Result"
@@ -281,11 +281,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/scripts/svn.py:655
 #: /Users/sdeibel/src/ide/scripts/svn.py:696
 msgid "Errors/Warnings (stderr):"
-msgstr ""
+msgstr "错误/警告(stderr):"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:664
 msgid "SVN Results"
-msgstr ""
+msgstr "SVN的结果"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:679
 msgid "SVN found concurrent changes -- do an update before committing"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:681
 msgid "SVN Error"
-msgstr ""
+msgstr "SVN的错误"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:683
 msgid "SVN %s failed to execute.  errno=%i"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:700
 msgid "Results (stdout):"
-msgstr ""
+msgstr "结果(stdout):"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:705
 msgid "Error executing command.  errno=%i:"
@@ -325,7 +325,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:730
 msgid " Return the pathname for the svn directory or None if none exists. "
-msgstr ""
+msgstr "返回svn目录的路径名或没有如果没有存在。"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:740
 msgid ""
@@ -363,11 +363,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:939
 msgid "Use SVN or SSH cache"
-msgstr ""
+msgstr "使用SVN或SSH缓存"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:940
 msgid "Manual (from Wing)"
-msgstr ""
+msgstr "手册(翅膀)"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:944
 msgid ""
@@ -381,19 +381,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:961
 msgid "SVN options dialog"
-msgstr ""
+msgstr "SVN选项对话框"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:980
 msgid "SVN Options"
-msgstr ""
+msgstr "SVN的选项"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:997
 msgid "Create and return the form pages to use"
-msgstr ""
+msgstr "创建并返回表单页面使用"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:999
 msgid "SVN Executable"
-msgstr ""
+msgstr "SVN可执行"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:1001
 msgid "Auto-Close Result Buffers"
@@ -401,7 +401,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:1006
 msgid "Check for SSH Agent"
-msgstr ""
+msgstr "检查SSH代理"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:1009
 msgid "Authentication"

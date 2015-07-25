@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
+"PO-Revision-Date: 2015-07-21 21:50+0800\n"
 "Last-Translator: Rains <rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:1
 msgid ""
@@ -73,7 +73,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:84
 msgid "Clear cache of results which have timed out"
-msgstr ""
+msgstr "清楚缓存的结果已超时"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:111
 msgid ""
@@ -110,11 +110,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:220
 msgid "Log message to attach to this revision"
-msgstr ""
+msgstr "日志消息将修订"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:226
 msgid "Perform perforce add on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行必然增加"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:236
 msgid "Perforce _Add"
@@ -130,7 +130,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:287
 msgid "Perform perforce diff on the given files or directories."
-msgstr ""
+msgstr "对给定的文件或目录执行一定差异。"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:292
 msgid "Perforce _Diff"
@@ -140,7 +140,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/scripts/perforce.py:314
 #: /Users/sdeibel/src/ide/scripts/perforce.py:325
 msgid "Perform perforce log on the given files or directories"
-msgstr ""
+msgstr "执行必须登录给定的文件或目录"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:310
 msgid "Perforce _Revert"
@@ -174,7 +174,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:377
 msgid "Manage multiple pending Perforce commands for single status display"
-msgstr ""
+msgstr "管理多个等待必然为单身状态显示命令"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:428
 msgid "Perforce %s Result"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:476
 msgid "Perforce Results"
-msgstr ""
+msgstr "必然的结果"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:491
 msgid "Perforce found concurrent changes -- do an update before submitting"
@@ -196,7 +196,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:493
 msgid "Perforce Error"
-msgstr ""
+msgstr "一定错误"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:495
 msgid "Perforce %s failed to execute.  errno=%i"
@@ -217,9 +217,8 @@ msgid "In: %s"
 msgstr " 用时 "
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:507
-#, fuzzy
 msgid "Errors/Warnings (stderr):"
-msgstr ""
+msgstr "错误/警告(stderr):"
 
 #: /Users/sdeibel/src/ide/scripts/perforce.py:511
 #, fuzzy

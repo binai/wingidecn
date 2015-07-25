@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
+"PO-Revision-Date: 2015-07-21 21:49+0800\n"
 "Last-Translator: 小雨 <rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1
 msgid ""
@@ -113,15 +113,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:220
 msgid "Read in a single template and add it to the registry"
-msgstr ""
+msgstr "读入一个模板并将其添加到注册表"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:244
 msgid "Scan templates directories and load templates found in them"
-msgstr ""
+msgstr "扫描模板目录和加载模板中发现它们"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:273
 msgid "Fill in any missing default values from the given value dict."
-msgstr ""
+msgstr "填写任何缺失的dict类型默认值从给定的值。"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:285
 msgid ""
@@ -144,21 +144,21 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:489
 msgid "Create a new file with given extension and initial content"
-msgstr ""
+msgstr "创建一个新文件,将扩展和初始内容"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:500
 msgid "Insert given content into currently active editor"
-msgstr ""
+msgstr "给定的内容插入到当前活动编辑器"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:507
 #: /Users/sdeibel/src/ide/scripts/templating.py:1063
 msgid "No Active Editor"
-msgstr ""
+msgstr "没有活动编辑器"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:508
 #: /Users/sdeibel/src/ide/scripts/templating.py:1064
 msgid "Could not paste the selected template because there is no active editor"
-msgstr ""
+msgstr "不能粘贴选中的模板,因为没有活动编辑器吗"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:515
 msgid ""
@@ -172,7 +172,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/scripts/templating.py:692
 #: /Users/sdeibel/src/ide/scripts/templating.py:861
 msgid "Template Name"
-msgstr ""
+msgstr "模板名称"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:580
 msgid ""
@@ -197,7 +197,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:649
 msgid "Panel definition for the project manager"
-msgstr ""
+msgstr "面板中定义的项目经理"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:662
 msgid ""
@@ -212,20 +212,20 @@ msgstr "模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:668
 msgid "Get full title for the given panel instance"
-msgstr ""
+msgstr "获得给定面板实例的全称"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:670
 #: /Users/sdeibel/src/ide/scripts/templating.py:812
 msgid "Template Manager"
-msgstr ""
+msgstr "模板管理器"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:673
 msgid "Commands available on a specific instance of the template manager tool"
-msgstr ""
+msgstr "命令可以在一个特定的实例模板管理器工具"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:686
 msgid "Add a new template"
-msgstr ""
+msgstr "添加一个新的模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:694
 msgid "New File Extension"
@@ -233,11 +233,11 @@ msgstr "新文件扩展名"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:699
 msgid "Edit the selected template"
-msgstr ""
+msgstr "编辑选中的模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:711
 msgid "Remove the selected template"
-msgstr ""
+msgstr "删除选中的模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:718
 msgid ""
@@ -252,19 +252,19 @@ msgstr "快捷键绑定"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:740
 msgid "Clear the key binding associated with the given template"
-msgstr ""
+msgstr "明确与给定的模板相关联的键绑定"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:749
 msgid "Show the Wing IDE documentation section for the template manager"
-msgstr ""
+msgstr "显示翼IDE文档模板管理器部分"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:754
 msgid "Paste the currently selected template into the current editor"
-msgstr ""
+msgstr "当前选中的模板粘贴到当前编辑器"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:765
 msgid "Paste the currently selected template into a new editor"
-msgstr ""
+msgstr "当前选中的模板粘贴到一个新的编辑器"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:773
 msgid ""
@@ -276,32 +276,32 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:781
 msgid "A single template manager view"
-msgstr ""
+msgstr "单个模板管理器视图"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:784
 msgid " Constructor "
-msgstr ""
+msgstr "构造函数"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:810
 msgid " Returns the title of this view suitable for display. "
-msgstr ""
+msgstr "返回此视图适合显示的标题。"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:815
 msgid " Get the command map object for this view. "
-msgstr ""
+msgstr "得到命令映射对象这一观点。"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:831
 #: /Users/sdeibel/src/ide/scripts/templating.py:843
 msgid "Template manager state"
-msgstr ""
+msgstr "模板管理器状态"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:891
 msgid "Look up the key binding for the given template"
-msgstr ""
+msgstr "查找给定模板绑定的关键"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:902
 msgid "Set the key binding for the given template"
-msgstr ""
+msgstr "设置为给定的键绑定模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:921
 msgid ""
@@ -310,11 +310,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:935
 msgid "Add a new template to the currently selected template directory"
-msgstr ""
+msgstr "添加一个新模板,当前选中的模板目录"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:947
 msgid "Template already exists"
-msgstr ""
+msgstr "模板已经存在"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:948
 msgid ""
@@ -324,7 +324,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:953
 msgid "Open Existing"
-msgstr ""
+msgstr "打开现有的"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:954
 #: /Users/sdeibel/src/ide/scripts/templating.py:1001
@@ -333,11 +333,11 @@ msgstr "取消"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:986
 msgid "Add currently selected template from template directory"
-msgstr ""
+msgstr "从模板目录添加当前选择的模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:992
 msgid "Remove Disk File?"
-msgstr ""
+msgstr "删除磁盘文件?"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:993
 msgid ""
@@ -351,19 +351,19 @@ msgstr "移除文件"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1007
 msgid "Construct popup menu for this object."
-msgstr ""
+msgstr "构建这个对象的弹出菜单。"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1010
 msgid "Paste Into Current Editor"
-msgstr ""
+msgstr "粘贴到当前编辑器"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1011
 msgid "Paste Into New File"
-msgstr ""
+msgstr "粘贴到新文件"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1013
 msgid "Add New Template"
-msgstr ""
+msgstr "添加新模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1014
 msgid "Edit Template"
@@ -371,24 +371,24 @@ msgstr "编辑模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1015
 msgid "Remove Template"
-msgstr ""
+msgstr "删除模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1017
 msgid "Assign Key Binding"
-msgstr ""
+msgstr "分配密钥绑定"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1018
 msgid "Clear Key Binding"
-msgstr ""
+msgstr "清除键绑定"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1020
 msgid "Reload All Templates"
-msgstr ""
+msgstr "重新加载所有模板"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1022
 msgid "Show Templating Documentation"
-msgstr ""
+msgstr "显示模板文档"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:1074
 msgid "Callback to display the popup menu"
-msgstr ""
+msgstr "调显示弹出菜单"

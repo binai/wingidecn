@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2010-11-24 23:48 EST\n"
+"PO-Revision-Date: 2015-07-21 22:19+0800\n"
 "Last-Translator: 小雨<rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,6 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:36
 msgid ""
@@ -26,48 +27,52 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/commands.py:180
 #: /Users/sdeibel/src/ide/src/search/commands.py:199
 msgid " Bring up the search manager in search mode. "
-msgstr ""
+msgstr "在搜索模式中调出搜索管理器。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:54
 msgid " Search again using the search manager's current settings. "
-msgstr ""
+msgstr "再次使用搜索管理器的当前设置。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:78
 msgid ""
 " Search again using the search manager's current settings\n"
 "    in forward direction "
 msgstr ""
+"再次使用搜索管理器的当前设置\n"
+"向前方向"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:86
 msgid ""
 " Search again using the search manager's current settings\n"
 "    in backward direction "
 msgstr ""
+"再次使用搜索管理器的当前设置\n"
+"向后方向"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:93
 msgid " Bring up the search manager in replace mode. "
-msgstr ""
+msgstr "在替换模式中调出搜索管理器。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:98
 msgid " Replace current selection with the search manager. "
-msgstr ""
+msgstr "用搜索管理器替换当前选择。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:113
 msgid " Replace current selection and search again. "
-msgstr ""
+msgstr "替换当前选择和搜索。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:164
 msgid " Get initial text to put in search field. "
-msgstr ""
+msgstr "获取初始文本到搜索域。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:257
 #: /Users/sdeibel/src/ide/src/search/commands.py:267
 msgid " Search forward using current selection "
-msgstr ""
+msgstr "使用当前选择的搜索"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:273
 msgid " Search backward using current selection "
-msgstr ""
+msgstr "使用当前选择搜索向后"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:279
 msgid ""
@@ -82,19 +87,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:290
 msgid " Move to the next found match in the Search in Files tool. "
-msgstr ""
+msgstr "移动到下一个匹配的搜索文件工具。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:298
 msgid " Move to the previous found match in the Search in Files tool. "
-msgstr ""
+msgstr "移动到前面的搜索匹配的文件工具。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:306
 msgid " Display search and replace in files tool. "
-msgstr ""
+msgstr "在文件工具中显示搜索和替换。"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:313
 msgid " Pause the currently running batch search, if any "
-msgstr ""
+msgstr "暂停当前正在运行的批处理，如果有"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:326
 msgid ""
@@ -107,19 +112,21 @@ msgid ""
 "Place a forward tab at the current cursor position in search or replace\n"
 "    string"
 msgstr ""
+"放置在当前光标位置以搜索或替换\n"
+"字符串"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:377
 msgid " Cut selected text "
-msgstr ""
+msgstr "剪切已选择文本"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:386
 msgid " Copy selected text "
-msgstr ""
+msgstr "复制已选择文本"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:394
 msgid " Clear selected text "
-msgstr ""
+msgstr "清除已选择文本"
 
 #: /Users/sdeibel/src/ide/src/search/commands.py:402
 msgid " Paste text from clipboard "
-msgstr ""
+msgstr "从剪贴板粘贴文本"

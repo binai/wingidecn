@@ -23,15 +23,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:60
 msgid " Utility method to get location of active editor. "
-msgstr ""
+msgstr "实用的方法来获取位置活动编辑器。"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:69
 msgid " Finds a view to apply project commands to. "
-msgstr ""
+msgstr "发现一个视图命令应用项目。"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:78
 msgid " Raise the project manager window "
-msgstr ""
+msgstr "提高项目经理窗口"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:82
 msgid ""
@@ -48,11 +48,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:106
 msgid " Close currently open project file "
-msgstr ""
+msgstr "关闭当前打开的项目文件"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:120
 msgid " Save project file. "
-msgstr ""
+msgstr "保存项目文件。"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:127
 msgid ""
@@ -62,24 +62,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:139
 msgid " Add an existing file to the project. "
-msgstr ""
+msgstr "将现有文件添加到项目中。"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:145
 msgid " Add directory to project. "
-msgstr ""
+msgstr "将目录添加到项目中。"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:156
 msgid " Add the frontmost currently open file to project "
-msgstr ""
+msgstr "frontmost当前打开的文件添加到项目中"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:165
 msgid " Remove directory from project. "
-msgstr ""
+msgstr "删除目录从项目。"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:174
 #: /Users/sdeibel/src/ide/src/proj/commands.py:437
 msgid " Remove currently selected file or package from the project "
-msgstr ""
+msgstr "从项目中删除当前选中文件或包"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:181
 msgid ""
@@ -150,7 +150,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:335
 msgid "Show the project manager's directory properties dialog"
-msgstr ""
+msgstr "显示了项目经理的目录属性对话框"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:348
 msgid ""
@@ -168,42 +168,42 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/commands.py:358
 #: /Users/sdeibel/src/ide/src/proj/commands.py:444
 msgid " Set selected file as the main debug file for this project "
-msgstr ""
+msgstr "选定的文件设置为这个项目的主要调试文件"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:365
 #: /Users/sdeibel/src/ide/src/proj/commands.py:451
 msgid " Open files currently selected in the project manager "
-msgstr ""
+msgstr "打开的文件当前选中的项目经理"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:372
 #: /Users/sdeibel/src/ide/src/proj/commands.py:500
 msgid " Open file currently selected in the project manager "
-msgstr ""
+msgstr "打开文件当前选中的项目经理"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:379
 #: /Users/sdeibel/src/ide/src/proj/commands.py:507
 msgid " Browse file currently selected in the project manager "
-msgstr ""
+msgstr "浏览文件当前选中的项目经理"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:386
 #: /Users/sdeibel/src/ide/src/proj/commands.py:521
 msgid " Start debugging the file currently selected in the project manager "
-msgstr ""
+msgstr "开始调试文件当前选中的项目经理"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:393
 #: /Users/sdeibel/src/ide/src/proj/commands.py:528
 msgid " Execute the file currently selected in the project manager "
-msgstr ""
+msgstr "执行文件当前选中的项目经理"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:400
 #: /Users/sdeibel/src/ide/src/proj/commands.py:535
 msgid "View project as directory tree from project file"
-msgstr ""
+msgstr "项目从项目文件目录树视图"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:407
 #: /Users/sdeibel/src/ide/src/proj/commands.py:542
 msgid "View project as flattened directory tree from project file"
-msgstr ""
+msgstr "从项目文件认为项目是扁平的目录树"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:421
 msgid ""
@@ -213,23 +213,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:458
 msgid "Rename the currently selected file or directory in the project view"
-msgstr ""
+msgstr "重命名当前选中文件或目录在项目视图中"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:473
 msgid "New name for the directory"
-msgstr ""
+msgstr "新目录的名称"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:474
 msgid "New Directory Name"
-msgstr ""
+msgstr "新目录名称"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:476
 msgid "New name for the file"
-msgstr ""
+msgstr "新文件的名称"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:477
 msgid "New File Name"
-msgstr ""
+msgstr "新文件的名字"
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:493
 msgid ""
@@ -239,4 +239,4 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/commands.py:514
 msgid " Search in file or directory currently selected in the project manager "
-msgstr ""
+msgstr "搜索文件或目录中当前选定的项目经理"

@@ -18,7 +18,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/combo_gtk.py:716
 msgid "Clear"
-msgstr ""
+msgstr "清晰的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/dialogs.py:773
 msgid "<untitled item>"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/dialogs.py:935
 msgid "The quick brown fox programs zippily in Python"
-msgstr ""
+msgstr "那只敏捷的棕色狐狸这么在Python程序"
 
 #: /Users/sdeibel/src/ide/src/guiutils/dialogs.py:963
 #: /Users/sdeibel/src/ide/src/guiutils/dialogs.py:996
@@ -56,11 +56,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:621
 msgid "General error getting panel view state"
-msgstr ""
+msgstr "通用错误面板视图状态"
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:636
 msgid "General error setting panel view state"
-msgstr ""
+msgstr "通用错误设置面板视图状态"
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:1513
 msgid "Current tab for tool panel split %i"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:1531
 msgid "General error getting notebook doc visual state"
-msgstr ""
+msgstr "一般误差得到笔记本医生视觉状态"
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:1596
 msgid "Could not find panel type '%s'"
@@ -76,15 +76,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:1615
 msgid "General error setting notebook visual state"
-msgstr ""
+msgstr "通用错误设置笔记本电脑视觉状态"
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:2328
 msgid "General error getting side notebook state"
-msgstr ""
+msgstr "一般误差得到笔记本状态"
 
 #: /Users/sdeibel/src/ide/src/guiutils/dockview.py:2360
 msgid "General error setting side notebook state"
-msgstr ""
+msgstr "通用错误设置笔记本状态"
 
 #: /Users/sdeibel/src/ide/src/guiutils/docviewer.py:310
 msgid "<< _Back"
@@ -108,19 +108,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:76
 msgid "Select a file"
-msgstr ""
+msgstr "选择一个文件"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:141
 msgid "file name or directory name"
-msgstr ""
+msgstr "文件名或目录名"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:143
 msgid "file name"
-msgstr ""
+msgstr "文件名称"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:145
 msgid "directory name"
-msgstr ""
+msgstr "目录名称"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:147
 msgid "Bad %s"
@@ -132,11 +132,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:164
 msgid "Confirm overwrite"
-msgstr ""
+msgstr "确认覆盖"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:164
 msgid "Overwrite existing file?"
-msgstr ""
+msgstr "覆盖现有文件吗?"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:165
 msgid "_No"
@@ -151,61 +151,61 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:603
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:691
 msgid "All Files"
-msgstr ""
+msgstr "所有文件"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_gtk.py:314
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:691
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:60
 msgid "Executable Files (*.exe)"
-msgstr ""
+msgstr "可执行文件(* . exe)"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:62
 msgid "Executable Files (*)"
-msgstr ""
+msgstr "可执行文件(*)"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:85
 msgid "All Files (*.*)"
-msgstr ""
+msgstr "所有文件(* . *)"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:87
 msgid "All Files (*)"
-msgstr ""
+msgstr "所有文件(*)"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:208
 msgid "Use Executable"
-msgstr ""
+msgstr "使用可执行"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:212
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:219
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:260
 msgid "Directory Name"
-msgstr ""
+msgstr "目录名称"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:213
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:225
 msgid "Name"
-msgstr ""
+msgstr "的名字"
 
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:226
 #: /Users/sdeibel/src/ide/src/guiutils/filedialog_qt4.py:261
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:149
 #: /Users/sdeibel/src/ide/src/guiutils/wgtk_gtk.py:394
 msgid "OK"
-msgstr ""
+msgstr "好吧"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:119
 msgid "True"
-msgstr ""
+msgstr "真正的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:122
 msgid "False"
-msgstr ""
+msgstr "假"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:948
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1077
@@ -213,56 +213,56 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1184
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1873
 msgid "Invalid"
-msgstr ""
+msgstr "无效的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1235
 msgid "Font Spec"
-msgstr ""
+msgstr "字体规范"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1274
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1310
 msgid "Icon"
-msgstr ""
+msgstr "图标"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1314
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1629
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1314
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1629
 msgid "Remove"
-msgstr ""
+msgstr "删除"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1314
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1629
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:858
 msgid "Insert"
-msgstr ""
+msgstr "插入"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1507
 msgid "New Value"
-msgstr ""
+msgstr "新值"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1563
 msgid "Edit Value"
-msgstr ""
+msgstr "编辑的价值"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1629
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1733
 msgid "View as Text"
-msgstr ""
+msgstr "认为文本"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1735
 msgid "View as List"
-msgstr ""
+msgstr "认为列表"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formbuilder.py:1923
 msgid "Filename"
-msgstr ""
+msgstr "文件名"
 
 #: /Users/sdeibel/src/ide/src/guiutils/formutils.py:568
 #: /Users/sdeibel/src/ide/src/guiutils/formutils.py:586
@@ -272,11 +272,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/guidefn.py:58
 msgid "Select File"
-msgstr ""
+msgstr "选择文件"
 
 #: /Users/sdeibel/src/ide/src/guiutils/guidefn.py:60
 msgid "Select Directory"
-msgstr ""
+msgstr "选择目录"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:775
 msgid "Ctrl-"
@@ -316,23 +316,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:842
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:842
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:842
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:842
 msgid "Escape"
-msgstr ""
+msgstr "逃避"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:842
 msgid "Shift"
-msgstr ""
+msgstr "转变"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:843
 msgid "ISO_Left_Tab"
@@ -340,31 +340,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:843
 msgid "Tab"
-msgstr ""
+msgstr "选项卡"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:844
 msgid "Down"
-msgstr ""
+msgstr "下来"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:844
 msgid "End"
-msgstr ""
+msgstr "结束"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:844
 msgid "Home"
-msgstr ""
+msgstr "首页"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:844
 msgid "Left"
-msgstr ""
+msgstr "离开了"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:844
 msgid "Right"
-msgstr ""
+msgstr "正确的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:844
 msgid "Up"
-msgstr ""
+msgstr "了"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:845
 msgid "Page_Down"
@@ -436,164 +436,164 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:850
 msgid "Backspace"
-msgstr ""
+msgstr "退格"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:850
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:850
 msgid "Enter"
-msgstr ""
+msgstr "输入"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:850
 msgid "Return"
-msgstr ""
+msgstr "返回"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:850
 msgid "Space"
-msgstr ""
+msgstr "空间"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:851
 msgid "greater"
-msgstr ""
+msgstr "更大的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:851
 msgid "less"
-msgstr ""
+msgstr "少"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:851
 msgid "parenleft"
-msgstr ""
+msgstr "parenleft"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:851
 msgid "parenright"
-msgstr ""
+msgstr "parenright"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:851
 msgid "percent"
-msgstr ""
+msgstr "百分比"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:852
 msgid "Period"
-msgstr ""
+msgstr "期"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:852
 msgid "Question"
-msgstr ""
+msgstr "问题"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:852
 msgid "Slash"
-msgstr ""
+msgstr "削减"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:852
 msgid "numbersign"
-msgstr ""
+msgstr "numbersign"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:852
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:855
 msgid "underscore"
-msgstr ""
+msgstr "强调"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:853
 msgid "at"
-msgstr ""
+msgstr "在"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:853
 msgid "backquote"
-msgstr ""
+msgstr "backquote"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:853
 msgid "dollar"
-msgstr ""
+msgstr "美元"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:853
 msgid "exclam"
-msgstr ""
+msgstr "exclam"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:853
 msgid "tilde"
-msgstr ""
+msgstr "波浪线"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:854
 msgid "ampersand"
-msgstr ""
+msgstr "&"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:854
 msgid "asciicircum"
-msgstr ""
+msgstr "asciicircum"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:854
 msgid "asterisk"
-msgstr ""
+msgstr "星号"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:854
 msgid "minus"
-msgstr ""
+msgstr "减去"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:855
 msgid "braceleft"
-msgstr ""
+msgstr "braceleft"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:855
 msgid "braceright"
-msgstr ""
+msgstr "braceright"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:855
 msgid "equal"
-msgstr ""
+msgstr "平等的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:855
 msgid "plus"
-msgstr ""
+msgstr "再加上"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:856
 msgid "bracketleft"
-msgstr ""
+msgstr "bracketleft"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:856
 msgid "bracketright"
-msgstr ""
+msgstr "bracketright"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:856
 msgid "colon"
-msgstr ""
+msgstr "结肠"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:856
 msgid "semicolon"
-msgstr ""
+msgstr "分号"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:857
 msgid "apostrophe"
-msgstr ""
+msgstr "撇号"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:857
 msgid "backslash"
-msgstr ""
+msgstr "反斜杠"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:857
 msgid "bar"
-msgstr ""
+msgstr "酒吧"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:857
 msgid "quotedbl"
-msgstr ""
+msgstr "quotedbl"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:858
 msgid "Browse"
-msgstr ""
+msgstr "浏览"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:858
 msgid "Replace"
-msgstr ""
+msgstr "取代"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:858
 msgid "Visual"
-msgstr ""
+msgstr "视觉"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:900
 msgid "Could not read key map file"
-msgstr ""
+msgstr "无法读取键映射文件吗"
 
 #: /Users/sdeibel/src/ide/src/guiutils/keyboard.py:901
 msgid "The key map file '%s' could not be found or is not readable."
@@ -601,7 +601,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:73
 msgid "No Trash Found"
-msgstr ""
+msgstr "没有发现垃圾"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:74
 msgid ""
@@ -613,12 +613,12 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:85
 msgid "Use Fallback"
-msgstr ""
+msgstr "使用回退"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:86
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2136
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:137
 msgid "%s: Failed; err=%i"
@@ -626,7 +626,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:140
 msgid "Could not Move to Recycling Bin"
-msgstr ""
+msgstr "不能移动到回收站吗"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:141
 msgid ""
@@ -636,7 +636,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:144
 msgid "Could not Move to Trash"
-msgstr ""
+msgstr "不能移动到垃圾吗"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:145
 msgid ""
@@ -646,23 +646,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:163
 msgid "Moving to Recycling Bin"
-msgstr ""
+msgstr "移动到回收站"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:164
 msgid "Moving files to the recycling bin.  Please wait."
-msgstr ""
+msgstr "将文件移动到回收站。请稍等。"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:166
 msgid "Moving to Trash"
-msgstr ""
+msgstr "搬到垃圾"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:167
 msgid "Moving files to the trash.  Please wait."
-msgstr ""
+msgstr "将文件移动到垃圾。请稍等。"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:172
 msgid "Please wait"
-msgstr ""
+msgstr "请稍等"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:206
 msgid ""
@@ -673,7 +673,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:292
 msgid "Failed to move to trash"
-msgstr ""
+msgstr "未能搬到垃圾"
 
 #: /Users/sdeibel/src/ide/src/guiutils/trash.py:304
 msgid "Failed to write info file %s"
@@ -681,28 +681,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/wgtk_gtk.py:394
 msgid "Message Box"
-msgstr ""
+msgstr "消息框"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:806
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:901
 msgid "Browse..."
-msgstr ""
+msgstr "...浏览"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:938
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1293
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:1068
 msgid "Select directory to use"
-msgstr ""
+msgstr "选择要使用的目录"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:942
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1297
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:1071
 msgid "Select file to use"
-msgstr ""
+msgstr "选择要使用的文件"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1301
 msgid "Select file"
-msgstr ""
+msgstr "选择文件"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1444
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:2718
@@ -716,49 +716,49 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:1883
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:1978
 msgid "Change..."
-msgstr ""
+msgstr "...汇率"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1709
 msgid "Select Font"
-msgstr ""
+msgstr "选择字体"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1891
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:2151
 msgid "Select Color"
-msgstr ""
+msgstr "选择颜色"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1931
 msgid "Black"
-msgstr ""
+msgstr "黑色的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1932
 msgid "White"
-msgstr ""
+msgstr "白色的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1933
 msgid "Red"
-msgstr ""
+msgstr "红色的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1934
 msgid "Blue"
-msgstr ""
+msgstr "蓝色的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1935
 msgid "Green"
-msgstr ""
+msgstr "绿色"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1936
 msgid "Purple"
-msgstr ""
+msgstr "紫色的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:1937
 msgid "Yellow"
-msgstr ""
+msgstr "黄色的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:2026
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2301
 msgid "Default"
-msgstr ""
+msgstr "默认的"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:2059
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2304
@@ -768,7 +768,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:2061
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2306
 msgid "Custom..."
-msgstr ""
+msgstr "自定义…"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_gtk.py:2756
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:3125
@@ -781,24 +781,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2084
 msgid "Wing Icons"
-msgstr ""
+msgstr "翼的图标"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2088
 msgid "Stock Icons"
-msgstr ""
+msgstr "股票的图标"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2095
 msgid "Select Icon File"
-msgstr ""
+msgstr "选择图标文件"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2101
 msgid "Choose File"
-msgstr ""
+msgstr "选择文件"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2135
 msgid "Use Selected Icon"
-msgstr ""
+msgstr "使用选中的图标"
 
 #: /Users/sdeibel/src/ide/src/guiutils/widgets_qt4.py:2138
 msgid "Choose Icon"
-msgstr ""
+msgstr "选择图标"

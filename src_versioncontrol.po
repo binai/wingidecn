@@ -17,19 +17,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/attribs.py:25
 msgid "List of recent locations"
-msgstr ""
+msgstr "列出最近的位置"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/attribs.py:30
 msgid "Whether to display unregistered files in status displays"
-msgstr ""
+msgstr "是否显示在状态显示未注册文件"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:44
 msgid "BZR"
-msgstr ""
+msgstr "BZR"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:45
 msgid "Bazaar"
-msgstr ""
+msgstr "集市"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:60
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:67
@@ -39,27 +39,27 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:62
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1823
 msgid "Project Status"
-msgstr ""
+msgstr "项目状态"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:63
 msgid "Commit Project"
-msgstr ""
+msgstr "提交项目"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:65
 msgid "Merge Entire Branch"
-msgstr ""
+msgstr "合并所有分支"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:66
 msgid "Push Entire Branch"
-msgstr ""
+msgstr "推动整个分支"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:68
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:69
 msgid "Remove"
-msgstr ""
+msgstr "删除"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:71
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:80
@@ -68,29 +68,29 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:198
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:90
 msgid "Configure..."
-msgstr ""
+msgstr "...起见"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:346
 msgid "Merge entire branch"
-msgstr ""
+msgstr "合并所有分支"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:347
 msgid "Merge from"
-msgstr ""
+msgstr "合并的"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:348
 msgid "Merge"
-msgstr ""
+msgstr "合并"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:358
 msgid "Push entire branch"
-msgstr ""
+msgstr "推动整个分支"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:359
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:669
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:409
 msgid "Push to"
-msgstr ""
+msgstr "推动"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:360
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:670
@@ -103,47 +103,47 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:170
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:67
 msgid "Extra arguments to pass to every command."
-msgstr ""
+msgstr "额外的参数传递给每一个命令。"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:95
 msgid "CVS Update"
-msgstr ""
+msgstr "CVS更新"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:96
 msgid "CVS"
-msgstr ""
+msgstr "CVS"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:107
 msgid "CVS Executable"
-msgstr ""
+msgstr "CVS可执行"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:108
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:95
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:146
 msgid "Extra global arguments"
-msgstr ""
+msgstr "额外的全局参数"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:928
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:826
 msgid "Checkout working copy"
-msgstr ""
+msgstr "结账工作副本"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:929
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:827
 msgid "Checkout"
-msgstr ""
+msgstr "结帐"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:930
 msgid "Module"
-msgstr ""
+msgstr "模块"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:947
 msgid "Missing module"
-msgstr ""
+msgstr "失踪的模块"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_cvs.py:947
 msgid "The module name must be specified"
-msgstr ""
+msgstr "模块名称必须被指定"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:61
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:69
@@ -185,23 +185,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:83
 msgid "Git"
-msgstr ""
+msgstr "Git"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:527
 msgid "Failed to run git command"
-msgstr ""
+msgstr "未能运行git命令"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:528
 msgid "Could not find git working directory"
-msgstr ""
+msgstr "找不到git目录工作吗"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:603
 msgid "Pull from repository"
-msgstr ""
+msgstr "从仓库拉"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:604
 msgid "Pull from"
-msgstr ""
+msgstr "把从"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:605
 msgid "_Pull"
@@ -211,12 +211,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:639
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:676
 msgid "Branch name"
-msgstr ""
+msgstr "分支机构名称"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:638
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2085
 msgid "Working directory"
-msgstr ""
+msgstr "工作目录"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:641
 msgid "_Switch Branch"
@@ -225,23 +225,23 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:652
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2108
 msgid "Missing locations"
-msgstr ""
+msgstr "失踪的地点"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:653
 msgid "Both the working directory and the branch must be specified"
-msgstr ""
+msgstr "工作目录和分支机构必须被指定"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:668
 msgid "Push branch to repository"
-msgstr ""
+msgstr "推动部门存储库"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:701
 msgid "Fetch changes from repository"
-msgstr ""
+msgstr "从存储库获取更改"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:702
 msgid "Fetch from"
-msgstr ""
+msgstr "获取从"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_git.py:703
 msgid "_Fetch"
@@ -250,7 +250,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:42
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:43
 msgid "Mercurial"
-msgstr ""
+msgstr "反复无常的"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:70
 msgid "_Commit Project"
@@ -278,28 +278,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:384
 msgid "Pull All Changes"
-msgstr ""
+msgstr "把所有更改"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:385
 msgid "Pull From"
-msgstr ""
+msgstr "把从"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:386
 msgid "Pull"
-msgstr ""
+msgstr "拉"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:391
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:408
 msgid "Push all changes"
-msgstr ""
+msgstr "将所有更改"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:470
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_hg.py:481
 msgid "Cannot find single hg working directory root"
-msgstr ""
+msgstr "找不到单一汞工作目录的根"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:176
 msgid ""
@@ -309,55 +309,55 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:321
 msgid "Perforce Sync"
-msgstr ""
+msgstr "必须同步"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:322
 msgid "Perforce"
-msgstr ""
+msgstr "必然地"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:333
 msgid "Perforce Executable"
-msgstr ""
+msgstr "必须执行的"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:334
 msgid "Extra Global Arguments"
-msgstr ""
+msgstr "额外的全局参数"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_perforce.py:335
 msgid "Don't Find Unregistered Files"
-msgstr ""
+msgstr "没有找到未注册文件"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:62
 msgid "Executable command to run svn"
-msgstr ""
+msgstr "可执行命令来运行svn"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:132
 msgid "SVN Update"
-msgstr ""
+msgstr "SVN更新"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:133
 msgid "SVN"
-msgstr ""
+msgstr "SVN"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:144
 msgid "SVN Executable"
-msgstr ""
+msgstr "SVN可执行"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_svn.py:145
 msgid "SVN Admin Executable"
-msgstr ""
+msgstr "SVN管理员可执行"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/manager.py:460
 msgid "Tools"
-msgstr ""
+msgstr "工具"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/manager.py:460
 msgid "Window"
-msgstr ""
+msgstr "窗口"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/manager.py:461
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/manager.py:499
 msgid "Auto-update %s Status"
@@ -376,15 +376,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/manager.py:743
 msgid "OK"
-msgstr ""
+msgstr "好吧"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/prefs.py:28
 msgid "Enable the integrated version control system."
-msgstr ""
+msgstr "启用版本控制系统集成。"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/prefs.py:34
 msgid "Save without prompting before running version control commands."
-msgstr ""
+msgstr "没有任何提示的情况下保存之前运行版本控制命令。"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/prefs.py:40
 msgid ""
@@ -409,19 +409,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/prefs.py:68
 msgid "Always Active"
-msgstr ""
+msgstr "总是积极"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/prefs.py:69
 msgid "Active if used by project directories"
-msgstr ""
+msgstr "活动如果使用的项目目录"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/prefs.py:70
 msgid "Not active"
-msgstr ""
+msgstr "不活跃的"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/prefs.py:84
 msgid "Active"
-msgstr ""
+msgstr "活跃的"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/repository.py:116
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:569
@@ -445,11 +445,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/repository.py:277
 msgid "History of remote locations"
-msgstr ""
+msgstr "偏远地区的历史"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/repository.py:468
 msgid "Cannot commit because the commit message is empty"
-msgstr ""
+msgstr "无法提交,因为提交消息是空的"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:223
 msgid "Save without _prompting"
@@ -457,7 +457,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:285
 msgid "Discard Changes in Files?"
-msgstr ""
+msgstr "丢弃的变化文件?"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:288
 msgid ""
@@ -467,7 +467,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:314
 msgid "Remove Files?"
-msgstr ""
+msgstr "删除文件?"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:318
 msgid ""
@@ -488,7 +488,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:422
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:882
 msgid "Run Again"
-msgstr ""
+msgstr "再次运行"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:534
 msgid "Failed to run: %s</span>"
@@ -498,15 +498,15 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:881
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1316
 msgid "Goto Source"
-msgstr ""
+msgstr "转到源"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:599
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:600
 msgid "Select All"
-msgstr ""
+msgstr "选择所有"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:662
 msgid "C_onsole"
@@ -522,33 +522,33 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1036
 msgid "Failed to find source"
-msgstr ""
+msgstr "没有找到来源"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1037
 msgid "Failed to find filename in diff output"
-msgstr ""
+msgstr "没有找到在diff输出文件名"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1306
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2206
 msgid "Hide Unregistered"
-msgstr ""
+msgstr "隐藏未注册"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1309
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2202
 msgid "Show Unregistered"
-msgstr ""
+msgstr "显示未注册"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1311
 msgid "View as List"
-msgstr ""
+msgstr "认为列表"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1313
 msgid "View as Tree"
-msgstr ""
+msgstr "认为树"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1478
 msgid "No modified files"
-msgstr ""
+msgstr "没有修改的文件"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1717
 msgid "No %s files in project"
@@ -561,7 +561,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1753
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1779
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1782
 msgid "Auto-update"
@@ -569,11 +569,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1794
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1839
 msgid "Running status"
-msgstr ""
+msgstr "运行状态"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1870
 msgid "_Message"
@@ -593,24 +593,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1935
 msgid "Nothing to commit"
-msgstr ""
+msgstr "没有提交"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1954
 msgid "Committing"
-msgstr ""
+msgstr "提交"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1960
 msgid "Commit succeeded"
-msgstr ""
+msgstr "提交成功了"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1963
 msgid "Commit failed"
-msgstr ""
+msgstr "提交失败"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2007
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2010
 msgid "Command completed:  Output displayed in scratch editor."
-msgstr ""
+msgstr "1997年10 displayed输出:联防队拉丁摇滚乐in。"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2062
 msgid "_Locations"
@@ -618,11 +618,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2084
 msgid "Repository"
-msgstr ""
+msgstr "存储库"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2109
 msgid "Both the repository and the working directory must be specified"
-msgstr ""
+msgstr "库和工作目录必须被指定"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2183
 msgid "Configure %s"
@@ -630,20 +630,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2184
 msgid "Display Documentation"
-msgstr ""
+msgstr "显示文档"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2189
 msgid "Show Scope"
-msgstr ""
+msgstr "显示范围"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2191
 msgid "Hide Scope"
-msgstr ""
+msgstr "隐藏的范围"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2194
 msgid "Show Console"
-msgstr ""
+msgstr "显示控制台"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2196
 msgid "Hide Console"
-msgstr ""
+msgstr "隐藏控制台"

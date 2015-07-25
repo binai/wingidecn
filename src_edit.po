@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2003-07-10 12:23GMT\n"
+"PO-Revision-Date: 2015-07-21 22:31+0800\n"
 "Last-Translator: 小雨<rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,40 +14,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.4\n"
-"X-Generator: KBabel 0.9.5\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/edit/attribmenus.py:288
 msgid "(top)"
-msgstr ""
+msgstr "(最上)"
 
 #: /Users/sdeibel/src/ide/src/edit/attribmenus.py:290
 msgid "Not all symbols displayed"
-msgstr ""
+msgstr "不显示所有符号"
 
 #: /Users/sdeibel/src/ide/src/edit/attribmenus.py:292
 msgid "(bottom)"
-msgstr ""
+msgstr "(最下)"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:41
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:54
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:67
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:104
 msgid "Use Preference Setting"
-msgstr ""
+msgstr "使用偏好设置"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:42
 msgid "Always Show White Space"
-msgstr ""
+msgstr "总是显示空白"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:47
 msgid ""
 "Whether to show white space on this file:  Either refer to the preference, "
 "or override the preference to force showing white white space for this file"
-msgstr ""
+msgstr "这个文件是否显示空白:指偏好,或覆盖的偏好强制显示白色空白文件"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:55
 msgid "Always Show EOL Characters"
-msgstr ""
+msgstr "总是显示EOL字符"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:60
 msgid ""
@@ -55,32 +55,33 @@ msgid ""
 "preference, or override the preference to force showing end of line "
 "characters for this file"
 msgstr ""
+"这个文件是否显示EOL字符:指偏好,或覆盖的偏好,迫使为这个文件显示行结束字符"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:68
 msgid "Always Show Indent Guides"
-msgstr ""
+msgstr "总是显示缩进向导"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:73
 msgid ""
 "Whether to show indent guides on this file:  Either refer to the preference, "
 "or override the preference to force showing indent guides for this file"
-msgstr ""
+msgstr "这个文件是否显示缩进指南:指偏好,或覆盖的偏好强制显示缩进指导文件"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:80
 msgid "Match Existing Indents"
-msgstr ""
+msgstr "与现有的缩进"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:81
 msgid "Use Spaces Only"
-msgstr ""
+msgstr "只使用空格"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:82
 msgid "Use Tabs Only"
-msgstr ""
+msgstr "只使用Tabs"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:83
 msgid "Use Mixed Tabs and Spaces"
-msgstr ""
+msgstr "混合使用制表符和空格"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:88
 msgid ""
@@ -89,18 +90,20 @@ msgid ""
 "Python files.  Use the indentation tool to convert or repair inconsistent "
 "indents."
 msgstr ""
+"定义了缩进风格在这个文件中使用新缩进。当设置,这忽略了类型的任何现有的缩进。"
+"Python文件这个属性是禁用的。使用缩进工具来转换或修复不一致的缩进。"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:98
 msgid "Defines named bookmarks set within the current project."
-msgstr ""
+msgstr "在当前项目中定义书签命名组。"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:105
 msgid "Always Ensure File Ends With an EOL"
-msgstr ""
+msgstr "总是确保文件以一个终点"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:106
 msgid "Never Ensure File Ends With an EOL"
-msgstr ""
+msgstr "从来没有确保文件以一个终点"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:111
 msgid ""

@@ -34,11 +34,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:156
 msgid "Select code to refactor in the editor and then use the Refactor menu"
-msgstr ""
+msgstr "在编辑器中选择代码重构,然后使用重构菜单"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:168
 msgid "Show Refactoring Documentation"
-msgstr ""
+msgstr "重构显示文档"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:415
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:657
@@ -72,14 +72,14 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:987
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1149
 msgid "Revert all changes?"
-msgstr ""
+msgstr "恢复所有更改吗?"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:470
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:712
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:988
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1150
 msgid "Other changes were made to files.  Revert them all?"
-msgstr ""
+msgstr "其他更改了文件。恢复?"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:525
 msgid "line %s"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:559
 msgid "Extract function / method"
-msgstr ""
+msgstr "提取函数/方法"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:761
 msgid "Introducing Variable for: %s"
@@ -103,39 +103,39 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:767
 msgid "Introduce Variable"
-msgstr ""
+msgstr "引入变量"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:861
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:863
 msgid "Show Possible Uses"
-msgstr ""
+msgstr "显示可能的使用"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:865
 msgid "Show Unlikely Uses"
-msgstr ""
+msgstr "显示不使用"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:871
 msgid "Search Project Files"
-msgstr ""
+msgstr "搜索项目文件"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:873
 msgid "Search for uses in all Python files in the project"
-msgstr ""
+msgstr "在所有Python文件搜索使用项目"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:877
 msgid "Search Original File"
-msgstr ""
+msgstr "搜索原始文件"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:879
 msgid "Search for uses in the file where the symbol was selected"
-msgstr ""
+msgstr "搜索文件中使用的符号被选中"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:894
 msgid "Searching..."
-msgstr ""
+msgstr "搜索…"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:939
 msgid "New _Name: "
@@ -147,12 +147,12 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:945
 msgid "Revert"
-msgstr ""
+msgstr "回复"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:968
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:981
 msgid "Rename in progress"
-msgstr ""
+msgstr "重命名在进步"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:969
 msgid "Renaming %s to %s"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1023
 msgid "Rename "
-msgstr ""
+msgstr "重命名"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1029
 msgid "<module global scope>"
@@ -172,11 +172,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1040
 msgid "Destination"
-msgstr ""
+msgstr "目的地"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1050
 msgid "Destination File"
-msgstr ""
+msgstr "目标文件"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1052
 msgid "_File: "
@@ -193,7 +193,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1110
 #: /Users/sdeibel/src/ide/src/refactoring/utils.py:149
 msgid " in "
-msgstr ""
+msgstr "在"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1114
 msgid "moving %s to %s"
@@ -202,24 +202,24 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1133
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1143
 msgid "Move in progress"
-msgstr ""
+msgstr "移动过程中"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1142
 msgid "Reverting "
-msgstr ""
+msgstr "恢复"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1198
 msgid "Move "
-msgstr ""
+msgstr "移动"
 
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1235
 #: /Users/sdeibel/src/ide/src/refactoring/cap_refactorgui.py:1240
 msgid "Refactoring"
-msgstr ""
+msgstr "重构"
 
 #: /Users/sdeibel/src/ide/src/refactoring/operations.py:142
 msgid "Can't introduce variable because original expression is not valid"
-msgstr ""
+msgstr "不能引入变量,因为原始表达式是无效的"
 
 #: /Users/sdeibel/src/ide/src/refactoring/utils.py:112
 msgid "module %s"
@@ -239,4 +239,4 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/refactoring/utils.py:147
 msgid "module "
-msgstr ""
+msgstr "模块"

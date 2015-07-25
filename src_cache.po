@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
+"PO-Revision-Date: 2015-07-21 21:50+0800\n"
 "Last-Translator: 小雨 <rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,11 +14,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.4\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/cache/textcache.py:418
 msgid "Codec not found"
-msgstr ""
+msgstr "没有找到代码"
 
 #: /Users/sdeibel/src/ide/src/cache/textcache.py:419
 msgid ""
@@ -28,7 +28,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/cache/textcache.py:432
 msgid "Could not convert from encoding"
-msgstr ""
+msgstr "从编码不能转换"
 
 #: /Users/sdeibel/src/ide/src/cache/textcache.py:433
 msgid ""
@@ -55,7 +55,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/cache/textcache.py:670
 msgid "General write error"
-msgstr ""
+msgstr "一般写错误"
 
 #: /Users/sdeibel/src/ide/src/cache/textcache.py:816
 msgid "Encoding of %s changed to %s"

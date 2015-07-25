@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
+"PO-Revision-Date: 2015-07-21 21:37+0800\n"
 "Last-Translator: 小雨 <rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/build-files/staticcaps.py:75
 msgid "101"
@@ -203,12 +203,12 @@ msgstr "Wing IDE %s 帮助"
 
 #: /Users/sdeibel/src/ide/build-files/wingide.py:4632
 msgid "Wing IDE for Steam - Non-Commercial Use"
-msgstr ""
+msgstr "Wing IDE非商业团队使用"
 
 #: /Users/sdeibel/src/ide/build-files/wingide.py:4633
 msgid "Wing IDE for Steam - 30-Day Trial"
-msgstr ""
+msgstr "Wing IDE 团队30天试用版"
 
 #: /Users/sdeibel/src/ide/build-files/wingide.py:4634
 msgid "Wing IDE for Steam - Commercial Use"
-msgstr ""
+msgstr "Wing IDE商业团队使用"

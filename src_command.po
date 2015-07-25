@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
+"PO-Revision-Date: 2015-07-21 21:50+0800\n"
 "Last-Translator: Rains <rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.4\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/command/argentry.py:149
 msgid "Cannot execute %s: incorrect value for %s"
@@ -38,15 +38,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:393
 msgid "Command name is not a string"
-msgstr ""
+msgstr "命令名不是一个字符串"
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:396
 msgid "Command doc is not a None, string, or callable"
-msgstr ""
+msgstr "命令医生不是没有,字符串,或可调用的"
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:400
 msgid "Command label is not a string or callable"
-msgstr ""
+msgstr "不是一个字符串或调用命令标签"
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:476
 msgid "%sarginfo not dict or callable.  Using short string args."
@@ -98,8 +98,7 @@ msgid "Callable %s.arginfo raised an exception"
 msgstr ""
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:910
-msgid ""
-"Callable %s.arginfo returned invalid arginfo; treating args as short string"
+msgid "Callable %s.arginfo returned invalid arginfo; treating args as short string"
 msgstr ""
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:931
@@ -119,8 +118,7 @@ msgid "Callable %s.label failed; using label derived from command name"
 msgstr ""
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:991
-msgid ""
-"Callable %s.label returned non-string; using label derived from command name"
+msgid "Callable %s.label returned non-string; using label derived from command name"
 msgstr ""
 
 #: /Users/sdeibel/src/ide/src/command/commandmgr.py:1019

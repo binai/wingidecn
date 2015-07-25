@@ -17,31 +17,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/adaptors.py:72
 msgid "Unittest"
-msgstr ""
+msgstr "Unittest"
 
 #: /Users/sdeibel/src/ide/src/testing/adaptors.py:82
 msgid "Nose"
-msgstr ""
+msgstr "鼻子"
 
 #: /Users/sdeibel/src/ide/src/testing/adaptors.py:110
 msgid "Doctest"
-msgstr ""
+msgstr "Doctest"
 
 #: /Users/sdeibel/src/ide/src/testing/adaptors.py:138
 msgid "Django Tests"
-msgstr ""
+msgstr "Django测试"
 
 #: /Users/sdeibel/src/ide/src/testing/attribs.py:25
 msgid "List of test files"
-msgstr ""
+msgstr "测试文件列表"
 
 #: /Users/sdeibel/src/ide/src/testing/attribs.py:30
 msgid "Glob / Wild Card"
-msgstr ""
+msgstr "水珠/外卡"
 
 #: /Users/sdeibel/src/ide/src/testing/attribs.py:31
 msgid "Regexp"
-msgstr ""
+msgstr "正则表达式"
 
 #: /Users/sdeibel/src/ide/src/testing/attribs.py:35
 msgid ""
@@ -59,7 +59,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/attribs.py:50
 msgid "Name of the unit testing framework"
-msgstr ""
+msgstr "单元测试框架的名称"
 
 #: /Users/sdeibel/src/ide/src/testing/attribs.py:62
 msgid ""
@@ -91,7 +91,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:480
 msgid "Name"
-msgstr ""
+msgstr "的名字"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:614
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1100
@@ -104,80 +104,80 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:642
 msgid "Filter: "
-msgstr ""
+msgstr "过滤器:"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:704
 msgid "Succeeded"
-msgstr ""
+msgstr "成功"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:706
 msgid "Failed"
-msgstr ""
+msgstr "失败的"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:708
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:710
 msgid "Syntax Error"
-msgstr ""
+msgstr "语法错误"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:712
 msgid "Running"
-msgstr ""
+msgstr "运行"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:743
 msgid "No tests to run"
-msgstr ""
+msgstr "没有测试运行"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:810
 msgid "Clear All Test Results?"
-msgstr ""
+msgstr "清除所有测试结果吗?"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:811
 msgid "Are you sure you want to clear all the stored test results?"
-msgstr ""
+msgstr "你确定要清除所有存储测试结果吗?"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:812
 msgid "Clear All"
-msgstr ""
+msgstr "清除所有"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:813
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:858
 msgid "Remove File"
-msgstr ""
+msgstr "删除文件"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:858
 msgid "Remove Files"
-msgstr ""
+msgstr "删除文件"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:866
 msgid "Sort Tests Alphabetically"
-msgstr ""
+msgstr "按字母顺序排序测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:871
 msgid "Sort Tests by Source Order"
-msgstr ""
+msgstr "源测试的顺序排序"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:876
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:883
 msgid "Goto Source"
-msgstr ""
+msgstr "转到源"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:877
 msgid "Run Test"
-msgstr ""
+msgstr "运行测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:878
 msgid "Debug Test"
-msgstr ""
+msgstr "调试测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:879
 msgid "Run All Tests"
-msgstr ""
+msgstr "运行所有测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:880
 msgid "Clear All Results"
@@ -185,51 +185,51 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:884
 msgid "Abort Tests"
-msgstr ""
+msgstr "终止测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:889
 msgid "Expand All Failed Tests"
-msgstr ""
+msgstr "扩展所有失败的测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:890
 msgid "Collapse All Tests"
-msgstr ""
+msgstr "崩溃,所有的测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:893
 msgid "Add Files from Project..."
-msgstr ""
+msgstr "从项目添加文件…"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:894
 msgid "Add Single File..."
-msgstr ""
+msgstr "Add . ...牵头单人房"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:897
 msgid "File Properties..."
-msgstr ""
+msgstr "...领导化学特性"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:899
 msgid "Show Testing Documentation"
-msgstr ""
+msgstr "显示测试文档"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:902
 msgid "Select All"
-msgstr ""
+msgstr "选择所有"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:909
 msgid "Copy Selected Text"
-msgstr ""
+msgstr "复制选中的文本"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:913
 msgid "Copy Failure Summary"
-msgstr ""
+msgstr "复制失败的总结"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:917
 msgid "Copy All Results"
-msgstr ""
+msgstr "复制所有的结果"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1070
 msgid "Completed tests"
-msgstr ""
+msgstr "完成测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1097
 msgid "_Abort Tests"
@@ -237,46 +237,46 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1112
 msgid "Abort Debug"
-msgstr ""
+msgstr "中止调试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1115
 msgid "Debug Tests"
-msgstr ""
+msgstr "调试测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1228
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1236
 msgid "Testing"
-msgstr ""
+msgstr "测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:1241
 msgid "Unit Tests"
-msgstr ""
+msgstr "单元测试"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:34
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:49
 msgid "Test file patterns"
-msgstr ""
+msgstr "测试文件模式"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:38
 msgid "Pattern Type"
-msgstr ""
+msgstr "模式类型"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:39
 msgid "Pattern"
-msgstr ""
+msgstr "模式"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:56
 msgid "Default Test Framework"
-msgstr ""
+msgstr "默认的测试框架"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:64
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:115
 msgid "Environment"
-msgstr ""
+msgstr "环境"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:70
 msgid "Process Model"
-msgstr ""
+msgstr "流程模型"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:74
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:121
@@ -289,11 +289,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:90
 msgid "Test Framework"
-msgstr ""
+msgstr "测试框架"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:100
 msgid "Use Project Setting and Run Args:"
-msgstr ""
+msgstr "使用项目设置和运行参数:"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:101
 msgid ""
@@ -303,11 +303,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:103
 msgid "Use Selected Launch Configuration:"
-msgstr ""
+msgstr "使用选中的启动配置:"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:104
 msgid "Select a custom launch configuration for testing this file"
-msgstr ""
+msgstr "选择一个自定义的启动配置这个文件进行测试"
 
 #: /Users/sdeibel/src/ide/src/testing/proppanels.py:107
 msgid ""
@@ -322,7 +322,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/testing/runtests.py:447
 msgid "Could not start debug process"
-msgstr ""
+msgstr "无法启动调试过程"
 
 #: /Users/sdeibel/src/ide/src/testing/runtests.py:475
 msgid "Finished tests: %s"

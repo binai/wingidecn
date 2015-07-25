@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
+"PO-Revision-Date: 2015-07-21 22:30+0800\n"
 "Last-Translator: 小雨 <rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:1
 msgid ""
@@ -44,7 +44,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:53
 msgid "Perform cvs update on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行cvs更新"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:66
 msgid "CVS _Update"
@@ -73,7 +73,7 @@ msgstr "CVS 比较(_D)"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:91
 msgid "Perform cvs diff on the given files or directories"
-msgstr ""
+msgstr "对给定的执行cvs diff文件或目录"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:97
 msgid "Perform cvs diff -u on the given files or directories"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:142
 msgid "Perform cvs log on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行cvs日志"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:146
 msgid "CVS _Log"
@@ -103,7 +103,7 @@ msgstr "CVS 日志(_L)"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:152
 msgid "Perform cvs status on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行cvs状态"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:156
 msgid "CVS _Status"
@@ -111,7 +111,7 @@ msgstr "CVS 状态(_S)"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:160
 msgid "Perform cvs commit on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行cvs提交"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:165
 #: /Users/sdeibel/src/ide/scripts/cvs.py:182
@@ -120,7 +120,7 @@ msgstr "CVS 提交(_C)"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:167
 msgid "Log message to attach to this revision"
-msgstr ""
+msgstr "日志消息将修订"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:172
 msgid ""
@@ -130,7 +130,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:186
 msgid "Perform cvs add on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行cvs添加"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:199
 msgid "CVS _Add"
@@ -210,7 +210,7 @@ msgstr "确认"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:331
 msgid "Perform given cvs operation on the given files or directories"
-msgstr ""
+msgstr "对给定的文件或目录执行给定的cvs操作"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:366
 msgid ""
@@ -236,7 +236,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:489
 msgid "Manage multiple pending CVS commands for single status display"
-msgstr ""
+msgstr "管理多个悬而未决的CVS命令单状态显示"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:539
 msgid "CVS %s Result"
@@ -387,7 +387,7 @@ msgstr "客户端选项："
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:850
 msgid "Create and return the form pages to use"
-msgstr ""
+msgstr "创建并返回表单页面使用"
 
 #: /Users/sdeibel/src/ide/scripts/cvs.py:852
 #, fuzzy

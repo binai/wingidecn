@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2003-07-10 12:22GMT\n"
+"PO-Revision-Date: 2015-07-21 21:48+0800\n"
 "Last-Translator: 小雨<rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -14,171 +14,171 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.4\n"
-"X-Generator: KBabel 0.9.5\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:79
 msgid "101"
-msgstr ""
+msgstr "101"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:80
 msgid "Personal"
-msgstr ""
+msgstr "个人版"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:81
 msgid "Professional"
-msgstr ""
+msgstr "专业版"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:82
 msgid "Enterprise"
-msgstr ""
+msgstr "企业版"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:111
 msgid "Advanced indentation analysis and translation"
-msgstr ""
+msgstr "高级缩进分析和翻译"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:112
 msgid "Folding in the source code editor"
-msgstr ""
+msgstr "代码折叠"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:113
 msgid "Recent menus"
-msgstr ""
+msgstr "最近菜单"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:114
 msgid "Attach/detach to debug processes"
-msgstr ""
+msgstr "绑定/解绑调试进程"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:115
 msgid "Expression and value watching for debugger"
-msgstr ""
+msgstr "表达式/值 监视器"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:116
 msgid "Interactive debug probe tool"
-msgstr ""
+msgstr "交互式调试工具"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:117
 msgid "Debug externally launched processes"
-msgstr ""
+msgstr "调试外部进程"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:118
 msgid "Advance exception handling modes"
-msgstr ""
+msgstr "高级异常处理模式"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:119
 msgid "Module-oriented debug data view"
-msgstr ""
+msgstr "面向模块的调试数据视图"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:120
 msgid "Shared projects for use in revision control"
-msgstr ""
+msgstr "共享项目用版本管理"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:121
 msgid "Advanced breakpoints for debugger"
-msgstr ""
+msgstr "高级断点调试"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:122
 msgid "Debugger breakpoint manager"
-msgstr ""
+msgstr "调试断点管理"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:123
 msgid "Source code browser"
-msgstr ""
+msgstr "源码浏览器"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:124
 msgid "Source assistant"
-msgstr ""
+msgstr "源码助手"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:125
 msgid "Scripting support"
-msgstr ""
+msgstr "脚本支持"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:126
 msgid "Keyboard and command macro support"
-msgstr ""
+msgstr "键盘与命令宏"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:127
 msgid "User-defined named bookmarks"
-msgstr ""
+msgstr "用户定义书签"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:128
 msgid "Autocompletion"
-msgstr ""
+msgstr "自动完成"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:129
 msgid "Projects"
-msgstr ""
+msgstr "项目"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:130
 msgid "Wildcard and regular expression search"
-msgstr ""
+msgstr "模糊匹配正则搜索"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:131
 msgid "Batch search"
-msgstr ""
+msgstr "批量搜索"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:132
 msgid "Disk search"
-msgstr ""
+msgstr "磁盘搜索"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:133
 msgid "Multi-window GUI support"
-msgstr ""
+msgstr "多窗口图形界面支持"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:134
 msgid "Messages view"
-msgstr ""
+msgstr "消息视图"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:135
 msgid "Unit testing tool"
-msgstr ""
+msgstr "单元测试工具"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:136
 msgid "Support for running external processes in a console"
-msgstr ""
+msgstr "支持在控制台运行外部进程"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:137
 msgid "Code snippets"
-msgstr ""
+msgstr "代码片段"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:138
 msgid "Version control"
-msgstr ""
+msgstr "版本管理"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:139
 msgid "Perspectives"
-msgstr ""
+msgstr "视图"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:140
 msgid "Difference and merge tool"
-msgstr ""
+msgstr "比较和合并工具"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:141
 msgid "Code warnings"
-msgstr ""
+msgstr "代码警告"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:142
 msgid "Auto-editing"
-msgstr ""
+msgstr "自动编辑"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:143
 msgid "Named file sets"
-msgstr ""
+msgstr "命名的文件集"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:144
 msgid "Launch Configurations"
-msgstr ""
+msgstr "加载配置"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:146
 msgid "Generic support specific to Wing IDE 101"
-msgstr ""
+msgstr "Wing IDE 101 支持详情"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:147
 msgid "Generic support specific to Wing IDE Personal"
-msgstr ""
+msgstr "Wing IDE 个人版支持详情"
 
 #: /Users/sdeibel/src/ide/src/capabilities.py:148
 msgid "Generic support specific to Wing IDE Professional"
-msgstr ""
+msgstr "Wing IDE 专业版支持详情"
 
 #: /Users/sdeibel/src/ide/src/config.py:293
 msgid ""
@@ -311,7 +311,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/main.py:86
 msgid "Exit"
-msgstr ""
+msgstr "退出"
 
 #: /Users/sdeibel/src/ide/src/main.py:92
 msgid "Could not create or access user settings directory "
@@ -347,7 +347,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:27
 msgid "System Default"
-msgstr ""
+msgstr "系统默认"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:36
 msgid ""
@@ -378,7 +378,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:74
 msgid "File Extension"
-msgstr ""
+msgstr "命名的文件集"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:74
 #: /Users/sdeibel/src/ide/src/mainprefs.py:83
@@ -411,15 +411,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:93
 msgid "End"
-msgstr ""
+msgstr "结束"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:93
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:98
 msgid "System default (%s)"
-msgstr ""
+msgstr "系统默认(%s)"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:100
 msgid ""
@@ -437,7 +437,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:119
 msgid "Auto Reload"
-msgstr ""
+msgstr "自动编辑"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:120
 #: /Users/sdeibel/src/ide/src/mainprefs.py:127
@@ -447,12 +447,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/mainprefs.py:121
 #: /Users/sdeibel/src/ide/src/mainprefs.py:128
 msgid "Request Reload on Edit"
-msgstr ""
+msgstr "在编辑中请求重载"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:122
 #: /Users/sdeibel/src/ide/src/mainprefs.py:129
 msgid "Never Reload"
-msgstr ""
+msgstr "从不重载"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:133
 msgid ""
@@ -556,25 +556,25 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:284
 msgid "Text Style"
-msgstr ""
+msgstr "Text模式"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:288
 msgid "Attribute"
-msgstr ""
+msgstr "属性"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:288
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:291
 #: /Users/sdeibel/src/ide/src/mainprefs.py:625
 #: /Users/sdeibel/src/ide/src/mainprefs.py:651
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:292
 msgid "Specify"
-msgstr ""
+msgstr "说明"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:362
 msgid ""
@@ -611,20 +611,20 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/mainprefs.py:495
 #: /Users/sdeibel/src/ide/src/mainprefs.py:496
 msgid "Spec"
-msgstr ""
+msgstr "细则"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:495
 #: /Users/sdeibel/src/ide/src/mainprefs.py:496
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:501
 msgid "Exclude"
-msgstr ""
+msgstr "排除"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:501
 msgid "Include"
-msgstr ""
+msgstr "包含"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:506
 msgid ""

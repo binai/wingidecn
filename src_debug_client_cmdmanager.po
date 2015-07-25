@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2013-11-23 16:28+0800\n"
-"Last-Translator: Rains <rains31@gmail.com>\n"
+"PO-Revision-Date: 2015-07-25 11:13+0800\n"
+"Last-Translator: binai <msiiiu@qq.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.4\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:2
 msgid ""
@@ -28,23 +28,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:41
 msgid "Commands that control the debugger and current debug process, if any."
-msgstr ""
+msgstr "命令控制调试器和电流调试过程中,如果任何。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:60
 msgid "Always stop on exceptions, even if they are handled by the code"
-msgstr ""
+msgstr "总是站异常,即使它们是由代码"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:68
 msgid "Never stop on exceptions, even if they are unhandled in the code"
-msgstr ""
+msgstr "永远不要停止异常,即使他们在代码中未处理的"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:76
 msgid "Stop only on exceptions that are not handled by the code"
-msgstr ""
+msgstr "停止只在未处理的异常的代码"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:84
 msgid "Stop only on exceptions when they are about to be printed"
-msgstr ""
+msgstr "只在异常停止时将被打印出来"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:92
 msgid "Clear list of exceptions being ignored during debugging"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:101
 msgid "Execute the build command defined in the project, if any"
-msgstr ""
+msgstr "执行构建命令中定义的项目,如果有的话"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:113
 msgid "Attach to an already-running debug process"
@@ -60,27 +60,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:125
 msgid "Detach from the debug process and let it run"
-msgstr ""
+msgstr "分离的调试过程,让它运行"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:137
 msgid "Step into current execution point, or start debugging at first line"
-msgstr ""
+msgstr "进入当前的执行点,或者在第一行开始调试"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:164
 msgid "Step over current execution point"
-msgstr ""
+msgstr "跨过当前执行点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:176
 msgid "Step out of the current function or method"
-msgstr ""
+msgstr "走出当前的函数或方法"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:188
 msgid "Move program counter to caret"
-msgstr ""
+msgstr "程序计数器脱字符号"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:247
 msgid "Start debugging the current file (rather than the main entry point)"
-msgstr ""
+msgstr "开始调试当前文件(而不是主入口点)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:263
 msgid ""
@@ -90,11 +90,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:289
 msgid "Continue (or start) running, to next breakpoint"
-msgstr ""
+msgstr "继续运行(或开始),下一个断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:299
 msgid "Display the launch config manager"
-msgstr ""
+msgstr "显示启动配置管理器"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:304
 msgid ""
@@ -104,7 +104,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:314
 msgid "Name of the new launch configuration"
-msgstr ""
+msgstr "新的启动配置的名称"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:316
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:339
@@ -113,7 +113,7 @@ msgstr "名称"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:322
 msgid "Display the named entry point manager"
-msgstr ""
+msgstr "显示指定的入口点的经理"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:327
 msgid ""
@@ -123,15 +123,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:337
 msgid "Name of the entry point"
-msgstr ""
+msgstr "入口点的名称"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:345
 msgid "Debug the named entry point"
-msgstr ""
+msgstr "调试指定入口点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:352
 msgid "Execute (without debugging) the named entry point"
-msgstr ""
+msgstr "执行(没有调试)指定的入口点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:357
 msgid "Stop debugging"
@@ -143,31 +143,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:376
 msgid "Stop and restart the current debug process"
-msgstr ""
+msgstr "停止并重启当前调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:399
 msgid "Run to current cursor position"
-msgstr ""
+msgstr "跑到当前光标位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:405
 msgid " Returns whether bp is enabled and 'normal' "
-msgstr ""
+msgstr "返回英国石油是否启用和“正常”"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:422
 msgid "Debug to the line at the current mouse click location"
-msgstr ""
+msgstr "调试的当前鼠标点击的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:425
 msgid "Debug to Clicked"
-msgstr ""
+msgstr "调试,点击"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:432
 msgid "Move up the current debug stack"
-msgstr ""
+msgstr "提升当前调试堆栈"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:453
 msgid "Move down the current debug stack"
-msgstr ""
+msgstr "当前调试堆栈"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:472
 msgid ""
@@ -177,11 +177,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:491
 msgid "Set a new regular breakpoint on current line"
-msgstr ""
+msgstr "在当前行设置一个新的正则断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:508
 msgid "Set a new regular breakpoint at the current mouse click location"
-msgstr ""
+msgstr "设置一个新的正则断点在当前鼠标点击的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:520
 msgid ""
@@ -191,23 +191,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:535
 msgid "Set a new conditional breakpoint on current line"
-msgstr ""
+msgstr "当前行上设置一个新的条件断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:548
 msgid "Set a new conditional\\ breakpoint at the current mouse click location"
-msgstr ""
+msgstr "设置一个新的条件\\ \\断点在当前鼠标点击的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:557
 msgid "Set a new temporary breakpoint on current line"
-msgstr ""
+msgstr "当前行上设置一个新的临时断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:564
 msgid "Set a new temporary breakpoint at the current mouse click location"
-msgstr ""
+msgstr "在当前的鼠标点击设置一个新的临时断点的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:572
 msgid "Ignore the breakpoint on current line for N iterations"
-msgstr ""
+msgstr "忽略了在当前行断点N迭代"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:583
 msgid ""
@@ -216,31 +216,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:593
 msgid "Edit condition for the breakpoint on current line"
-msgstr ""
+msgstr "在当前行编辑条件断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:604
 msgid "Edit condition for the breakpoint at the current mouse click location"
-msgstr ""
+msgstr "在当前的鼠标点击编辑条件断点的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:612
 msgid "Toggle whether breakpoint on current line is enabled or disabled"
-msgstr ""
+msgstr "切换断点在当前行是否启用或禁用"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:627
 msgid "Enable the breakpoint on the current line"
-msgstr ""
+msgstr "在当前行上启用断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:638
 msgid "Enable the breakpoint at current click location"
-msgstr ""
+msgstr "启用断点在当前点击的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:650
 msgid "Disable the breakpoint on current line"
-msgstr ""
+msgstr "在当前行禁用断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:661
 msgid "Disable the breakpoint at current click location"
-msgstr ""
+msgstr "禁用断点在当前点击的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:673
 msgid "Enable all breakpoints"
@@ -252,20 +252,20 @@ msgstr "禁用全部断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:693
 msgid "Clear the breakpoint on the current line"
-msgstr ""
+msgstr "在当前行清除断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:702
 msgid "Clear the breakpoint at current click location"
-msgstr ""
+msgstr "清除断点在当前点击的位置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:712
 msgid "Clear all breakpoints"
-msgstr ""
+msgstr "清除所有断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:727
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:743
 msgid "Watch selected variable using a direct object reference to track it"
-msgstr ""
+msgstr "看所选变量使用直接对象引用来跟踪它"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:751
 msgid ""
@@ -275,7 +275,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:760
 msgid "Watch selected value using the symbolic path to it"
-msgstr ""
+msgstr "手表使用符号路径选择的值"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:768
 msgid ""
@@ -285,37 +285,37 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:777
 msgid "Add a new expression to the watch list"
-msgstr ""
+msgstr "添加一个新的表达式来观察名单"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:785
 msgid "Force refetch of a value from server"
-msgstr ""
+msgstr "力从服务器重新获得的一个值"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:814
 msgid "Clear stored variable errors so they get refetched"
-msgstr ""
+msgstr "所以他们会重新获取清晰存储变量错误"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:832
 msgid "Expand whole selected variables display subtree deeper"
-msgstr ""
+msgstr "扩大整体选择变量显示子树更深"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:848
 msgid "Collapse whole selected variables display subtree one more level"
-msgstr ""
+msgstr "崩溃的整个选择变量显示子树一个水平"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:864
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:881
 msgid "Show the textual value detail area"
-msgstr ""
+msgstr "详细信息区域中显示的文本价值"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:897
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:902
 msgid "Utility to get bp status info"
-msgstr ""
+msgstr "实用程序让bp状态信息"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:913
 msgid " Returns most current created shell view or None if there isn't any. "
-msgstr ""
+msgstr "返回最新创建的壳如果没有任何视图或没有。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:919
 msgid ""
@@ -324,39 +324,39 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:925
 msgid " Restart python shell. "
-msgstr ""
+msgstr "重新启动python shell。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:934
 msgid "Restart python shell. "
-msgstr ""
+msgstr "重新启动python shell。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:941
 msgid " Clear python shell. "
-msgstr ""
+msgstr "Clear巨蟒壳牌石油公司。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:956
 msgid " Kill python shell process. "
-msgstr ""
+msgstr "杀了python shell的过程。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:971
 msgid " Clear debug probe. "
-msgstr ""
+msgstr "明确调试探针。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:986
 msgid " Turn on additional logging for diagnosing problems with the debugger "
-msgstr ""
+msgstr "打开调试器附加日志诊断问题"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:993
 msgid " Turn off additional logging for diagnosing problems with the debugger "
-msgstr ""
+msgstr "关掉额外的调试器日志诊断问题"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:1000
 msgid " Return the shell that has the focus or None. "
-msgstr ""
+msgstr "返回有重点的外壳或没有。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:1046
 msgid " Copy text from shell, including all prompts "
-msgstr ""
+msgstr "从壳牌复制文本,包括所有提示"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:1065
 msgid " Interupt debugger execution; equivalent to ctrl-c on command line "
@@ -370,8 +370,8 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:1090
 msgid "Clear selected entry from the watch list"
-msgstr ""
+msgstr "明确所选条目的观察名单"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:1102
 msgid "Clear all entries from the watch list"
-msgstr ""
+msgstr "清除所有条目的观察名单"

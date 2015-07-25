@@ -6,23 +6,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2003-07-10 12:24GMT\n"
-"Last-Translator: 小雨<rains31@gmail.com>\n"
+"PO-Revision-Date: 2015-07-25 11:17+0800\n"
+"Last-Translator: binai <msiiiu@qq.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.4\n"
-"X-Generator: KBabel 0.9.5\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:137
 msgid "Value should be None"
-msgstr ""
+msgstr "值应该是没有"
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:155
 msgid "Boolean value must be 0 or 1"
-msgstr ""
+msgstr "布尔值必须是0或1"
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:160
 msgid "<boolean: 0 or 1>"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:256
 msgid "Value out of range, should be one of:\n"
-msgstr ""
+msgstr "值的范围,应该之一:\n"
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:293
 msgid "Value is type %s, should be %s"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:457
 msgid ", values: "
-msgstr ""
+msgstr "值:"
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:457
 msgid "[dict; keys: "
@@ -181,11 +181,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:611
 msgid "Icon file does not exist"
-msgstr ""
+msgstr "图标文件不存在"
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:613
 msgid "Icon file is a directory"
-msgstr ""
+msgstr "图标文件是一个目录"
 
 #: /Users/sdeibel/src/ide/src/wingutils/datatype.py:617
 msgid "Icon spec has type %s, should be string, unicode, or location"
@@ -207,11 +207,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:62
 msgid "English"
-msgstr ""
+msgstr "英语"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:63
 msgid "US, Canada, and Others"
-msgstr ""
+msgstr "美国,加拿大,和其他人"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:64
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:72
@@ -219,11 +219,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:91
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:102
 msgid "Hebrew"
-msgstr ""
+msgstr "希伯来语"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:65
 msgid "US, Australia, New Zealand, S. Africa"
-msgstr ""
+msgstr "美国、澳大利亚、新西兰、非洲"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:66
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:69
@@ -233,7 +233,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:107
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:114
 msgid "Western European"
-msgstr ""
+msgstr "西欧"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:67
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:80
@@ -242,28 +242,28 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:101
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:111
 msgid "Greek"
-msgstr ""
+msgstr "希腊"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:68
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:93
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:98
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:105
 msgid "Baltic Languages"
-msgstr ""
+msgstr "波罗的海的语言"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:70
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:86
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:96
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:113
 msgid "Central and Eastern European"
-msgstr ""
+msgstr "中欧和东欧"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:71
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:87
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:99
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:110
 msgid "Cyrillic Languages"
-msgstr ""
+msgstr "斯拉夫字母语言"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:73
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:84
@@ -271,61 +271,61 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:103
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:115
 msgid "Turkish"
-msgstr ""
+msgstr "土耳其"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:74
 msgid "Portuguese"
-msgstr ""
+msgstr "葡萄牙语"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:75
 msgid "Icelandic"
-msgstr ""
+msgstr "冰岛"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:77
 msgid "Canadian English/French"
-msgstr ""
+msgstr "加拿大英语/法语"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:78
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:92
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:100
 msgid "Arabic"
-msgstr ""
+msgstr "阿拉伯语"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:79
 msgid "Danish, Norwegian"
-msgstr ""
+msgstr "丹麦,挪威"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:81
 msgid "Thai"
-msgstr ""
+msgstr "泰国"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:83
 msgid "Urdu"
-msgstr ""
+msgstr "乌尔都语"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:94
 msgid "Vietnamese"
-msgstr ""
+msgstr "越南"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:97
 msgid "Esperanto and Maltese"
-msgstr ""
+msgstr "世界语、马耳他"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:104
 msgid "Nordic Languages"
-msgstr ""
+msgstr "北欧语言"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:106
 msgid "Celtic Languages"
-msgstr ""
+msgstr "凯尔特人的语言"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:108
 msgid "Russian"
-msgstr ""
+msgstr "俄罗斯"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:109
 msgid "Ukrainian"
-msgstr ""
+msgstr "乌克兰"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:116
 msgid "Unicode (UTF-16)"
@@ -353,12 +353,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:126
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:127
 msgid "Chinese (PRC)"
-msgstr ""
+msgstr "中文(中华人民共和国)"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:128
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:129
 msgid "Chinese (ROC)"
-msgstr ""
+msgstr "中文(中华民国)"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:130
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:131
@@ -374,21 +374,21 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:141
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:142
 msgid "Japanese"
-msgstr ""
+msgstr "日本"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:143
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:144
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:145
 msgid "Korean"
-msgstr ""
+msgstr "韩国"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:148
 msgid "Current code page (ansi/mbcs)"
-msgstr ""
+msgstr "目前mbcs ansi / page(法典)"
 
 #: /Users/sdeibel/src/ide/src/wingutils/encoding_utils.py:187
 msgid "Also known as: "
-msgstr ""
+msgstr "也被称为:"
 
 #: /Users/sdeibel/src/ide/src/wingutils/fileattribmgr.py:32
 msgid ""
@@ -406,15 +406,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/filefilter.py:53
 msgid "Wild Card on File Name"
-msgstr ""
+msgstr "在文件名通配符"
 
 #: /Users/sdeibel/src/ide/src/wingutils/filefilter.py:54
 msgid "Mime Type"
-msgstr ""
+msgstr "Mime类型"
 
 #: /Users/sdeibel/src/ide/src/wingutils/filefilter.py:55
 msgid "Wild Card on Directory Name"
-msgstr ""
+msgstr "通配符在目录名称"
 
 #: /Users/sdeibel/src/ide/src/wingutils/filefilter.py:416
 #: /Users/sdeibel/src/ide/src/wingutils/filefilter.py:421
@@ -432,11 +432,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/mime.py:119
 msgid "Wing Project"
-msgstr ""
+msgstr "翼项目"
 
 #: /Users/sdeibel/src/ide/src/wingutils/mime.py:120
 msgid "Python Interface"
-msgstr ""
+msgstr "Python接口"
 
 #: /Users/sdeibel/src/ide/src/wingutils/mime.py:645
 #: /Users/sdeibel/src/ide/src/wingutils/mime.py:647
@@ -446,7 +446,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/savable.py:1753
 msgid "Unknown"
-msgstr ""
+msgstr "未知的"
 
 #: /Users/sdeibel/src/ide/src/wingutils/textio.py:244
 #: /Users/sdeibel/src/ide/src/wingutils/textio.py:247
@@ -475,11 +475,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/textio.py:1373
 msgid "Internal data error:"
-msgstr ""
+msgstr "内部数据错误:"
 
 #: /Users/sdeibel/src/ide/src/wingutils/textio.py:1375
 msgid "  Bad value is:"
-msgstr ""
+msgstr "差值为:"
 
 #: /Users/sdeibel/src/ide/src/wingutils/textutils.py:939
 msgid "Unable to convert to unicode.  Tried encodings: %s."
@@ -487,7 +487,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:122
 msgid "Error::"
-msgstr ""
+msgstr "错误::"
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:125
 msgid "Fatal Error::"
@@ -495,16 +495,16 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:170
 msgid "NOTE"
-msgstr ""
+msgstr "请注意"
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:172
 msgid "WARNING"
-msgstr ""
+msgstr "警告"
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:174
 msgid "ERROR"
-msgstr ""
+msgstr "错误"
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:176
 msgid "FATAL"
-msgstr ""
+msgstr "致命的"

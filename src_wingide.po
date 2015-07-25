@@ -18,98 +18,98 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:38
 msgid "About Wing IDE"
-msgstr ""
+msgstr "关于翼IDE"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:110
 msgid "Product"
-msgstr ""
+msgstr "产品"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:111
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:313
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:581
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:585
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:112
 msgid "Release Date"
-msgstr ""
+msgstr "发布日期"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:113
 msgid "Install Directory"
-msgstr ""
+msgstr "安装目录"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:114
 msgid "Settings Directory"
-msgstr ""
+msgstr "设置目录"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:115
 msgid "Cache Directory"
-msgstr ""
+msgstr "缓存目录"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:116
 msgid "Patches"
-msgstr ""
+msgstr "补丁"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:117
 msgid "OS"
-msgstr ""
+msgstr "操作系统"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:118
 msgid "OS Version"
-msgstr ""
+msgstr "操作系统版本"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:119
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:120
 msgid "Memory"
-msgstr ""
+msgstr "内存"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:121
 msgid "Locale"
-msgstr ""
+msgstr "语言环境"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:122
 msgid "GUI Toolkit"
-msgstr ""
+msgstr "GUI工具包"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:152
 msgid "License Number"
-msgstr ""
+msgstr "牌照号码"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:153
 msgid "Activation Date"
-msgstr ""
+msgstr "激活日期"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:154
 msgid "Licensed Users"
-msgstr ""
+msgstr "授权用户"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:155
 msgid "Licensed Product"
-msgstr ""
+msgstr "许可产品"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:156
 msgid "Licensed OS"
-msgstr ""
+msgstr "正版操作系统"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:157
 msgid "Licensed Version"
-msgstr ""
+msgstr "授权版本"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:158
 msgid "License Term"
-msgstr ""
+msgstr "许可期限"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:159
 msgid "Restrictions"
-msgstr ""
+msgstr "限制"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:160
 msgid "Customer Info"
-msgstr ""
+msgstr "客户信息"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:173
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:179
@@ -119,19 +119,19 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:177
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:187
 msgid "None"
-msgstr ""
+msgstr "没有一个"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:181
 msgid "Unpaid open source or classroom use only"
-msgstr ""
+msgstr "无偿开放源码或教室使用"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:183
 msgid "Evaluation use only"
-msgstr ""
+msgstr "评价只使用"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:185
 msgid "Unknown license type"
-msgstr ""
+msgstr "未知的许可类型"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:191
 msgid "%s (unknown)"
@@ -139,30 +139,30 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:197
 msgid "None entered"
-msgstr ""
+msgstr "没有进入"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:199
 msgid "(missing)"
-msgstr ""
+msgstr "(丢失)"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:210
 msgid "Deactivate..."
-msgstr ""
+msgstr "Deactivate……"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:246
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:299
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:307
 msgid "Credits"
-msgstr ""
+msgstr "学分"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:249
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:301
 msgid "License"
-msgstr ""
+msgstr "许可证"
 
 #: /Users/sdeibel/src/ide/src/wingide/aboutbox.py:257
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:45
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:348
@@ -179,24 +179,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:166
 msgid "Finding Updates"
-msgstr ""
+msgstr "发现更新"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:167
 msgid "Submitting update request. Please wait:"
-msgstr ""
+msgstr "提交更新请求。请等待:"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:174
 msgid "Starting update check..."
-msgstr ""
+msgstr "开始更新检查……"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:190
 msgid "Connecting to wingware.com"
-msgstr ""
+msgstr "连接到wingware.com"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:216
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1518
 msgid "Network Error"
-msgstr ""
+msgstr "网络错误"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:217
 msgid ""
@@ -206,15 +206,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:266
 msgid "Waiting for Reply"
-msgstr ""
+msgstr "等待回复"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:274
 msgid "Reading Reply"
-msgstr ""
+msgstr "阅读回复"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:282
 msgid "Error Obtaining Updates"
-msgstr ""
+msgstr "获得更新错误"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:283
 msgid ""
@@ -224,35 +224,35 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:298
 msgid "Show Details"
-msgstr ""
+msgstr "显示详细信息"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:304
 msgid "Support+Upgrades Expired"
-msgstr ""
+msgstr "支持升级过期"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:305
 msgid "Renew Support+Upgrades"
-msgstr ""
+msgstr "更新支持升级"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:308
 msgid "Support+Upgrades Expiring Soon"
-msgstr ""
+msgstr "支持升级很快到期"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:309
 msgid "Extend Support+Upgrades"
-msgstr ""
+msgstr "扩展支持升级"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:312
 msgid "No Support+Upgrades Subscription"
-msgstr ""
+msgstr "不支持升级订阅"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:313
 msgid "Add Support+Upgrades"
-msgstr ""
+msgstr "添加升级的支持"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:324
 msgid "New Release Available"
-msgstr ""
+msgstr "新版本可用"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:327
 msgid ""
@@ -267,20 +267,20 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:350
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:654
 msgid "Automatically check for updates"
-msgstr ""
+msgstr "Automatically check for updates"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:360
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1405
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:365
 msgid "Automatically show this reminder"
-msgstr ""
+msgstr "自动显示这个提示"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:377
 msgid "No Updates Available"
-msgstr ""
+msgstr "没有可用的更新"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:378
 msgid "There are no new updates available.  Your copy of %s %s is up to date."
@@ -288,7 +288,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:381
 msgid "OK"
-msgstr ""
+msgstr "好吧"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:384
 msgid "Note: %s"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:401
 msgid "Preparing Interface"
-msgstr ""
+msgstr "准备接口"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:516
 msgid "_Install"
@@ -310,30 +310,30 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:520
 msgid "Wing IDE Updates are Available"
-msgstr ""
+msgstr "翼IDE更新是可用的"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:539
 msgid "New Updates!"
-msgstr ""
+msgstr "新更新!"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:539
 msgid "Select updates you wish to install:"
-msgstr ""
+msgstr "你希望to install Select更新:"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:581
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:585
 msgid "Install"
-msgstr ""
+msgstr "安装"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:581
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:585
 msgid "Name"
-msgstr ""
+msgstr "的名字"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:608
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:617
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:626
 msgid ""
@@ -343,16 +343,16 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:632
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:642
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:651
 msgid "New Release!"
-msgstr ""
+msgstr "新版本!"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:825
 msgid "Installing Updates"
-msgstr ""
+msgstr "安装更新"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:851
 msgid "Downloading and installing patches - preparing the user interface"
@@ -368,7 +368,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:891
 msgid "Installation Complete"
-msgstr ""
+msgstr "安装完成"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:892
 msgid "%i patches have been installed successfully.  Please restart Wing now."
@@ -384,7 +384,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:906
 msgid "Installation Failed"
-msgstr ""
+msgstr "安装失败"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:930
 msgid "Patch %i of %i: %s, %s"
@@ -393,7 +393,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:931
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:937
 msgid "Downloading patch"
-msgstr ""
+msgstr "下载补丁"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:942
 msgid "Downloading patch (%iKB)"
@@ -401,7 +401,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:950
 msgid "Installing patch"
-msgstr ""
+msgstr "安装补丁"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:977
 msgid "Could not install patches in %s or %s -- patching failed."
@@ -413,11 +413,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:232
 msgid "Initializing script manager..."
-msgstr ""
+msgstr "初始化脚本管理器…"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:433
 msgid "Could not store foreground lock timeout"
-msgstr ""
+msgstr "不能存储前景锁定超时"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:434
 msgid ""
@@ -441,7 +441,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:625
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:630
 msgid "Cannot find Python"
-msgstr ""
+msgstr "无法找到Python"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:609
 msgid ""
@@ -480,15 +480,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:644
 msgid "Starting application instance manager..."
-msgstr ""
+msgstr "启动应用程序实例管理器…"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:679
 msgid "Checking autosaves..."
-msgstr ""
+msgstr "检查autosaves……"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:716
 msgid "Cannot execute unsaved file."
-msgstr ""
+msgstr "不能执行未保存的文件。"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:719
 msgid "Cannot execute %s because it does not exist."
@@ -496,7 +496,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:720
 msgid "Cannot execute"
-msgstr ""
+msgstr "不能执行"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:965
 msgid "Could not display %s\n"
@@ -508,37 +508,37 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:967
 msgid "Failed to display document viewer or web browser"
-msgstr ""
+msgstr "未能显示文档查看器或web浏览器"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:968
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1104
 msgid "Could not display"
-msgstr ""
+msgstr "不能显示"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1056
 msgid "Bad viewer command"
-msgstr ""
+msgstr "坏观众命令"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1058
 msgid "Timeout waiting for process exit"
-msgstr ""
+msgstr "超时退出等过程"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1060
 msgid "Could not start process"
-msgstr ""
+msgstr "无法启动过程"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1062
 msgid "Process failed"
-msgstr ""
+msgstr "过程失败"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1066
 msgid "Could not find in path"
-msgstr ""
+msgstr "找不到路径吗"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1087
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1089
 msgid "Python webbrowser.open() failed"
-msgstr ""
+msgstr "Python webbrowser.open()失败"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1101
 msgid ""
@@ -560,7 +560,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1177
 msgid "Recover Unsaved Changes?"
-msgstr ""
+msgstr "恢复未保存的更改?"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1178
 msgid ""
@@ -571,7 +571,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1195
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1212
 msgid "Discard Unsaved Changes"
-msgstr ""
+msgstr "放弃未保存的更改"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1196
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1213
@@ -580,15 +580,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1198
 msgid "Discard Unsaved Changes?"
-msgstr ""
+msgstr "放弃未保存的更改吗?"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1199
 msgid "Are you sure you want to discard all unsaved changes?"
-msgstr ""
+msgstr "你确定你想要丢弃所有未保存的更改吗?"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1215
 msgid "Discard Some Unsaved Changes?"
-msgstr ""
+msgstr "丢弃一些未保存的更改吗?"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1216
 msgid ""
@@ -598,15 +598,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1226
 msgid "Restore Selected Files"
-msgstr ""
+msgstr "选择恢复文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1227
 msgid "Do not Restore"
-msgstr ""
+msgstr "不恢复"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1258
 msgid "Opening specified project..."
-msgstr ""
+msgstr "打开指定的项目…"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1262
 msgid ""
@@ -616,27 +616,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1272
 msgid "Opening recent project..."
-msgstr ""
+msgstr "打开最近的项目…"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1280
 msgid "Preparing workspace..."
-msgstr ""
+msgstr "准备工作……"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1282
 msgid "Opening default project..."
-msgstr ""
+msgstr "打开默认的项目…"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1293
 msgid "Displaying windows..."
-msgstr ""
+msgstr "Displaying ...视窗"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1297
 msgid "Opening files..."
-msgstr ""
+msgstr "打开文件…"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1378
 msgid "No License::Failed to deactivate:  No license is active."
-msgstr ""
+msgstr "没有许可::禁用失败:没有执照是活跃的。"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1393
 msgid ""
@@ -651,7 +651,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1400
 msgid "Deactivate License and Quit?"
-msgstr ""
+msgstr "禁用许可证和退出吗?"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1401
 msgid ""
@@ -660,11 +660,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1404
 msgid "Deactivate and Quit"
-msgstr ""
+msgstr "关闭并退出"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1509
 msgid "Proxy Server Configuration"
-msgstr ""
+msgstr "Proxy更新配置服务器"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1519
 msgid ""
@@ -677,11 +677,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1524
 msgid "Configure Proxy..."
-msgstr ""
+msgstr "...起见Proxy更新"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1537
 msgid "Pythoncom Shell Extensions Detected"
-msgstr ""
+msgstr "Pythoncom Shell扩展检测"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1538
 msgid ""
@@ -698,7 +698,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1605
 msgid "Please quit Wing"
-msgstr ""
+msgstr "请退出翼"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1605
 msgid ""

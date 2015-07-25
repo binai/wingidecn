@@ -22,7 +22,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:282
 msgid "Failed to package host information"
-msgstr ""
+msgstr "没有包主机信息"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:394
 msgid "Contains invalid characters: %s"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:416
 msgid "an unknown product"
-msgstr ""
+msgstr "一个未知的产品"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:419
 msgid ""
@@ -55,7 +55,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:447
 msgid "Request code should start with R"
-msgstr ""
+msgstr "请求的代码应该从右开始"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:449
 msgid "Invalid second character:  Should be one of %s"
@@ -75,47 +75,47 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:618
 msgid "License is valid."
-msgstr ""
+msgstr "许可证是有效的。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:621
 msgid "License file not found or could not be read."
-msgstr ""
+msgstr "许可证文件未找到或无法读取。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:623
 msgid "Activation key not valid for this license:"
-msgstr ""
+msgstr "本许可证激活密钥无效:"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:626
 msgid "The license term has expired."
-msgstr ""
+msgstr "许可期限已经过期。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:628
 msgid "The maximum number of users for this license has been reached."
-msgstr ""
+msgstr "这个许可证的最大用户数。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:631
 msgid "License OS does not match current OS."
-msgstr ""
+msgstr "许可的操作系统不匹配当前的操作系统。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:634
 msgid "License does not match this product or product level."
-msgstr ""
+msgstr "许可不匹配这个产品或产品的水平。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:637
 msgid "License does not match this host's identity."
-msgstr ""
+msgstr "许可不匹配这个主机的身份。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:639
 msgid "An internal error occurred:"
-msgstr ""
+msgstr "一个内部错误发生:"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:645
 msgid "Unknown error"
-msgstr ""
+msgstr "未知的错误"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:697
 msgid "Other users are:"
-msgstr ""
+msgstr "其他用户:"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:699
 msgid "(%s) on host %s (%s) process id %s"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:701
 msgid "No other users at this time."
-msgstr ""
+msgstr "没有其他用户。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:739
 msgid "Current OS '%s' is not supported"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:866
 msgid "expired"
-msgstr ""
+msgstr "过期的"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:871
 msgid "Missing a required line %s"
@@ -143,25 +143,25 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:912
 msgid "Invalid license activation"
-msgstr ""
+msgstr "无效的许可证激活"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:917
 msgid "unlimited"
-msgstr ""
+msgstr "无限的"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:919
 #: /Users/sdeibel/src/ide/src/process/abstract.py:923
 #: /Users/sdeibel/src/ide/src/process/abstract.py:925
 msgid "Invalid date or termdays in file"
-msgstr ""
+msgstr "无效的日期或termdays文件"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:927
 msgid " days left"
-msgstr ""
+msgstr "天左"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:992
 msgid "Invalid usercount in file"
-msgstr ""
+msgstr "无效usercount在文件"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:1037
 msgid ""
@@ -171,7 +171,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:1083
 msgid "Unknown"
-msgstr ""
+msgstr "未知的"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:1099
 msgid "# License lock file:  Removing this will break user's session!\n"
@@ -197,7 +197,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:167
 msgid "Unable to read EULA"
-msgstr ""
+msgstr "无法阅读EULA"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:246
 msgid "License product '%s' is not a valid product code."
@@ -213,7 +213,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:335
 msgid "No valid license file was found.  The following errors occurred:"
-msgstr ""
+msgstr "没有找到有效的许可证文件。发生以下错误:"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:352
 msgid "Wing IDE Trial: %i Days Left"
@@ -260,7 +260,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:428
 msgid "Expired Trial"
-msgstr ""
+msgstr "过期的审判"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:429
 msgid ""
@@ -271,7 +271,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:431
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:887
 msgid "No Valid License"
-msgstr ""
+msgstr "没有有效的许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:432
 msgid ""
@@ -305,11 +305,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:601
 msgid "No License Found"
-msgstr ""
+msgstr "没有找到许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:603
 msgid "Purchase License"
-msgstr ""
+msgstr "购买许可"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:658
 msgid ""
@@ -321,7 +321,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:665
 msgid "Obtain or extend a trial license"
-msgstr ""
+msgstr "获得或延长试用许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:673
 msgid ""
@@ -332,7 +332,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:678
 msgid "Purchase a permanent license"
-msgstr ""
+msgstr "购买一个永久许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:691
 msgid ""
@@ -362,7 +362,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:713
 msgid "10 minute emergency session"
-msgstr ""
+msgstr "10分钟的紧急会议"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:716
 msgid ""
@@ -373,11 +373,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:721
 msgid "Exit after saving any unsaved changes"
-msgstr ""
+msgstr "后保存退出任何未保存的更改"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:753
 msgid "Choose your preferred method of license activation:"
-msgstr ""
+msgstr "选择您的首选方法许可激活:"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:765
 msgid ""
@@ -388,11 +388,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:770
 msgid "Configure Proxy..."
-msgstr ""
+msgstr "...起见Proxy更新"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:776
 msgid "Recommended: Connect Wing IDE directly to wingware.com"
-msgstr ""
+msgstr "建议:直接连接翼IDE到wingware.com"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:782
 msgid ""
@@ -411,43 +411,43 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:809
 msgid "Company/Org"
-msgstr ""
+msgstr "公司/组织"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:809
 msgid "Licensed user"
-msgstr ""
+msgstr "授权用户"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:809
 msgid "Notes"
-msgstr ""
+msgstr "笔记"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:883
 msgid "To change to another license, you may now:"
-msgstr ""
+msgstr "改变到另一个许可证,现在你可以:"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:884
 msgid "Change License"
-msgstr ""
+msgstr "改变执照"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:886
 msgid "Wing is running without a valid license. You may now:"
-msgstr ""
+msgstr "翼运行没有一个有效的许可证。现在你可以:"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:918
 msgid "Your trial license has been created.  To activate it you can:"
-msgstr ""
+msgstr "您的试用许可证已经创建。来激活它,您可以:"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:919
 msgid "Activate Trial License"
-msgstr ""
+msgstr "激活试用许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:921
 msgid "Please choose your preferred method of license activation:"
-msgstr ""
+msgstr "请选择你喜欢的许可激活方法:"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:922
 msgid "Activate License"
-msgstr ""
+msgstr "激活许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:925
 msgid ""
@@ -458,7 +458,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:978
 msgid "Opening Browser"
-msgstr ""
+msgstr "打开浏览器"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:979
 msgid ""
@@ -474,7 +474,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1003
 msgid "You cannot enter a trial license id here"
-msgstr ""
+msgstr "你不能在这里输入试用许可证id"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1005
 msgid ""
@@ -489,7 +489,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1288
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1361
 msgid "Invalid License ID"
-msgstr ""
+msgstr "无效的授权ID"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1062
 msgid ""
@@ -514,43 +514,43 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1172
 msgid "Activating"
-msgstr ""
+msgstr "激活"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1173
 msgid "Submitting activation request. Please wait"
-msgstr ""
+msgstr "提交激活请求。请稍等"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1183
 msgid "Connecting to wingware.com"
-msgstr ""
+msgstr "连接到wingware.com"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1187
 msgid "Preparing activation"
-msgstr ""
+msgstr "做准备活动"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1240
 msgid "Waiting for Reply"
-msgstr ""
+msgstr "等待回复"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1247
 msgid "Reading Reply"
-msgstr ""
+msgstr "阅读回复"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1252
 msgid "Could not obtain activation key"
-msgstr ""
+msgstr "无法获取激活钥匙吗"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1259
 msgid "Add Activations"
-msgstr ""
+msgstr "添加激活"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1268
 msgid "Upgrade"
-msgstr ""
+msgstr "升级"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1279
 msgid "Validating Activation Key"
-msgstr ""
+msgstr "验证激活关键"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1284
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1357
@@ -561,21 +561,21 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1296
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1369
 msgid "Writing Activation File"
-msgstr ""
+msgstr "编写激活文件"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1312
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1323
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1328
 msgid "Invalid license"
-msgstr ""
+msgstr "无效的授权"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1313
 msgid "The license code you provided is invalid for this product"
-msgstr ""
+msgstr "你提供的注册码是无效的对该产品的"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1320
 msgid "Validating License"
-msgstr ""
+msgstr "验证许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1324
 msgid ""
@@ -584,27 +584,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1329
 msgid "The license code you provided not valid for this operating system"
-msgstr ""
+msgstr "的许可证代码你不提供有效的操作系统"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1336
 msgid "Creating Activation"
-msgstr ""
+msgstr "创建激活"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1352
 msgid "Validating Activation"
-msgstr ""
+msgstr "验证激活"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1401
 msgid "Internal error (missing field)"
-msgstr ""
+msgstr "内部错误(缺少字段)"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1403
 msgid "Internal error (invalid license)"
-msgstr ""
+msgstr "内部错误(无效的许可证)"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1405
 msgid "Internal error (invalid request code)"
-msgstr ""
+msgstr "内部错误(无效的请求代码)"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1408
 msgid ""
@@ -666,7 +666,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1459
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1466
 msgid "Failed to use activated license"
-msgstr ""
+msgstr "未能使用激活许可证"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1460
 msgid ""
@@ -684,7 +684,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1479
 msgid "Trial License Generated"
-msgstr ""
+msgstr "试用许可生成"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1480
 msgid ""
@@ -697,15 +697,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1487
 msgid "License Activated"
-msgstr ""
+msgstr "许可激活"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1488
 msgid "License activation succeeded.  Thanks for using Wing IDE!"
-msgstr ""
+msgstr "许可激活成功了。感谢使用翼IDE !"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1495
 msgid "Unexpected License Activation Error"
-msgstr ""
+msgstr "意想不到的许可证激活错误"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1496
 msgid ""
@@ -715,7 +715,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1537
 msgid "License Agreement"
-msgstr ""
+msgstr "许可协议"
 
 #: /Users/sdeibel/src/ide/src/process/wingctl.py:1547
 msgid ""

@@ -43,7 +43,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:307
 #: /Users/sdeibel/src/ide/src/search/interactive.py:695
 msgid "Wrapped Search Failed"
-msgstr ""
+msgstr "包装搜索失败"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:314
 msgid "_Options"
@@ -84,7 +84,7 @@ msgstr "替换(_R)"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:515
 msgid "Clear"
-msgstr ""
+msgstr "清晰的"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:517
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:521
@@ -103,7 +103,7 @@ msgstr "粘贴"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:524
 msgid "Clear Entry Area"
-msgstr ""
+msgstr "清晰的入口区域"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:532
 msgid "Insert Newline (Ctrl-Enter)"
@@ -112,12 +112,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:534
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:538
 msgid "Insert Line Feed"
-msgstr ""
+msgstr "插入换行"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:535
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:539
 msgid "Insert Carriage Return"
-msgstr ""
+msgstr "插入回车"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:536
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:540
@@ -127,12 +127,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:547
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:551
 msgid "Interpret Backslash Sequences"
-msgstr ""
+msgstr "解释反斜杠序列"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:563
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:565
 msgid "Expanded Entry Area"
-msgstr ""
+msgstr "入口面积的扩大"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:615
 msgid "All Files"
@@ -156,35 +156,35 @@ msgstr "当前文件"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:688
 msgid "All Open Files"
-msgstr ""
+msgstr "所有打开的文件"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:689
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:690
 msgid "File Sets"
-msgstr ""
+msgstr "文件集"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:842
 msgid "Select directory to use"
-msgstr ""
+msgstr "选择要使用的目录"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:855
 msgid "Select directory to search in"
-msgstr ""
+msgstr "选择搜索目录"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:869
 msgid "No open file"
-msgstr ""
+msgstr "没有打开的文件"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:929
 msgid "Single Open File"
-msgstr ""
+msgstr "个打开的文件"
 
 #: /Users/sdeibel/src/ide/src/search/_widgets.py:933
 msgid "Select Directory..."
-msgstr ""
+msgstr "选择目录…"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:195
 #: /Users/sdeibel/src/ide/src/search/interactive.py:124
@@ -234,7 +234,7 @@ msgstr "群组(_G)"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:354
 msgid "Replace Operates on Disk"
-msgstr ""
+msgstr "更换磁盘上的操作"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:359
 msgid "Replace Operates on Dis_k"
@@ -242,7 +242,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:366
 msgid "Result File Na&me"
-msgstr ""
+msgstr "结果文件钠"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:369
 msgid "Result File Na_me"
@@ -250,7 +250,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:377
 msgid "Show Search T&ype In Tool"
-msgstr ""
+msgstr "显示搜索T"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:382
 msgid "Show Search T_ype In Tool"
@@ -272,7 +272,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:411
 msgid "The name under which to store the list of matching files"
-msgstr ""
+msgstr "存储的名称匹配的文件列表"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:417
 msgid "_Omit Binary Files"
@@ -293,11 +293,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:426
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:433
 msgid "Copy Results to Clipboard"
-msgstr ""
+msgstr "将结果复制到剪贴板"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:429
 msgid "Name Result File Set"
-msgstr ""
+msgstr "名字结果文件集"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:435
 msgid "_Case Sensitive"
@@ -310,7 +310,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:654
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:676
 msgid "Search in files state"
-msgstr ""
+msgstr "在Search files总公司"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:997
 msgid "Line %s: "
@@ -327,7 +327,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1599
 #: /Users/sdeibel/src/ide/src/search/interactive.py:683
 msgid "Wrapped "
-msgstr ""
+msgstr "包装"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1602
 msgid "%sFile: %s"
@@ -335,7 +335,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1635
 msgid "Search Aborted"
-msgstr ""
+msgstr "搜索中止"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1713
 msgid "Directory does not exist: \"%s\""
@@ -343,11 +343,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1720
 msgid "Directory search not supported"
-msgstr ""
+msgstr "目录搜索不支持"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1743
 msgid "Search Starting"
-msgstr ""
+msgstr "开始搜索"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1821
 msgid "Found %i matches in %i files"
@@ -355,33 +355,33 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1827
 msgid "Reading directory: "
-msgstr ""
+msgstr "阅读目录:"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1846
 msgid "Scanning: "
-msgstr ""
+msgstr "扫描:"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1856
 msgid "Search Paused"
-msgstr ""
+msgstr "搜索停顿了一下"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1860
 msgid "Search Continued"
-msgstr ""
+msgstr "搜索继续"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1890
 #: /Users/sdeibel/src/ide/src/search/interactive.py:487
 msgid "No search string"
-msgstr ""
+msgstr "没有搜索字符串"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1923
 #: /Users/sdeibel/src/ide/src/search/interactive.py:320
 msgid "Could not replace:  No previous search match"
-msgstr ""
+msgstr "无法取代:没有先前的搜索匹配"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1927
 msgid "Failed to display editor for replace"
-msgstr ""
+msgstr "未能显示编辑取代"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1981
 msgid ""
@@ -405,7 +405,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1992
 msgid "Confirm Replace All"
-msgstr ""
+msgstr "确认替换所有"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:1993
 msgid "_Replace All"
@@ -426,7 +426,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:2785
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:2792
 msgid "Warning: Replace All"
-msgstr ""
+msgstr "警告:替换所有"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:2786
 msgid ""
@@ -449,24 +449,24 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:2836
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:2844
 msgid "Search in Files"
-msgstr ""
+msgstr "搜索文件"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:2849
 msgid "Multiple File Search and Replace"
-msgstr ""
+msgstr "多个文件搜索和替换"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:237
 msgid "Possible match"
-msgstr ""
+msgstr "可能的匹配"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:238
 msgid "Unlikely match"
-msgstr ""
+msgstr "不太匹配"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:256
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:258
 msgid "Whole file"
-msgstr ""
+msgstr "整个文件"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:269
 msgid "%s, line %s:"
@@ -474,23 +474,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:634
 msgid "Searching..."
-msgstr ""
+msgstr "搜索…"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:680
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:682
 msgid "Show Possible Uses"
-msgstr ""
+msgstr "显示可能的使用"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:684
 msgid "Show matches where either the match or the search symbol is undefined"
-msgstr ""
+msgstr "显示匹配,匹配或搜索符号是未定义的"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:686
 msgid "Show Unlikely Uses"
-msgstr ""
+msgstr "显示不使用"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:688
 msgid ""
@@ -500,35 +500,35 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:695
 msgid "Search Project Files"
-msgstr ""
+msgstr "搜索项目文件"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:697
 msgid "Search for uses in all Python files in the project"
-msgstr ""
+msgstr "在所有Python文件搜索使用项目"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:701
 msgid "Search Original File"
-msgstr ""
+msgstr "搜索原始文件"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:703
 msgid "Search for uses in the file where the symbol was selected"
-msgstr ""
+msgstr "搜索文件中使用的符号被选中"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:710
 msgid "Points of use"
-msgstr ""
+msgstr "点的使用"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:726
 msgid "Uses of module "
-msgstr ""
+msgstr "使用的模块"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:728
 msgid " in "
-msgstr ""
+msgstr "在"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:728
 msgid "Uses of "
-msgstr ""
+msgstr "的使用"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:742
 msgid "Uses of module %s"
@@ -548,11 +548,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:839
 msgid "Previous Match"
-msgstr ""
+msgstr "之前的比赛"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:840
 msgid "Next Match"
-msgstr ""
+msgstr "下一场比赛"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:846
 msgid ""
@@ -561,15 +561,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:854
 msgid "Show Documentation"
-msgstr ""
+msgstr "显示文档"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:905
 msgid "Uses"
-msgstr ""
+msgstr "使用"
 
 #: /Users/sdeibel/src/ide/src/search/cap_usesgui.py:910
 msgid "Points of Use"
-msgstr ""
+msgstr "点的使用"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:71
 msgid "_Interactive Search"
@@ -601,20 +601,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/common.py:80
 msgid "Search: "
-msgstr ""
+msgstr "搜索:"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:81
 msgid "Replace: "
-msgstr ""
+msgstr "替换:"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:427
 #: /Users/sdeibel/src/ide/src/search/interactive.py:325
 msgid "Failed to find editor for replace"
-msgstr ""
+msgstr "未能找到编辑取代"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:464
 msgid "Replace OK"
-msgstr ""
+msgstr "更换好了"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:510
 msgid "Replacing %s"
@@ -630,7 +630,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/common.py:580
 msgid "Replace failed to open document"
-msgstr ""
+msgstr "取代未能打开文档"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:600
 msgid "Replaced %i matches in %s"
@@ -650,16 +650,16 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/common.py:661
 msgid "Replace Paused"
-msgstr ""
+msgstr "取代停顿了一下"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:667
 msgid "Replace Continued"
-msgstr ""
+msgstr "取代持续"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:815
 #: /Users/sdeibel/src/ide/src/search/common.py:839
 msgid "Search manager state"
-msgstr ""
+msgstr "搜索管理器状态"
 
 #: /Users/sdeibel/src/ide/src/search/common.py:955
 msgid "Skipping large file %s; size=%i; max=%i"
@@ -683,15 +683,15 @@ msgstr "增量(_I)"
 
 #: /Users/sdeibel/src/ide/src/search/interactive.py:368
 msgid "Could not replace all: no search string"
-msgstr ""
+msgstr "不能替换所有:没有搜索字符串"
 
 #: /Users/sdeibel/src/ide/src/search/interactive.py:373
 msgid "Could not replace all: no active document"
-msgstr ""
+msgstr "不能替换所有:不活跃的文件吗"
 
 #: /Users/sdeibel/src/ide/src/search/interactive.py:378
 msgid "Could not replace: document is readonly"
-msgstr ""
+msgstr "无法取代:文档只读的"
 
 #: /Users/sdeibel/src/ide/src/search/interactive.py:687
 msgid "Search Successful"
