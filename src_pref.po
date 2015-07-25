@@ -18,79 +18,79 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:63
 msgid "Display Language"
-msgstr ""
+msgstr "显示语言"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:64
 msgid "Display Style"
-msgstr ""
+msgstr "显示风格"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:65
 msgid "Color Palette"
-msgstr ""
+msgstr "调色板"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:69
 msgid "Use System Qt"
-msgstr ""
+msgstr "Qt使用系统"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:75
 msgid "Windowing Policy"
-msgstr ""
+msgstr "窗口政策"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:78
 msgid "Show Editor Tabs"
-msgstr ""
+msgstr "显示编辑器选项卡"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:82
 msgid "Enable Tooltips"
-msgstr ""
+msgstr "启用工具提示"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:86
 msgid "Show Toolbar"
-msgstr ""
+msgstr "显示工具栏"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:87
 msgid "Toolbar Size"
-msgstr ""
+msgstr "工具栏的大小"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:88
 msgid "Toolbar Style"
-msgstr ""
+msgstr "工具栏样式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:92
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:213
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:397
 msgid "Groups Shown"
-msgstr ""
+msgstr "组显示"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:93
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:214
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:398
 msgid "Custom Items"
-msgstr ""
+msgstr "自定义项"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:94
 msgid "Primary Icon Color"
-msgstr ""
+msgstr "主要图标颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:95
 msgid "Secondary Icon Color"
-msgstr ""
+msgstr "二级图标颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:96
 msgid "Tertiary Icon Color"
-msgstr ""
+msgstr "三级图标颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:97
 msgid "Quaternary Icon Color"
-msgstr ""
+msgstr "第四纪图标颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:98
 msgid "Quinary Icon Color"
-msgstr ""
+msgstr "第五位的图标颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:99
 msgid "Senary Icon Color"
-msgstr ""
+msgstr "六的图标颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:106
 msgid "Auto-save Perspectives"
@@ -98,43 +98,43 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:107
 msgid "Shared Perspective File"
-msgstr ""
+msgstr "文件共享的角度来看"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:111
 msgid "Display Font/Size"
-msgstr ""
+msgstr "显示字体/大小"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:112
 msgid "Editor Font/Size"
-msgstr ""
+msgstr "编辑器字体/大小"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:116
 msgid "Personality"
-msgstr ""
+msgstr "个性"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:117
 msgid "Tab Key Action"
-msgstr ""
+msgstr "Tab键操作"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:118
 msgid "Smart Tab End of Line Indents"
-msgstr ""
+msgstr "智能标签行缩进"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:122
 msgid "Alt Key"
-msgstr ""
+msgstr "Alt键"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:125
 msgid "Use Alt for Accelerators"
-msgstr ""
+msgstr "使用Alt加速器"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:129
 msgid "Custom Key Bindings"
-msgstr ""
+msgstr "自定义键绑定"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:130
 msgid "Typing Group Timeout"
-msgstr ""
+msgstr "键入组超时"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:133
 msgid "VI Mode Ctrl-C/X/V"
@@ -142,11 +142,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:137
 msgid "Show Splash Screen"
-msgstr ""
+msgstr "显示闪屏"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:141
 msgid "Quit Application When Last Window Closes"
-msgstr ""
+msgstr "当最后一个窗口关闭退出应用程序"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:144
 msgid "Auto-Focus Tools"
@@ -154,7 +154,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:145
 msgid "Case Sensitive Sorting"
-msgstr ""
+msgstr "区分大小写排序"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:146
 msgid "Auto-Show Bug Report Dialog"
@@ -166,23 +166,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:152
 msgid "Show Support+Upgrades Reminders"
-msgstr ""
+msgstr "支持+升级提示"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:155
 msgid "Always Use Full Path in Tooltips"
-msgstr ""
+msgstr "总是在工具提示使用完整路径"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:159
 msgid "Max Error Log Size"
-msgstr ""
+msgstr "最大错误日志大小"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:160
 msgid "Shared File Sets Repository"
-msgstr ""
+msgstr "共享文件设置库"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:161
 msgid "Key Map File"
-msgstr ""
+msgstr "键映射文件"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:167
 msgid "Auto-Save Files Before Debug or Execute"
@@ -190,59 +190,59 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:170
 msgid "Default Directory Policy"
-msgstr ""
+msgstr "缺省目录政策"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:171
 msgid "Title Style"
-msgstr ""
+msgstr "标题样式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:172
 msgid "Default Encoding"
-msgstr ""
+msgstr "默认编码"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:173
 msgid "New File EOL"
-msgstr ""
+msgstr "纽约EOL牵头"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:174
 msgid "New File Extension"
-msgstr ""
+msgstr "新文件扩展名"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:178
 msgid "Max Recent Items"
-msgstr ""
+msgstr "马克斯最近的项目"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:182
 msgid "Maximum File Size (MB)"
-msgstr ""
+msgstr "最大文件大小(MB)"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:186
 msgid "Extra File Types"
-msgstr ""
+msgstr "额外的文件类型"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:187
 msgid "File Filters"
-msgstr ""
+msgstr "文件过滤器"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:191
 msgid "External Check Freq"
-msgstr ""
+msgstr "外部检查频率"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:192
 msgid "Reload when Unchanged"
-msgstr ""
+msgstr "重新加载时不变"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:193
 msgid "Reload when Changed"
-msgstr ""
+msgstr "重新加载的时候改变了"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:198
 msgid "File Display Commands"
-msgstr ""
+msgstr "文件显示命令"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:199
 msgid "Url Display Commands"
-msgstr ""
+msgstr "Url显示命令"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:203
 msgid "Auto-reopen Last Project"
@@ -250,84 +250,84 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:204
 msgid "Close Files with Project"
-msgstr ""
+msgstr "关闭文件和项目"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:205
 msgid "Show New Project Dialog"
-msgstr ""
+msgstr "显示新项目对话框"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:208
 msgid "Open Projects as Text"
-msgstr ""
+msgstr "打开项目文本"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:209
 msgid "Confirm Drag Copy/Move"
-msgstr ""
+msgstr "确认拖动复制/移动"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:218
 msgid "Error Indicators"
-msgstr ""
+msgstr "误差指标"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:219
 msgid "Show Line Numbers"
-msgstr ""
+msgstr "显示行号"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:220
 msgid "Show Whitespace"
-msgstr ""
+msgstr "显示空白"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:221
 msgid "Show EOL"
-msgstr ""
+msgstr "显示EOL"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:225
 msgid "Split Reuse Policy"
-msgstr ""
+msgstr "分复用策略"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:229
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:250
 msgid "Background Color"
-msgstr ""
+msgstr "背景颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:232
 msgid "Strip Trailing White Space"
-msgstr ""
+msgstr "带尾随空格"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:233
 msgid "Block Comment Style"
-msgstr ""
+msgstr "块注释风格"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:234
 msgid "Scroll Past End"
-msgstr ""
+msgstr "滚动过去结束"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:235
 msgid "Ensure File Ends With EOL When Saving"
-msgstr ""
+msgstr "确保与Ends File When EOL北美版"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:236
 msgid "Enable Font Size Zooming"
-msgstr ""
+msgstr "使字体大小缩放"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:240
 msgid "On Empty Selection"
-msgstr ""
+msgstr "在空的选择"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:241
 msgid "Middle Mouse Paste"
-msgstr ""
+msgstr "中间鼠标粘贴"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:245
 msgid "Adjust Indent After Paste"
-msgstr ""
+msgstr "粘贴后调整缩进"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:251
 msgid "Syntax Formatting"
-msgstr ""
+msgstr "语法格式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:252
 msgid "Highlight Builtins"
-msgstr ""
+msgstr "突出内置命令"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:258
 msgid "Auto-Editing Enabled"
@@ -343,11 +343,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:261
 msgid "Apply Quotes to Selection"
-msgstr ""
+msgstr "报价适用于选择"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:262
 msgid "Apply Comment Key to Selection"
-msgstr ""
+msgstr "应用评价选择的关键"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:263
 msgid "Apply (), [], and {} to Selection"
@@ -355,7 +355,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:264
 msgid "Apply Colon to Selection"
-msgstr ""
+msgstr "结肠适用于选择"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:265
 msgid "Auto-Enter Spaces"
@@ -367,19 +367,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:267
 msgid "    Enforce PEP8 Style Spacing"
-msgstr ""
+msgstr "执行PEP8风格间距"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:268
 msgid "    Spaces in Argument Lists"
-msgstr ""
+msgstr "空间在参数列表"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:269
 msgid "Manage Blocks on Repeated Colon Key Presses"
-msgstr ""
+msgstr "管理块重复结肠按键"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:270
 msgid "Continue Comment or String on New Line"
-msgstr ""
+msgstr "继续发表评论或字符串新行"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:271
 msgid "Correct Out-of-Order Typing"
@@ -387,107 +387,107 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:280
 msgid "Selection Color"
-msgstr ""
+msgstr "选择颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:281
 msgid "Caret Color"
-msgstr ""
+msgstr "脱字符号颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:282
 msgid "Caret Width"
-msgstr ""
+msgstr "插入符号宽度"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:283
 msgid "Caret Flash Rate (ms)"
-msgstr ""
+msgstr "脱字符号闪光率(女士)"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:284
 msgid "Caret Line Highlight"
-msgstr ""
+msgstr "脱字符号线突出"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:290
 msgid "Use Indent Analysis"
-msgstr ""
+msgstr "使用缩进分析"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:291
 msgid "Default Tab Size"
-msgstr ""
+msgstr "默认选项卡大小"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:294
 msgid "Default Indent Size"
-msgstr ""
+msgstr "默认缩进大小"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:298
 msgid "Default Indent Style"
-msgstr ""
+msgstr "默认缩进风格"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:299
 msgid "Auto Indent"
-msgstr ""
+msgstr "自动缩进"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:302
 msgid "Show Indent Guides"
-msgstr ""
+msgstr "显示缩进指南"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:306
 msgid "Show Python Indent Warning Dialog"
-msgstr ""
+msgstr "Python缩进显示警告对话框"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:307
 msgid "Show Override Warning Dialog"
-msgstr ""
+msgstr "节目覆盖警告对话框"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:311
 msgid "Wrap Long Lines"
-msgstr ""
+msgstr "包装排长队"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:312
 msgid "Edge Markers"
-msgstr ""
+msgstr "边缘标记"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:313
 msgid "Reformatting Wrap Column"
-msgstr ""
+msgstr "重新格式化包装列"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:317
 msgid "Highlight Occurrences"
-msgstr ""
+msgstr "亮点出现"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:318
 msgid "Match Case"
-msgstr ""
+msgstr "区分大小写"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:319
 msgid "Occurrences Indicator Style"
-msgstr ""
+msgstr "出现指标风格"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:320
 msgid "Occurrences Color"
-msgstr ""
+msgstr "出现颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:324
 msgid "Bookmark Color"
-msgstr ""
+msgstr "书签的颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:325
 msgid "Bookmark Style"
-msgstr ""
+msgstr "书签样式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:329
 msgid "Enable Folding"
-msgstr ""
+msgstr "使折叠"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:330
 msgid "Line Mode"
-msgstr ""
+msgstr "行模式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:331
 msgid "Indicator Style"
-msgstr ""
+msgstr "指标的风格"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:332
 msgid "Fold Trailing White Space"
-msgstr ""
+msgstr "褶皱尾随空格"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:338
 msgid "Auto-show Completer"
@@ -507,23 +507,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:342
 msgid "Completion Keys"
-msgstr ""
+msgstr "完成键"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:343
 msgid "Completion Mode"
-msgstr ""
+msgstr "完成模式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:344
 msgid "Case Insensitive Matching"
-msgstr ""
+msgstr "不分大小写匹配"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:345
 msgid "Include Snippets in Completer"
-msgstr ""
+msgstr "包括更完备的片段"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:346
 msgid "Python Turbo Mode (Experimental)"
-msgstr ""
+msgstr "Python Turbo模式(实验)"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:347
 msgid "Non-Python Completion"
@@ -535,83 +535,83 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:353
 msgid "Orientation"
-msgstr ""
+msgstr "取向"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:354
 msgid "Lock Scrolling"
-msgstr ""
+msgstr "锁滚动"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:355
 msgid "Ignore White Space"
-msgstr ""
+msgstr "忽略空白"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:356
 msgid "Empty Session Warning"
-msgstr ""
+msgstr "空会话警告"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:357
 msgid "Diff Color"
-msgstr ""
+msgstr "Diff颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:358
 msgid "Merged Diff Color"
-msgstr ""
+msgstr "合并Diff颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:362
 msgid "Print Header Format"
-msgstr ""
+msgstr "打印标题格式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:363
 msgid "Print Footer Format"
-msgstr ""
+msgstr "打印页脚格式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:364
 msgid "Print Header Font"
-msgstr ""
+msgstr "1999 Header构成"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:365
 msgid "Print Footer Font"
-msgstr ""
+msgstr "1999 Footer构成"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:366
 msgid "Use Default Foreground Colors"
-msgstr ""
+msgstr "使用默认前景颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:373
 msgid "Analyze in Background"
-msgstr ""
+msgstr "在背景分析"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:374
 msgid "Introspect Live Runtime"
-msgstr ""
+msgstr "反省生活运行时"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:375
 msgid "Typing Suspend Timeout"
-msgstr ""
+msgstr "输入暂停超时"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:376
 msgid "Max Cache Size (MB)"
-msgstr ""
+msgstr "Max隐藏规模的政令()"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:377
 msgid "Max Memory Buffers"
-msgstr ""
+msgstr "最大内存缓冲区"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:381
 msgid "Interface File Path"
-msgstr ""
+msgstr "接口文件路径"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:382
 msgid "Scrape Extension Modules"
-msgstr ""
+msgstr "刮扩展模块"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:383
 msgid "Scraping Helper Snippets"
-msgstr ""
+msgstr "刮助手片段"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:387
 msgid "Python Docs URL Prefix"
-msgstr ""
+msgstr "Python文档URL前缀"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:391
 msgid "Use SQLite Dot-file Locking"
@@ -622,11 +622,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:561
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:593
 msgid "Advanced"
-msgstr ""
+msgstr "先进的"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:402
 msgid "Brace Highlighting"
-msgstr ""
+msgstr "撑高亮显示"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:403
 msgid "Maximum Non-Sticky Editors"
@@ -634,7 +634,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:404
 msgid "Selection Policy"
-msgstr ""
+msgstr "选择策略"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:405
 msgid "Mini-search Case Sensitivity"
@@ -642,161 +642,161 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:406
 msgid "Symbol Menu Max Length"
-msgstr ""
+msgstr "符号菜单最大长度"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:411
 msgid "Integer Display Mode"
-msgstr ""
+msgstr "整数显示模式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:414
 msgid "Hover Over Symbols"
-msgstr ""
+msgstr "悬停在符号"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:415
 msgid "Hover Over Selection"
-msgstr ""
+msgstr "悬停在选择"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:416
 msgid "Run Marker Color"
-msgstr ""
+msgstr "运行标志颜色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:417
 msgid "Run Marker Alpha"
-msgstr ""
+msgstr "运行指标α"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:418
 msgid "Line Threshold"
-msgstr ""
+msgstr "线阈值"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:422
 msgid "Default Watch Style"
-msgstr ""
+msgstr "默认的手表样式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:426
 msgid "Ignore Unsynchronized Files"
-msgstr ""
+msgstr "忽略不同步的文件"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:430
 msgid "Report Exceptions"
-msgstr ""
+msgstr "报告异常"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:431
 msgid "Report Logged Exceptions In When Printed Mode"
-msgstr ""
+msgstr "报告记录异常时打印模式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:432
 msgid "Never Report"
-msgstr ""
+msgstr "没有报告"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:433
 msgid "Always Report"
-msgstr ""
+msgstr "总报告"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:438
 msgid "Debug I/O Encoding"
-msgstr ""
+msgstr "调试I / O编码"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:439
 msgid "Shell Encoding"
-msgstr ""
+msgstr "壳牌编码"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:440
 msgid "Pretty Print in Shells"
-msgstr ""
+msgstr "好看的打印在贝壳"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:444
 msgid "OS Commands Encoding"
-msgstr ""
+msgstr "Encoding Commands骨"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:448
 msgid "Use External Console"
-msgstr ""
+msgstr "使用外部控制台"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:449
 msgid "External Console Waits on Exit"
-msgstr ""
+msgstr "关于Exit Waits External中控台"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:453
 msgid "External Consoles"
-msgstr ""
+msgstr "外部主机"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:457
 msgid "Omit Types"
-msgstr ""
+msgstr "省略的类型"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:458
 msgid "Omit Names"
-msgstr ""
+msgstr "省略的名字"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:459
 msgid "Do Not Expand"
-msgstr ""
+msgstr "不扩大"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:460
 msgid "Huge List Threshold"
-msgstr ""
+msgstr "巨大的阈值列表"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:461
 msgid "Huge String Threshold"
-msgstr ""
+msgstr "巨大的字符串阈值"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:465
 msgid "Accept Debug Connections"
-msgstr ""
+msgstr "接受调试连接"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:466
 msgid "Allowed Hosts"
-msgstr ""
+msgstr "允许主机"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:467
 msgid "Server Host"
-msgstr ""
+msgstr "服务器主机"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:468
 msgid "Server Port"
-msgstr ""
+msgstr "服务器端口"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:469
 msgid "Location Map"
-msgstr ""
+msgstr "位置地图"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:470
 msgid "Kill Externally Launched"
-msgstr ""
+msgstr "杀死外部发起的"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:471
 msgid "Common Attach Hosts"
-msgstr ""
+msgstr "常见的连接主机"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:478
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:484
 msgid "Debug Internals Log File"
-msgstr ""
+msgstr "内部调试日志文件"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:479
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:486
 msgid "Python Shell Debug Log"
-msgstr ""
+msgstr "Python Shell调试日志"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:485
 msgid "Extremely Verbose Internal Log"
-msgstr ""
+msgstr "非常详细的内部日志"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:487
 msgid "Extremely Verbose Python Shell Debug Log"
-msgstr ""
+msgstr "非常详细的Python Shell调试日志"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:490
 msgid "Network Timeout"
-msgstr ""
+msgstr "网络超时"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:491
 msgid "Resolve Properties"
-msgstr ""
+msgstr "解决属性"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:492
 msgid "Allow Dynamic Introspection"
-msgstr ""
+msgstr "允许动态自省"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:493
 msgid "Call Python ____repr____ Methods"
@@ -804,11 +804,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:494
 msgid "Show Data Warnings"
-msgstr ""
+msgstr "显示数据的警告"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:497
 msgid "Use sys.stdin Wrapper"
-msgstr ""
+msgstr "使用系统。stdin包装"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:498
 msgid "Show Editor on Exceptions in Shells"
@@ -816,11 +816,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:499
 msgid "Shells Ignore Editor Modes"
-msgstr ""
+msgstr "贝壳忽略编辑模式"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:500
 msgid "Execute Pasted Lines in Shells Immediately"
-msgstr ""
+msgstr "立即执行粘贴在贝壳"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:501
 msgid "Auto-show Run Args Dialog"
@@ -828,15 +828,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:504
 msgid "Force Win32 Window Raising"
-msgstr ""
+msgstr "力Win32窗口提高"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:508
 msgid "HTTP Proxy Server"
-msgstr ""
+msgstr "HTTP代理服务器"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:512
 msgid "Search Path"
-msgstr ""
+msgstr "搜索路径"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:513
 msgid "Auto-Reload Scripts on Save"
@@ -844,35 +844,35 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:518
 msgid "Selection/Caret"
-msgstr ""
+msgstr "选择/脱字符号"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:519
 msgid "Indentation"
-msgstr ""
+msgstr "缩进"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:520
 msgid "Line Wrapping"
-msgstr ""
+msgstr "线包装"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:521
 msgid "Clipboard"
-msgstr ""
+msgstr "剪贴板"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:524
 msgid "Syntax Coloring"
-msgstr ""
+msgstr "语法着色"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:526
 msgid "Occurrences"
-msgstr ""
+msgstr "出现"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:529
 msgid "Bookmarks"
-msgstr ""
+msgstr "书签"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:531
 msgid "Folding"
-msgstr ""
+msgstr "折叠"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:533
 msgid "Auto-completion"
@@ -884,97 +884,97 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:537
 msgid "Diff/Merge"
-msgstr ""
+msgstr "Diff / Merge"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:540
 msgid "Printing"
-msgstr ""
+msgstr "印刷"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:544
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:603
 msgid "Context Menu"
-msgstr ""
+msgstr "上下文菜单"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:549
 msgid "Layout"
-msgstr ""
+msgstr "布局"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:550
 msgid "Toolbar"
-msgstr ""
+msgstr "工具栏"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:551
 msgid "Fonts"
-msgstr ""
+msgstr "字体"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:552
 msgid "Keyboard"
-msgstr ""
+msgstr "键盘"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:556
 msgid "Perspectives"
-msgstr ""
+msgstr "视角"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:560
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:567
 msgid "File Types"
-msgstr ""
+msgstr "文件类型"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:568
 msgid "Reloading"
-msgstr ""
+msgstr "重新加载"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:572
 msgid "External Display"
-msgstr ""
+msgstr "外部显示"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:577
 msgid "Exceptions"
-msgstr ""
+msgstr "异常"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:578
 msgid "I/O"
-msgstr ""
+msgstr "I / O"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:581
 msgid "Data Filters"
-msgstr ""
+msgstr "数据过滤器"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:585
 msgid "External/Remote"
-msgstr ""
+msgstr "外部/远程"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:589
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:594
 msgid "Diagnostics"
-msgstr ""
+msgstr "诊断"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:599
 msgid "User Interface"
-msgstr ""
+msgstr "用户界面"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:606
 msgid "Projects"
-msgstr ""
+msgstr "项目"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:609
 msgid "Files"
-msgstr ""
+msgstr "文件"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:610
 msgid "Editor"
-msgstr ""
+msgstr "编辑器"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:611
 msgid "Debugger"
-msgstr ""
+msgstr "调试器"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:614
 msgid "Source Analysis"
-msgstr ""
+msgstr "来源分析"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:618
 msgid "Enable built-in version control"
@@ -982,31 +982,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:619
 msgid "Save files without prompting"
-msgstr ""
+msgstr "没有任何提示的情况下保存文件"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:620
 msgid "Track changes made in project tool"
-msgstr ""
+msgstr "跟踪更改项目的工具"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:621
 msgid "Automatically refresh status"
-msgstr ""
+msgstr "自动刷新状态"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:622
 msgid "Enable diagnostic logging"
-msgstr ""
+msgstr "启用诊断日志记录"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:627
 msgid "Version Control"
-msgstr ""
+msgstr "版本控制"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:632
 msgid "IDE Extension Scripting"
-msgstr ""
+msgstr "IDE扩展脚本"
 
 #: /Users/sdeibel/src/ide/src/pref/prefconstants.py:635
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:141
 msgid "Read preferences from %s"
@@ -1030,7 +1030,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:203
 msgid "Please report this problem to support@wingware.com"
-msgstr ""
+msgstr "请报告这个问题到support@wingware.com"
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:344
 msgid "Cate_gory"
@@ -1038,7 +1038,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:367
 msgid "Ca&tegory"
-msgstr ""
+msgstr "Ca&tegory"
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:406
 msgid "_Factory Defaults"
@@ -1058,17 +1058,17 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:415
 msgid "Preferences"
-msgstr ""
+msgstr "首选项"
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:570
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:572
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:579
 msgid "General"
-msgstr ""
+msgstr "一般"
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:652
 msgid "Really Clear Preferences?"
-msgstr ""
+msgstr "很明确的口味?"
 
 #: /Users/sdeibel/src/ide/src/pref/prefmanager.py:653
 msgid ""

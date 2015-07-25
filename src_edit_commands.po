@@ -26,23 +26,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:94
 msgid " Cut selected text "
-msgstr ""
+msgstr "减少选择的文本"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:108
 msgid " Copy selected text "
-msgstr ""
+msgstr "复制选中的文本"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:120
 msgid " Clear selected text "
-msgstr ""
+msgstr "明确选中的文本"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:132
 msgid " Paste text from clipboard "
-msgstr ""
+msgstr "从剪贴板粘贴文本"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:139
 msgid "Set the register to use for subsequent cut/copy/paste operations"
-msgstr ""
+msgstr "设置寄存器用于后续剪切/复制/粘贴操作"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:145
 msgid ""
@@ -54,7 +54,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:155
 msgid "Move the text spanned by the next cursor motion to a register"
-msgstr ""
+msgstr "移动的文本跨越下一个光标移动到一个寄存器"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:161
 msgid ""
@@ -70,11 +70,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:172
 msgid " Undo last action "
-msgstr ""
+msgstr "撤消最后的动作"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:183
 msgid " Redo last action "
-msgstr ""
+msgstr "重做最后的动作"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:194
 msgid ""
@@ -151,7 +151,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:286
 msgid "Direction: "
-msgstr ""
+msgstr "方向:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:287
 msgid ""
@@ -160,25 +160,25 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:288
 msgid "Target Pos: "
-msgstr ""
+msgstr "目标Pos:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:289
 #: /Users/sdeibel/src/ide/src/edit/commands.py:308
 msgid "Number of matches to traverse"
-msgstr ""
+msgstr "遍历匹配"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:290
 #: /Users/sdeibel/src/ide/src/edit/commands.py:309
 msgid "Repeat: "
-msgstr ""
+msgstr "重复一遍:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:291
 msgid "Search only with current line"
-msgstr ""
+msgstr "只与当前行搜索"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:292
 msgid "Single Line: "
-msgstr ""
+msgstr "一行:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:297
 msgid ""
@@ -188,15 +188,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:306
 msgid "Change to opposite direction of search"
-msgstr ""
+msgstr "变化方向相反的搜索"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:307
 msgid "Opposite: "
-msgstr ""
+msgstr "相反:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:317
 msgid "Repeat the last editor command"
-msgstr ""
+msgstr "重复最后一个编辑命令"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:321
 msgid "Show the auto-completer for current cursor position"
@@ -210,11 +210,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:340
 msgid " Place a tab character at the current cursor position "
-msgstr ""
+msgstr "在当前光标位置放置一个制表符"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:346
 msgid " Outdent line at current position "
-msgstr ""
+msgstr "减少缩进线在当前位置"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:357
 msgid ""
@@ -280,11 +280,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:413
 msgid " Move to beginning of current wrapped line"
-msgstr ""
+msgstr "移动到当前包装线的开始"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:417
 msgid " Move to beginning of current wrapped line, extending selection"
-msgstr ""
+msgstr "wrapped current个题目to line,将帮助支付适应费用的选择"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:421
 msgid " Move to first non-blank character at beginning of current wrapped line"
@@ -298,7 +298,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:430
 msgid " Move to end of current line"
-msgstr ""
+msgstr "移动到当前行"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:434
 msgid ""
@@ -308,19 +308,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:439
 msgid " Move to end of current wrapped line"
-msgstr ""
+msgstr "移动到当前包装线的结束"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:443
 msgid " Move to end of current wrapped line, extending selection"
-msgstr ""
+msgstr "移动到当前包装线,年底扩展选择"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:447
 msgid " Move to middle of current wrapped line"
-msgstr ""
+msgstr "移动到当前的包装线"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:451
 msgid " Move to middle of current wrapped line, extending selection"
-msgstr ""
+msgstr "移动到当前的包装线,扩展选择"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:455
 msgid ""
@@ -407,7 +407,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:519
 msgid " Move cursor forward one character "
-msgstr ""
+msgstr "光标向前移动一个字符"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:523
 msgid ""
@@ -423,7 +423,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:533
 msgid " Move cursor backward one character "
-msgstr ""
+msgstr "向后移动一个字符"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:537
 msgid ""
@@ -493,7 +493,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:593
 msgid " Move cursor forward one page "
-msgstr ""
+msgstr "光标向前移动一页"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:597
 msgid ""
@@ -503,7 +503,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:602
 msgid " Move cursor backward one page "
-msgstr ""
+msgstr "移动光标向后一页"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:606
 msgid ""
@@ -513,7 +513,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:611
 msgid " Move cursor to start of document "
-msgstr ""
+msgstr "光标移动到文档的开始"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:615
 msgid ""
@@ -523,7 +523,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:620
 msgid " Move cursor to end of document "
-msgstr ""
+msgstr "光标移动到文档的结束"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:624
 msgid ""
@@ -549,7 +549,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:643
 msgid " Clear any pending move command action, as for VI mode"
-msgstr ""
+msgstr "清晰的任何悬而未决的行动命令行动,至于VI模式"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:647
 msgid ""
@@ -559,7 +559,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:652
 msgid " Delete one character in front of the cursor "
-msgstr ""
+msgstr "删除前一个字符指针"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:656
 msgid ""
@@ -576,7 +576,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:668
 msgid " Delete one word in front of the cursor "
-msgstr ""
+msgstr "删除光标前面的一个词"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:672
 msgid ""
@@ -592,7 +592,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:683
 msgid " Delete one word behind of the cursor "
-msgstr ""
+msgstr "删除一个字后面的光标"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:687
 msgid ""
@@ -609,11 +609,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:699
 msgid "Delete everything between the cursor and start of line"
-msgstr ""
+msgstr "删除光标之间的一切,开始"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:703
 msgid "Delete everything between the cursor and end of line"
-msgstr ""
+msgstr "删除光标和行结束之间的一切"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:707
 msgid ""
@@ -629,7 +629,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:718
 msgid "Delete the text covered by the next cursor move command."
-msgstr ""
+msgstr "删除文本由下一个光标移动命令。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:722
 msgid ""
@@ -665,7 +665,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:804
 msgid "Duplicate the current line or lines above the selection."
-msgstr ""
+msgstr "复制当前行或行以上的选择。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:808
 msgid ""
@@ -722,11 +722,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:851
 msgid "Change case of text spanned by next cursor movement to upper case"
-msgstr ""
+msgstr "下光标移动变化情况下的文本跨越大写"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:855
 msgid "Change case of text spanned by next cursor movement to lower case"
-msgstr ""
+msgstr "下光标移动变化情况下的文本跨越小写"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:859
 msgid ""
@@ -742,27 +742,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:869
 msgid " Select all text in the editor "
-msgstr ""
+msgstr "在编辑器中选择所有文本"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:873
 msgid " Select the current line or lines "
-msgstr ""
+msgstr "选择当前行或行"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:877
 msgid "Open the current line by inserting a newline after the caret"
-msgstr ""
+msgstr "打开当前行之后插入一个新行插入符号"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:881
 msgid " Place a new line at the current cursor position "
-msgstr ""
+msgstr "新的一行在当前光标位置"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:885
 msgid " Place a new line before the current line "
-msgstr ""
+msgstr "当前行之前放置一个新行"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:889
 msgid " Place a new line after the current line "
-msgstr ""
+msgstr "当前行后放置一个新行"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:893
 msgid ""
@@ -778,11 +778,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:903
 msgid " Place a form feed character at the current cursor position "
-msgstr ""
+msgstr "一种饲料字符在当前光标位置"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:907
 msgid " Scroll to current cursor position, if not already visible "
-msgstr ""
+msgstr "滚动到当前光标位置,如果不是已经可见"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:911
 msgid ""
@@ -798,15 +798,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:921
 msgid " Scroll so cursor is centered on display "
-msgstr ""
+msgstr "滚动游标集中展出"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:925
 msgid " Scroll so cursor is centered at top of display "
-msgstr ""
+msgstr "滚动游标是集中在顶部显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:929
 msgid " Scroll so cursor is centered at bottom of display "
-msgstr ""
+msgstr "滚动游标是集中在底部显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:933
 msgid ""
@@ -863,7 +863,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:971
 msgid " Move cursor to center of display (without scrolling) "
-msgstr ""
+msgstr "光标移动到中心显示(没有滚动)"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:975
 msgid ""
@@ -879,59 +879,59 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:985
 msgid " Turn on display of the current text selection "
-msgstr ""
+msgstr "打开显示当前文本的选择"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:989
 msgid " Turn off display of the current text selection "
-msgstr ""
+msgstr "关闭显示当前文本的选择"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:993
 msgid " Cancel current editor command "
-msgstr ""
+msgstr "取消当前编辑器命令"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:997
 msgid " Complete the current active autocompletion. "
-msgstr ""
+msgstr "完成当前活动自动完成。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1005
 msgid " Cancel any active autocompletion. "
-msgstr ""
+msgstr "取消任何活跃的自动完成。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1013
 msgid " Activate the 1st symbol menu for the editor. "
-msgstr ""
+msgstr "激活的第一象征菜单编辑器。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1019
 msgid " Activate the 2nd symbol menu for the editor. "
-msgstr ""
+msgstr "激活第二符号编辑器菜单。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1025
 msgid " Activate the 3rd symbol menu for the editor. "
-msgstr ""
+msgstr "激活的第三符号菜单编辑器。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1031
 msgid " Activate the 4th symbol menu for the editor. "
-msgstr ""
+msgstr "激活的4符号菜单编辑器。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1037
 msgid " Activate the 5th symbol menu for the editor. "
-msgstr ""
+msgstr "激活的第五符号菜单编辑器。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1043
 msgid "Turn on profiling for the current source editor"
-msgstr ""
+msgstr "分析当前源代码编辑器打开"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1052
 msgid "Stop profiling and print stats to stdout"
-msgstr ""
+msgstr "停止剖析和打印数据发送到stdout"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1061
 msgid "Copy the current lines(s) to clipboard"
-msgstr ""
+msgstr "当前行(s)复制到剪贴板"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1066
 msgid " Cut the current line(s) to clipboard. "
-msgstr ""
+msgstr "将当前行(s)到剪贴板。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1071
 msgid ""
@@ -947,11 +947,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1083
 msgid " Rescan file for code analysis. "
-msgstr ""
+msgstr "重新扫描文件代码分析。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1097
 msgid " Strip trailing whitespace from each line. "
-msgstr ""
+msgstr "去每一行中的尾随空格。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1105
 msgid ""
@@ -971,7 +971,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1141
 msgid " Select the statement the cursor is in. "
-msgstr ""
+msgstr "选择游标的语句。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1149
 msgid ""
@@ -989,7 +989,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1169
 msgid " Select the block the cursor is in. "
-msgstr ""
+msgstr "选择块的光标。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1177
 msgid ""
@@ -1007,7 +1007,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1197
 msgid " Select the scope the cursor is in. "
-msgstr ""
+msgstr "选择范围的光标。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1206
 msgid ""
@@ -1025,7 +1025,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1226
 msgid " Goes to the method that is overridden by the current method "
-msgstr ""
+msgstr "去覆盖了当前方法的方法"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1257
 msgid ""
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1314
 msgid "Raise editor window if necessary in this windowing mode"
-msgstr ""
+msgstr "如果有必要提高编辑器窗口在这个窗口模式"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1324
 msgid ""
@@ -1045,21 +1045,21 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1332
 msgid "The search string"
-msgstr ""
+msgstr "搜索字符串"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1335
 msgid "Search:"
-msgstr ""
+msgstr "搜索:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1336
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1357
 msgid "The replacement string"
-msgstr ""
+msgstr "替换字符串"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1339
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1360
 msgid "Replace:"
-msgstr ""
+msgstr "替换:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1345
 msgid ""
@@ -1069,11 +1069,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1353
 msgid "The search regular expression"
-msgstr ""
+msgstr "搜索正则表达式"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1356
 msgid "Regex:"
-msgstr ""
+msgstr "正则表达式:"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1365
 msgid ""
@@ -1139,11 +1139,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1436
 msgid "Reset font zoom factor back to zero"
-msgstr ""
+msgstr "重置字体缩放因子回零"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1440
 msgid " Toggle status of overtyping mode "
-msgstr ""
+msgstr "切换状态的改写模式"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1444
 msgid " Turn on all special marks for displaying white space and end-of-line  "
@@ -1155,11 +1155,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1463
 msgid " Turn on special marks for displaying white space "
-msgstr ""
+msgstr "打开显示空白的特殊标志"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1472
 msgid " Turn off special marks for displaying white space "
-msgstr ""
+msgstr "关掉特殊标志显示空白"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1481
 msgid " Turn on special marks for displaying end-of-line chars "
@@ -1171,11 +1171,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1499
 msgid " Turn on special marks for displaying indent level "
-msgstr ""
+msgstr "打开特殊标志显示缩进级别"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1508
 msgid " Turn off special marks for displaying indent level "
-msgstr ""
+msgstr "关掉特殊标志显示缩进级别"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1517
 msgid ""
@@ -1192,11 +1192,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1537
 msgid " Save the current text file to disk "
-msgstr ""
+msgstr "保存当前文本文件到磁盘"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1543
 msgid " Close the current text file "
-msgstr ""
+msgstr "关闭当前文本文件"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1556
 msgid " Return arg info sequence for insert-file command. "
@@ -1204,11 +1204,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1562
 msgid "The file to insert"
-msgstr ""
+msgstr "文件中插入"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1567
 msgid "Insert file"
-msgstr ""
+msgstr "插入文件"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1575
 msgid ""
@@ -1236,20 +1236,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1596
 msgid "The line number"
-msgstr ""
+msgstr "的行号"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1600
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1615
 msgid "Go To Line"
-msgstr ""
+msgstr "去行"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1608
 msgid " Position cursor at start of given line number "
-msgstr ""
+msgstr "光标位置开始的行号"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1618
 msgid " Scroll to and select the given line number"
-msgstr ""
+msgstr "滚动和选择给定的行号"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1629
 msgid ""
@@ -1269,11 +1269,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1647
 msgid "The percent in file"
-msgstr ""
+msgstr "文件的百分比"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1649
 msgid "Goto percent"
-msgstr ""
+msgstr "Goto百分比"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1655
 msgid ""
@@ -1290,15 +1290,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1667
 msgid "The column to move to"
-msgstr ""
+msgstr "列移动到"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1669
 msgid "Goto column"
-msgstr ""
+msgstr "高特列"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1676
 msgid "Move cursor to given column"
-msgstr ""
+msgstr "光标移动到给定的列"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1682
 msgid ""
@@ -1310,7 +1310,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1697
 msgid " Stop definition of a keyboard macro "
-msgstr ""
+msgstr "停止键盘宏的定义"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1705
 msgid ""
@@ -1359,11 +1359,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1754
 msgid "Indent lines spanned by next cursor move"
-msgstr ""
+msgstr "缩进行了下光标移动"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1760
 msgid "Outdent lines spanned by next cursor move"
-msgstr ""
+msgstr "减少缩进行了下光标移动"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1766
 msgid ""
@@ -1418,7 +1418,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1845
 msgid "Run the contents of the editor within the Python Shell"
-msgstr ""
+msgstr "运行Python Shell中的编辑器的内容"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1850
 msgid ""
@@ -1460,7 +1460,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1922
 msgid "Select Source Symbol"
-msgstr ""
+msgstr "选择源符号"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1943
 msgid ""
@@ -1483,19 +1483,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1966
 msgid " Display the indentation manager for this editor file "
-msgstr ""
+msgstr "这个编辑器显示缩进经理的文件"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1972
 msgid " Convert all lines with leading spaces to mixed tabs and spaces. "
-msgstr ""
+msgstr "将所有线与领先的空间混合制表符和空格。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1981
 msgid " Convert all lines containing leading tabs to spaces only. "
-msgstr ""
+msgstr "只包含导致标签空间转换所有行。"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1990
 msgid " Convert all indentation to use tab characters only and no spaces "
-msgstr ""
+msgstr "将所有使用制表符缩进,没有空格"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:1999
 msgid ""
@@ -1529,223 +1529,223 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2044
 msgid " Toggle the current fold point "
-msgstr ""
+msgstr "切换当前的折点"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2052
 msgid " Collapse the current fold point "
-msgstr ""
+msgstr "崩溃当前折点"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2060
 msgid " Expand the current fold point "
-msgstr ""
+msgstr "扩大当前的折点"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2068
 msgid " Toggle the clicked fold point "
-msgstr ""
+msgstr "切换点击折叠点"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2078
 msgid " Collapse the current fold point one more level "
-msgstr ""
+msgstr "崩溃当前折点一个水平"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2086
 msgid " Collapse the clicked fold point one more level "
-msgstr ""
+msgstr "崩溃点击折叠点一个水平"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2096
 msgid " Expand the current fold point one more level "
-msgstr ""
+msgstr "扩大当前折点一个水平"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2104
 msgid " Expand the clicked fold point one more level "
-msgstr ""
+msgstr "扩大点击折叠点一个水平"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2115
 msgid " Collapse the current fold point completely "
-msgstr ""
+msgstr "完全崩溃当前折点"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2123
 msgid " Collapse the clicked fold point completely "
-msgstr ""
+msgstr "点击折叠点完全崩溃"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2133
 msgid " Expand the current fold point completely "
-msgstr ""
+msgstr "扩大当前完全折叠点"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2141
 msgid " Expand the clicked fold point completely "
-msgstr ""
+msgstr "扩大点击完全折叠点"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2151
 msgid " Collapse all fold points in the current file "
-msgstr ""
+msgstr "全部折叠折点在当前文件"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2159
 msgid " Expand all fold points in the current file "
-msgstr ""
+msgstr "扩展所有的折点在当前文件"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2170
 msgid "Print active editor document"
-msgstr ""
+msgstr "打印活动编辑文档"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2177
 msgid " Show printing page setup dialog "
-msgstr ""
+msgstr "显示打印页面设置对话框"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2193
 msgid " Force syntax highlighting for Python source"
-msgstr ""
+msgstr "语法高亮Python源力量"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2196
 msgid " Force syntax highlighting for Cython source"
-msgstr ""
+msgstr "语法高亮Cython源力量"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2199
 msgid " Force syntax highlighting for C/C++ source"
-msgstr ""
+msgstr "力为C / c++源代码语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2202
 msgid " Force syntax highlighting for Java source "
-msgstr ""
+msgstr "力语法高亮显示的Java源代码"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2205
 msgid " Force syntax highlighting for make files "
-msgstr ""
+msgstr "力使文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2208
 msgid " Force syntax highlighting for DOS batch files "
-msgstr ""
+msgstr "力为DOS批处理文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2211
 msgid " Force syntax highlighting for Visual Basic "
-msgstr ""
+msgstr "力为Visual Basic语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2214
 msgid " Force syntax highlighting for HTML"
-msgstr ""
+msgstr "语法高亮显示为HTML"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2217
 msgid " Force syntax highlighting for properties files "
-msgstr ""
+msgstr "力量属性文件的语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2220
 msgid " Force syntax highlighting for error list format "
-msgstr ""
+msgstr "力语法高亮显示错误列表格式"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2223
 msgid " Force syntax highlighting for MS IDL"
-msgstr ""
+msgstr "力为IDL女士语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2226
 msgid " Force syntax highlighting for SQL "
-msgstr ""
+msgstr "力为SQL语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2229
 msgid " Force syntax highlighting for XML files "
-msgstr ""
+msgstr "力为XML文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2232
 msgid " Force syntax highlighting for XCode files "
-msgstr ""
+msgstr "力XCode文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2235
 msgid " Force syntax highlighting for LaTeX "
-msgstr ""
+msgstr "力为乳胶语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2238
 msgid " Force syntax highlighting for Lua "
-msgstr ""
+msgstr "力对Lua语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2241
 msgid " Force syntax highlighting for XP IDL "
-msgstr ""
+msgstr "力为XP IDL语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2244
 msgid " Force syntax highlighting for Javascript "
-msgstr ""
+msgstr "力为Javascript语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2247
 msgid " Force syntax highlighting for RC file format "
-msgstr ""
+msgstr "力为RC文件格式语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2250
 msgid " Force syntax highlighting for PL/SQL files"
-msgstr ""
+msgstr "力PL / SQL文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2253
 msgid " Force syntax highlighting for PHP source "
-msgstr ""
+msgstr "语法高亮显示PHP源力量"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2256
 msgid " Force syntax highlighting for Perl source "
-msgstr ""
+msgstr "力为Perl语法高亮显示的来源"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2259
 msgid " Force syntax highlighting for diff/cdiff files "
-msgstr ""
+msgstr "力diff / cdiff文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2262
 msgid " Force syntax highlighting for Pascal source "
-msgstr ""
+msgstr "语法高亮帕斯卡源力量"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2265
 msgid " Force syntax highlighting for Apache configuration file format "
-msgstr ""
+msgstr "力为Apache配置文件格式语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2268
 msgid " Force syntax highlighting for Avenue GIS language "
-msgstr ""
+msgstr "力大道GIS语言语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2271
 msgid " Force syntax highlighting Ada source "
-msgstr ""
+msgstr "语法高亮Ada源力量"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2274
 msgid " Force syntax highlighting for Eiffel source "
-msgstr ""
+msgstr "语法高亮埃菲尔源力量"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2277
 msgid " Force syntax highlighting for Lisp source "
-msgstr ""
+msgstr "语法高亮Lisp源力量"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2280
 msgid " Force syntax highlighting for Ruby source "
-msgstr ""
+msgstr "力为Ruby语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2283
 msgid " Force syntax highlighting for bash scripts "
-msgstr ""
+msgstr "力为bash脚本语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2286
 msgid " Force syntax highlighting for Bullant "
-msgstr ""
+msgstr "力为Bullant语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2289
 msgid " Force syntax highlighting for TCL "
-msgstr ""
+msgstr "力为TCL语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2292
 msgid " Force syntax highlighting for CSS2 "
-msgstr ""
+msgstr "力语法高亮CSS2"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2295
 msgid " Force syntax highlighting for QSS (Qt Style sheets) "
-msgstr ""
+msgstr "力语法高亮显示工作频率(Qt样式表)"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2298
 msgid " Force syntax highlighting for SCSS formatted SASS"
-msgstr ""
+msgstr "力为SCSS格式化SASS语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2301
 msgid " Force syntax highlighting for Fortran "
-msgstr ""
+msgstr "力为Fortran语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2304
 msgid " Force syntax highlighting for Matlab "
-msgstr ""
+msgstr "力为Matlab语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2307
 msgid " Force syntax highlighting for Scriptol "
-msgstr ""
+msgstr "力为Scriptol语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2310
 msgid ""
@@ -1754,83 +1754,83 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2313
 msgid " Force syntax highlighting for EScript "
-msgstr ""
+msgstr "强调EScript for syntax部队"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2316
 msgid " Force syntax highlighting for LOUT typesetting language "
-msgstr ""
+msgstr "力笨拙的排版语言语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2319
 msgid " Force syntax highlighting for MMIX assembly language "
-msgstr ""
+msgstr "力MMIX汇编语言的语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2322
 msgid " Force syntax highlighting for NSIS "
-msgstr ""
+msgstr "力NSIS的语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2325
 msgid " Force syntax highlighting for Postscript "
-msgstr ""
+msgstr "力为Postscript语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2328
 msgid " Force syntax highlighting for YAML "
-msgstr ""
+msgstr "力YAML的语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2331
 msgid " Force syntax highlighting for VXML "
-msgstr ""
+msgstr "力为VXML语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2334
 msgid " Force syntax highlighting for Masm assembly language "
-msgstr ""
+msgstr "力Masm汇编语言实现的语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2337
 msgid " Force syntax highlighting for Baan "
-msgstr ""
+msgstr "力博安公司的语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2340
 msgid " Force syntax highlighting for NNCrontab files "
-msgstr ""
+msgstr "力NNCrontab文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2343
 msgid " Force syntax highlighting for Mako template file "
-msgstr ""
+msgstr "力为条纹状模板文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2346
 msgid " Force syntax highlighting for Django template file "
-msgstr ""
+msgstr "力为Django模板文件语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2349
 msgid " Force syntax highlighting for R source file "
-msgstr ""
+msgstr "力为R语法高亮显示源文件"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2352
 msgid " Force syntax highlighting for Coffee Script source file "
-msgstr ""
+msgstr "力源文件语法高亮显示喝咖啡脚本"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2356
 msgid " Use no syntax highlighting "
-msgstr ""
+msgstr "不使用语法高亮显示"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2359
 msgid " Use syntax highlighting appropriate to the file type "
-msgstr ""
+msgstr "使用语法高亮显示适当的文件类型"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2365
 msgid " Toggles line wrapping preference for all editors "
-msgstr ""
+msgstr "所有编辑器切换线包装的偏好"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2371
 msgid " Set anchor in the visit history to go back to "
-msgstr ""
+msgstr "在访问中设置锚回到历史"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2377
 msgid "Commands available when working either in the shell or editor"
-msgstr ""
+msgstr "命令shell或编辑工作时可用"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2384
 msgid "Constructor"
-msgstr ""
+msgstr "构造函数"
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2393
 msgid ""
@@ -1847,4 +1847,4 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/commands.py:2426
 msgid "Get shell with focus or otherwise active editor"
-msgstr ""
+msgstr "得到壳与焦点或活动编辑器"

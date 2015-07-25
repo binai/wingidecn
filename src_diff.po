@@ -234,7 +234,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2377
 msgid "Fetching revision..."
-msgstr "获取修改……"
+msgstr "fetching revision…"
 
 #: /Users/sdeibel/src/ide/src/diff/manager.py:2416
 msgid ""

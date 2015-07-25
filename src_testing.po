@@ -181,7 +181,7 @@ msgstr "运行所有测试"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:880
 msgid "Clear All Results"
-msgstr ""
+msgstr "清除所有的结果"
 
 #: /Users/sdeibel/src/ide/src/testing/cap_testinggui.py:884
 msgid "Abort Tests"

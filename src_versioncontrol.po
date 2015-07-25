@@ -51,7 +51,7 @@ msgstr "合并所有分支"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:66
 msgid "Push Entire Branch"
-msgstr "推动整个分支"
+msgstr "Push界线分局"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/cap_bzr.py:68
 msgid "Add"
@@ -544,7 +544,7 @@ msgstr "认为列表"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1313
 msgid "View as Tree"
-msgstr "认为树"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:1478
 msgid "No modified files"
@@ -610,7 +610,7 @@ msgstr "提交失败"
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2007
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2010
 msgid "Command completed:  Output displayed in scratch editor."
-msgstr "1997年10 displayed输出:联防队拉丁摇滚乐in。"
+msgstr "命令完成:输出显示在编辑器。"
 
 #: /Users/sdeibel/src/ide/src/versioncontrol/widgets.py:2062
 msgid "_Locations"

@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2015-07-21 21:50+0800\n"
-"Last-Translator: Rains <rains31@gmail.com>\n"
+"PO-Revision-Date: 2015-07-25 16:46+0800\n"
+"Last-Translator: binai <msiiiu@qq.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -18,27 +18,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:34
 msgid "Breakpoints for a file"
-msgstr ""
+msgstr "断点的文件"
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:38
 msgid "Exceptions ignored for a file"
-msgstr ""
+msgstr "异常忽略一个文件"
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:42
 msgid "History list of commands in Python Shell"
-msgstr ""
+msgstr "历史在Python Shell的命令列表"
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:46
 msgid "History list of commands in Debug Probe"
-msgstr ""
+msgstr "历史在调试探针的命令列表"
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:50
 msgid "History list of expressions used in the evaluator"
-msgstr ""
+msgstr "历史列表中使用的表达式求值程序"
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:54
 msgid "History list of expressions"
-msgstr ""
+msgstr "历史的表达式列表"
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:61
 msgid ""
@@ -64,7 +64,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:87
 msgid "Used internally to save recently used run arguments"
-msgstr ""
+msgstr "内部使用,保存最近使用的运行参数"
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:96
 msgid ""
@@ -74,19 +74,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/attribs.py:99
 msgid "Whether to show dialog before running file"
-msgstr ""
+msgstr "是否显示对话框之前运行文件"
 
 #: /Users/sdeibel/src/ide/src/debug/client/bpmanager.py:110
 msgid "Breakpoint Insert Failed"
-msgstr ""
+msgstr "断点插入失败"
 
 #: /Users/sdeibel/src/ide/src/debug/client/bpmanager.py:110
 msgid "Failed to insert breakpoint: "
-msgstr ""
+msgstr "未能插入断点:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/bpmanager.py:450
 msgid "No code at the selected line"
-msgstr ""
+msgstr "没有代码在选定的行"
 
 #: /Users/sdeibel/src/ide/src/debug/client/bpmanager.py:1041
 msgid ""
@@ -96,7 +96,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/bpmanager.py:1041
 msgid "TrackBreaks Failed"
-msgstr ""
+msgstr "TrackBreaks失败"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:56
 msgid "Call Stack"
@@ -105,7 +105,7 @@ msgstr "调用栈"
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:61
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:142
 msgid "Debug Process Call Stack"
-msgstr ""
+msgstr "调试过程调用堆栈"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:195
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:203
@@ -128,37 +128,37 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:319
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:720
 msgid "Failed to select stack frame"
-msgstr ""
+msgstr "未能选择堆栈帧"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:320
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:721
 msgid "Could not display selected stack frame"
-msgstr ""
+msgstr "不能显示选定的堆栈帧"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:380
 msgid "Copy Stack to Clipboard"
-msgstr ""
+msgstr "堆栈复制到剪贴板"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:382
 msgid "Hide Code Line"
-msgstr ""
+msgstr "隐藏代码行"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:384
 msgid "Show Code Line Appended"
-msgstr ""
+msgstr "显示代码行附加"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:386
 msgid "Show Code Line Below"
-msgstr ""
+msgstr "下面显示代码行"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:389
 msgid "Show Call Stack Documentation"
-msgstr ""
+msgstr "显示调用堆栈的文档"
 
 #: /Users/sdeibel/src/ide/src/debug/client/callstack.py:394
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:437
 msgid "Breakpoint Mgr"
-msgstr ""
+msgstr "断点经理"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_advbreak.py:320
 msgid "Cannot ignore breakpoint '%s' times"
@@ -195,7 +195,7 @@ msgstr "条件断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_advbreak.py:388
 msgid "Enter new breakpoint condition:"
-msgstr ""
+msgstr "输入新断点条件:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_advbreak.py:461
 msgid "OK"
@@ -208,15 +208,15 @@ msgstr "取消"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_advbreak.py:466
 msgid "Ignore Breakpoint"
-msgstr ""
+msgstr "忽略断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_advbreak.py:492
 msgid "Enter number of hits to ignore:"
-msgstr ""
+msgstr "输入撞击,忽略:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:143
 msgid "Could not attach"
-msgstr ""
+msgstr "不能连接"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:143
 msgid "Could not attach to host %s, port %s: "
@@ -233,7 +233,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:291
 msgid "Both host and port must be filled in"
-msgstr ""
+msgstr "主机和端口都必须填写"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:291
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:297
@@ -246,7 +246,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:322
 msgid "Select a process to attach to:"
-msgstr ""
+msgstr "选择连接到一个过程:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:336
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:340
@@ -300,7 +300,7 @@ msgstr "附着"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_attach.py:428
 msgid "Attach to Debug Process"
-msgstr ""
+msgstr "连接到调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:57
 msgid "Breakpoints"
@@ -308,7 +308,7 @@ msgstr "断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:62
 msgid "Debug Breakpoint Manager"
-msgstr ""
+msgstr "调试断点管理器"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:147
 msgid "Breakpoint Manager"
@@ -317,7 +317,7 @@ msgstr "断点管理器"
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:162
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:172
 msgid "Breakpoint manager state"
-msgstr ""
+msgstr "断点管理器状态"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:224
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:304
@@ -354,7 +354,7 @@ msgstr "浏览次数"
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:225
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:305
 msgid "Ignores Left"
-msgstr ""
+msgstr "忽略了"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:359
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:547
@@ -371,7 +371,7 @@ msgstr "移除断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:428
 msgid "Remove All Breakpoints"
-msgstr ""
+msgstr "删除所有断点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:429
 msgid "Disable _All Breakpoints"
@@ -383,45 +383,45 @@ msgstr "启用全部断点(_A)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_breakpanel.py:432
 msgid "Show Breakpoints Documentation"
-msgstr ""
+msgstr "显示断点文档"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:114
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:525
 msgid "Cannot execute: program is exiting"
-msgstr ""
+msgstr "不能执行:程序退出"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:120
 msgid "Cannot execute: debug process is busy"
-msgstr ""
+msgstr "不能执行:调试过程很忙"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:124
 msgid "Executing command.  Please wait for result."
-msgstr ""
+msgstr "执行命令。请等待结果。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:126
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:531
 msgid "Waiting for keyboard input"
-msgstr ""
+msgstr "等待键盘输入"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:128
 msgid "Commands execute in current stack frame.  Use arrow keys for history."
-msgstr ""
+msgstr "在当前堆栈帧命令执行。使用箭头键的历史。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:130
 msgid "Cannot execute: no debug process"
-msgstr ""
+msgstr "不能执行:没有调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:132
 msgid "Cannot execute: debug program is connecting"
-msgstr ""
+msgstr "不能执行:调试程序连接"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:134
 msgid "Cannot execute: debugger not ready or exiting"
-msgstr ""
+msgstr "不能执行:调试器没有准备好或退出"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:136
 msgid "Cannot execute: unknown or invalid debug mode"
-msgstr ""
+msgstr "不能执行:未知或无效的调试模式"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:175
 msgid "Debug Probe"
@@ -429,7 +429,7 @@ msgstr "调试探头"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:180
 msgid "Command Line for Probing Paused Debug Process Data"
-msgstr ""
+msgstr "命令行探索暂停调试过程数据"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_debugprobe.py:262
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:578
@@ -487,7 +487,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:345
 msgid "Untitled Launch Config"
-msgstr ""
+msgstr "无标题的启动配置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:580
 msgid "Show _Docs..."
@@ -519,11 +519,11 @@ msgstr "右键点击列表编辑"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:628
 msgid "Manage Launch Configurations"
-msgstr ""
+msgstr "管理启动配置"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:698
 msgid "Use Duplicate Launch Configuration Name?"
-msgstr ""
+msgstr "使用重复启动配置名称?"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:699
 msgid ""
@@ -547,7 +547,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:802
 msgid "Delete Launch Configuration?"
-msgstr ""
+msgstr "删除启动配置?"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:803
 msgid ""
@@ -696,7 +696,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1147
 msgid "The name of the launch configuration"
-msgstr ""
+msgstr "启动配置的名称"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1167
 msgid "Unbuffered (-u)"
@@ -722,12 +722,12 @@ msgstr "执行(_E)"
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1605
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:2080
 msgid "Debug Key Binding"
-msgstr ""
+msgstr "调试密钥绑定"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1605
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:2083
 msgid "Execute Key Binding"
-msgstr ""
+msgstr "执行密钥绑定"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1641
 msgid "Manage Named Entry Points"
@@ -735,7 +735,7 @@ msgstr "管理已命名的入口点..."
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1700
 msgid "Overwrite Existing Named Entry Point?"
-msgstr ""
+msgstr "覆盖现有的名为入口点?"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1701
 msgid ""
@@ -745,7 +745,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1759
 msgid "Confirm Named Entry Point Deletion"
-msgstr ""
+msgstr "确认指定入口点删除"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1760
 msgid "Are you sure you want to delete named entry point '%s'?"
@@ -773,7 +773,7 @@ msgstr "Python 文件"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1934
 msgid "The Python file to launch"
-msgstr ""
+msgstr "Python文件启动"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1940
 msgid ""
@@ -783,11 +783,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:1947
 msgid "Whether to show this dialog before launching this entry point"
-msgstr ""
+msgstr "是否显示这个对话框之前推出这个入口点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:2025
 msgid "You must specify a file to launch."
-msgstr ""
+msgstr "您必须指定一个文件来启动。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:2030
 msgid "The selected file does not exist."
@@ -801,11 +801,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:2041
 msgid "The selected launch configuration no longer exists."
-msgstr ""
+msgstr "所选的启动配置已不复存在。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:2102
 msgid "The key binding assigned to initiate debug of the named entry point"
-msgstr ""
+msgstr "分配给启动调试的密钥绑定的命名的入口点"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_launch.py:2104
 msgid ""
@@ -827,11 +827,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:47
 msgid "Cannot evaluate: no debug program"
-msgstr ""
+msgstr "不能评价:没有调试程序"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:49
 msgid "Cannot evaluate: debug program is running"
-msgstr ""
+msgstr "无法评估:调试程序正在运行"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:51
 msgid "Right-click for option menu"
@@ -839,11 +839,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:53
 msgid "Cannot evaluate: debugger not ready"
-msgstr ""
+msgstr "无法评估:调试器没有准备好"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:55
 msgid "Cannot evaluate: unknown or invalid debug mode"
-msgstr ""
+msgstr "无法评估:未知或无效的调试模式"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:81
 msgid "Watch"
@@ -851,52 +851,52 @@ msgstr "监视"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:86
 msgid "Watch Debug Data Values and Expressions"
-msgstr ""
+msgstr "看调试数据值和表达式"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:104
 msgid "No reference value selected"
-msgstr ""
+msgstr "没有参考价值选择"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:110
 msgid "No value found"
-msgstr ""
+msgstr "没有价值的发现"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:116
 msgid "No reference to track"
-msgstr ""
+msgstr "没有参考跟踪"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:126
 msgid "No parent reference to track"
-msgstr ""
+msgstr "没有父母参考跟踪"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:129
 msgid "No parent found"
-msgstr ""
+msgstr "没有父母发现"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:132
 msgid "No parent value found"
-msgstr ""
+msgstr "没有父母的价值发现"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:144
 msgid "No symbolic path found"
-msgstr ""
+msgstr "没有符号路径发现"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:159
 msgid "Value not in module scope"
-msgstr ""
+msgstr "价值不是在模块范围"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:181
 msgid "Invalid watch style"
-msgstr ""
+msgstr "无效的手表风格"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:260
 msgid "Watch tool tree state"
-msgstr ""
+msgstr "看工具树状态"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:270
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:307
 msgid "Watch tool state"
-msgstr ""
+msgstr "观察工具的状态"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:292
 msgid "Debug %s watch on %s"
@@ -908,38 +908,38 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:304
 msgid "Debug watch tree state"
-msgstr ""
+msgstr "调试看树状态"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:423
 msgid "Add Expression"
-msgstr ""
+msgstr "添加表情"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:425
 msgid "Clear Selected"
-msgstr ""
+msgstr "明确的选择"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:426
 msgid "Clear All"
-msgstr ""
+msgstr "清除所有"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:428
 msgid "Use Tree View"
-msgstr ""
+msgstr "使用树视图"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:429
 msgid "Use Combo View"
-msgstr ""
+msgstr "使用组合视图"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:432
 msgid "Watching"
-msgstr ""
+msgstr "看"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:432
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:512
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:213
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:1067
 msgid "Value"
-msgstr ""
+msgstr "价值"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:473
 msgid ""
@@ -948,15 +948,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cap_watch.py:478
 msgid "Cannot edit watchpoint name::Only expressions can be edited"
-msgstr ""
+msgstr "无法编辑监视点名称::只能编辑表达式"
 
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:331
 msgid "Debug I/O"
-msgstr ""
+msgstr "调试I / O"
 
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:336
 msgid "Debug Process I/O"
-msgstr ""
+msgstr "调试过程中I / O"
 
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:483
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:235
@@ -974,19 +974,19 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:530
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:1018
 msgid "No debug process"
-msgstr ""
+msgstr "没有调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:533
 msgid "Debug I/O appears in context where process was launched"
-msgstr ""
+msgstr "调试I / O出现在上下文在流程启动"
 
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:536
 msgid "See external console for debug I/O"
-msgstr ""
+msgstr "看到外部主机调试I / O"
 
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:539
 msgid "Debug I/O (stdin, stdout, stderr) appears below"
-msgstr ""
+msgstr "调试I / O(stdin、stdout stderr)出现如下"
 
 #: /Users/sdeibel/src/ide/src/debug/client/debugio.py:582
 msgid "_Auto-Clear When Debug Starts"
@@ -1020,11 +1020,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:185
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:699
 msgid "Exceptions"
-msgstr ""
+msgstr "异常"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:190
 msgid "Debug Process Exceptions"
-msgstr ""
+msgstr "调试流程异常"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:213
 msgid "_Ignore this exception location"
@@ -1043,19 +1043,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:241
 msgid "Move down the exception stack"
-msgstr ""
+msgstr "异常堆栈"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:250
 msgid "Show innermost frame of the exception stack"
-msgstr ""
+msgstr "显示内层的异常堆栈帧"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:259
 msgid "Move up the exception stack"
-msgstr ""
+msgstr "移动异常堆栈"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:314
 msgid "Copy the exception and traceback to the clipboard"
-msgstr ""
+msgstr "复制异常并回溯到剪贴板"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:315
 msgid "Copy _Traceback"
@@ -1089,7 +1089,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:349
 msgid "Clear the list of all previously ignored exceptions"
-msgstr ""
+msgstr "明确所有此前被忽略的异常的列表"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:350
 msgid "Clear _Ignored Exceptions"
@@ -1101,15 +1101,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:691
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: /Users/sdeibel/src/ide/src/debug/client/excpanel.py:692
 msgid "Clear"
-msgstr ""
+msgstr "清晰的"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:99
 msgid "Could not start shell process"
-msgstr ""
+msgstr "无法启动shell进程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:461
 msgid "Internal Wing IDE Error -- please submit a bug report"
@@ -1117,19 +1117,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:512
 msgid "Restarting shell process...\n"
-msgstr ""
+msgstr "Restarting壳牌process...\n"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:529
 msgid "Executing command.  Please wait for result"
-msgstr ""
+msgstr "执行命令。请等待结果"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:533
 msgid "Commands execute without debug.  Use arrow keys for history."
-msgstr ""
+msgstr "没有调试命令执行。使用箭头键的历史。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:536
 msgid "Cannot execute: waiting for shell to restart"
-msgstr ""
+msgstr "不能执行:等待重启"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:538
 msgid "Cannot execute: use Options -> Restart Shell to launch shell"
@@ -1137,11 +1137,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:541
 msgid "Needs restart for Python env"
-msgstr ""
+msgstr "需要重新启动Python环境"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:697
 msgid "Traceback (most recent call last):\n"
-msgstr ""
+msgstr "回溯(最近调用最后):\n"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:699
 msgid "  File \"%s\", line %s, in %s\n"
@@ -1149,7 +1149,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:718
 msgid "Stale Python Shell Environment"
-msgstr ""
+msgstr "陈旧的Python Shell环境"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:719
 msgid ""
@@ -1168,11 +1168,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:968
 msgid "Python Shell"
-msgstr ""
+msgstr "Python Shell"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:973
 msgid "Interactive Python Shell"
-msgstr ""
+msgstr "Python交互式Shell"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:1076
 msgid "Copy _With Prompts"
@@ -1248,11 +1248,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:1353
 msgid "Use Project Properties"
-msgstr ""
+msgstr "使用项目属性"
 
 #: /Users/sdeibel/src/ide/src/debug/client/interactive.py:1364
 msgid "Manage Launch Configurations..."
-msgstr ""
+msgstr "管理启动配置…"
 
 #: /Users/sdeibel/src/ide/src/debug/client/manager.py:343
 msgid "Could not watch value::%s"
@@ -1260,7 +1260,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/manager.py:403
 msgid "Ignored Exceptions Cleared"
-msgstr ""
+msgstr "忽略例外了"
 
 #: /Users/sdeibel/src/ide/src/debug/client/manager.py:404
 msgid ""
@@ -1296,7 +1296,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/manager.py:606
 msgid "Tuple items must be strings\n"
-msgstr ""
+msgstr "元组的物品必须是字符串\n"
 
 #: /Users/sdeibel/src/ide/src/debug/client/manager.py:630
 msgid ""
@@ -1306,7 +1306,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/manager.py:632
 msgid "Should be a tuple of (remote, local) tuples"
-msgstr ""
+msgstr "应该是一个元组(远程、本地)元组吗"
 
 #: /Users/sdeibel/src/ide/src/debug/client/manager.py:773
 msgid ""
@@ -1361,27 +1361,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:74
 msgid "File Mappings"
-msgstr ""
+msgstr "文件映射"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:74
 msgid "Remote IP Address"
-msgstr ""
+msgstr "远程IP地址"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:75
 msgid "Same as localhost"
-msgstr ""
+msgstr "本地主机一样"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:75
 msgid "Specify mapping"
-msgstr ""
+msgstr "指定映射"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:76
 msgid "Local"
-msgstr ""
+msgstr "当地"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:76
 msgid "Remote"
-msgstr ""
+msgstr "远程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:87
 msgid ""
@@ -1400,15 +1400,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:104
 msgid "When Printed (Default)"
-msgstr ""
+msgstr "当印刷(默认)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:105
 msgid "At Process Termination"
-msgstr ""
+msgstr "在流程终止"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:106
 msgid "Always Immediately"
-msgstr ""
+msgstr "总是立即"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:107
 msgid "Immediately if Appear Unhandled (Python <=2.6)"
@@ -1432,11 +1432,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:126
 msgid "All valid interfaces"
-msgstr ""
+msgstr "所有有效的接口"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:127
 msgid "This interface"
-msgstr ""
+msgstr "这个接口"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:133
 msgid ""
@@ -1461,7 +1461,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:156
 msgid "IP Address"
-msgstr ""
+msgstr "IP地址"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:161
 msgid ""
@@ -1491,7 +1491,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:194
 msgid "Defines types for which values are never shown by the debugger."
-msgstr ""
+msgstr "定义类型的值永远不会显示调试器。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:205
 msgid ""
@@ -1543,23 +1543,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:269
 msgid "Symbolic name"
-msgstr ""
+msgstr "符号名称"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:270
 msgid "Parent reference + name"
-msgstr ""
+msgstr "父类引用+名字"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:271
 msgid "Direct object reference"
-msgstr ""
+msgstr "直接对象引用"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:277
 msgid "Search Registry for Python"
-msgstr ""
+msgstr "注册表搜索Python"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:279
 msgid "Search PATH for 'python'"
-msgstr ""
+msgstr "对python的搜索路径"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:283
 msgid ""
@@ -1570,23 +1570,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:288
 msgid "Specify:"
-msgstr ""
+msgstr "指定:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:293
 msgid "Select the display style for integer values."
-msgstr ""
+msgstr "选择整数值的显示风格。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:296
 msgid "Decimal"
-msgstr ""
+msgstr "十进制"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:296
 msgid "Hex"
-msgstr ""
+msgstr "十六进制"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:296
 msgid "Octal"
-msgstr ""
+msgstr "八进制"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:301
 msgid ""
@@ -1608,11 +1608,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:328
 msgid "Opaque"
-msgstr ""
+msgstr "不透明的"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:329
 msgid "Alpha:"
-msgstr ""
+msgstr "Alpha:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:334
 msgid ""
@@ -1638,22 +1638,22 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:354
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:375
 msgid "No logging"
-msgstr ""
+msgstr "没有日志"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:355
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:376
 msgid "Log to sys.stderr"
-msgstr ""
+msgstr "日志来sys.stderr"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:356
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:377
 msgid "Log to sys.stdout"
-msgstr ""
+msgstr "日志来sys.stdout"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:357
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:378
 msgid "Log to file:"
-msgstr ""
+msgstr "日志文件:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:361
 msgid ""
@@ -1718,11 +1718,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:455
 msgid "Enables line wrapping in the Python Shell."
-msgstr ""
+msgstr "使包装在Python Shell。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:462
 msgid "Enables line wrapping in the Debug Probe."
-msgstr ""
+msgstr "24 wrapping in the line Probe调试版本。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:469
 msgid ""
@@ -1801,15 +1801,15 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:554
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:572
 msgid "Disabled"
-msgstr ""
+msgstr "禁用"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:555
 msgid "Symbols Only"
-msgstr ""
+msgstr "符号只有"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:556
 msgid "All (Use with Caution!)"
-msgstr ""
+msgstr "所有(谨慎使用!)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:560
 msgid ""
@@ -1866,19 +1866,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:634
 msgid "Encoding of input/output in the Debug I/O panel"
-msgstr ""
+msgstr "编码的输入/输出调试I / O面板"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:641
 msgid "Use default stdin / stdout encoding"
-msgstr ""
+msgstr "使用默认stdin和stdout编码"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:645
 msgid "Encoding of input/output in the integrated Python Shell and Debug Probe"
-msgstr ""
+msgstr "编码的输入/输出集成Python Shell和调试调查"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:647
 msgid "Encoding of input/output in the integrated Python Shell"
-msgstr ""
+msgstr "输入/输出Encoding》《综合Python Shell"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:661
 msgid ""
@@ -1901,19 +1901,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:678
 msgid "Default"
-msgstr ""
+msgstr "默认的"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:679
 msgid "File:"
-msgstr ""
+msgstr "文件:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:685
 msgid "Never"
-msgstr ""
+msgstr "从来没有"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:686
 msgid "According to File Properties"
-msgstr ""
+msgstr "根据文件属性"
 
 #: /Users/sdeibel/src/ide/src/debug/client/prefs.py:690
 msgid ""
@@ -1924,7 +1924,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:84
 msgid "Server not responding"
-msgstr ""
+msgstr "服务器不响应"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:85
 msgid ""
@@ -1933,12 +1933,12 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:477
 msgid "Could not find a file to debug"
-msgstr ""
+msgstr "找不到文件调试"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:477
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:483
 msgid "Nothing to debug"
-msgstr ""
+msgstr "没有调试"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:483
 msgid "File does not exist: %s"
@@ -1947,11 +1947,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:503
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:511
 msgid "Debugger launch cancelled"
-msgstr ""
+msgstr "调试器启动取消"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:595
 msgid "Build Command Not Found"
-msgstr ""
+msgstr "构建命令没有找到"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:596
 msgid ""
@@ -1962,11 +1962,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:614
 msgid "Build Command Failed"
-msgstr ""
+msgstr "构建命令失败"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:615
 msgid "The build command failed.  Start debugging anyway?"
-msgstr ""
+msgstr "构建命令失败。开始调试呢?"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:621
 msgid "_Yes"
@@ -1978,7 +1978,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:668
 msgid "Could not debug unsaved file"
-msgstr ""
+msgstr "不能调试未保存的文件"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:671
 msgid "Could not debug %s because it does not exist."
@@ -1987,11 +1987,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:672
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:699
 msgid "Could not start debug process"
-msgstr ""
+msgstr "无法启动调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:686
 msgid "Could not start TCP/IP listen"
-msgstr ""
+msgstr "无法启动TCP / IP听"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:777
 msgid "Could not debug \"%s\" -- the file does not exist"
@@ -2041,22 +2041,22 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1246
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2038
 msgid "Step Over"
-msgstr ""
+msgstr "跨过"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1254
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2039
 msgid "Step Into"
-msgstr ""
+msgstr "进入"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1262
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2040
 msgid "Step Out"
-msgstr ""
+msgstr "走出"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1289
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2041
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1296
 msgid "Debug to Cursor"
@@ -2072,7 +2072,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1830
 msgid "Debug Listen Failed"
-msgstr ""
+msgstr "调试听失败"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1831
 msgid ""
@@ -2083,7 +2083,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1833
 msgid "Passive Listen Failed"
-msgstr ""
+msgstr "被动的听着失败"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1834
 msgid ""
@@ -2106,11 +2106,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1863
 msgid "Debug process running"
-msgstr ""
+msgstr "调试过程运行"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1866
 msgid "Debug process paused"
-msgstr ""
+msgstr "调试过程停顿了一下"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1869
 msgid "Listening for back-connection"
@@ -2118,7 +2118,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1874
 msgid "Allowed hosts:  "
-msgstr ""
+msgstr "允许主机:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1875
 msgid ""
@@ -2128,28 +2128,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1878
 msgid "Program exception"
-msgstr ""
+msgstr "程序异常"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1881
 msgid "Connected to debug process"
-msgstr ""
+msgstr "连接到调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1884
 msgid "Unknown or invalid debug mode"
-msgstr ""
+msgstr "未知或无效的调试模式"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1944
 msgid " (changed on disk only)"
-msgstr ""
+msgstr "(仅更改磁盘上)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1946
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1961
 msgid " (unsaved changes)"
-msgstr ""
+msgstr "(未保存的更改)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:1949
 msgid " (open and changed on disk)"
-msgstr ""
+msgstr "(开放和变化在磁盘上)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2030
 msgid ""
@@ -2162,7 +2162,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2036
 msgid "Files Modified"
-msgstr ""
+msgstr "文件修改"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2038
 msgid "_Step Over"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2042
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2047
 msgid "Save & _Restart"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2051
 msgid " Without Saving"
-msgstr ""
+msgstr "不保存"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2056
 msgid "Sto_p Debugging"
@@ -2215,7 +2215,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2175
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2178
 msgid "Failed to Start"
-msgstr ""
+msgstr "失败的开始"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2176
 msgid ""
@@ -2236,11 +2236,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2254
 msgid "Connection Failed"
-msgstr ""
+msgstr "连接失败"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2299
 msgid "Protocol Mismatch"
-msgstr ""
+msgstr "协议不匹配"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2300
 msgid ""
@@ -2252,11 +2252,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2333
 msgid "Couldn't initialize debug process"
-msgstr ""
+msgstr "无法初始化调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2334
 msgid "Couldn't get information from the debug process or initialize it"
-msgstr ""
+msgstr "不能从调试过程或获取信息初始化它"
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2442
 msgid "Open failed: %s is probably a binary file"
@@ -2282,15 +2282,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/runstate.py:2653
 msgid "Don't show this notice again"
-msgstr ""
+msgstr "不要再显示此通知"
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:335
 msgid "Save Session"
-msgstr ""
+msgstr "保存会话"
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:336
 msgid "Choose file to which to save the session:"
-msgstr ""
+msgstr "选择文件保存会话:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:643
 msgid "Select _All"
@@ -2306,7 +2306,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:651
 msgid "Print..."
-msgstr ""
+msgstr "1999 ..."
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:1103
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:1120
@@ -2315,11 +2315,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:1172
 msgid "Save Selection?"
-msgstr ""
+msgstr "保存选择?"
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:1173
 msgid "Would you like to save only the current selection?"
-msgstr ""
+msgstr "你想只保存当前的选择吗?"
 
 #: /Users/sdeibel/src/ide/src/debug/client/shell.py:1175
 msgid "Save _Selection"
@@ -2331,15 +2331,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:57
 msgid "Stack Data"
-msgstr ""
+msgstr "堆栈数据"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:62
 msgid "Debug Process Stack Data"
-msgstr ""
+msgstr "调试过程堆栈数据"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:111
 msgid "Debugger: "
-msgstr ""
+msgstr "调试器:"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:138
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:141
@@ -2380,23 +2380,23 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:251
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:489
 msgid "No debug process is running"
-msgstr ""
+msgstr "不运行调试过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:258
 msgid "Debug process is running"
-msgstr ""
+msgstr "调试运行过程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:271
 msgid " (first to stop)"
-msgstr ""
+msgstr "(第一次停止)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:274
 msgid " (running)"
-msgstr ""
+msgstr "(运行)"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:275
 msgid "Debug process threads"
-msgstr ""
+msgstr "调试进程的线程"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:489
 msgid "<no debug process stack>"
@@ -2404,20 +2404,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:496
 msgid "Thread is running"
-msgstr ""
+msgstr "线程运行"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:509
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:511
 msgid ", line "
-msgstr ""
+msgstr "、线"
 
 #: /Users/sdeibel/src/ide/src/debug/client/stackpanel.py:512
 msgid "Selected thread's stack"
-msgstr ""
+msgstr "选择线程的堆栈"
 
 #: /Users/sdeibel/src/ide/src/debug/client/tnetproxy.py:422
 msgid "Note: Debug connection closed while polling for server messages"
-msgstr ""
+msgstr "注意:调试连接关闭在轮询服务器信息"
 
 #: /Users/sdeibel/src/ide/src/debug/client/tnetproxy.py:426
 msgid ""
@@ -2473,11 +2473,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:241
 msgid "Value Errors Cleared"
-msgstr ""
+msgstr "值错误了"
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:324
 msgid "Warning: Error Probing Debug Data"
-msgstr ""
+msgstr "警告:错误探测调试数据"
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:325
 msgid ""
@@ -2491,7 +2491,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:337
 msgid "Warning: Timeout During Evaluation"
-msgstr ""
+msgstr "警告:在评价超时"
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:338
 msgid ""
@@ -2509,7 +2509,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:351
 msgid "Warning: Huge Value Encountered"
-msgstr ""
+msgstr "北京:具有巨大价值束缚"
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:352
 msgid ""
@@ -2525,48 +2525,48 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/varmanager.py:473
 msgid "Cannot access data"
-msgstr ""
+msgstr "不能访问数据"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:213
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:1067
 msgid "Variable"
-msgstr ""
+msgstr "变量"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:495
 msgid "Show Detail"
-msgstr ""
+msgstr "显示详细信息"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:500
 msgid "Hide Detail"
-msgstr ""
+msgstr "隐藏详细信息"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:504
 msgid "Expand More"
-msgstr ""
+msgstr "扩展更多"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:505
 msgid "Collapse More"
-msgstr ""
+msgstr "更崩溃"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:510
 msgid "Watch by Symbolic Path"
-msgstr ""
+msgstr "观察通过象征性的路径"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:511
 msgid "Watch by Direct Reference"
-msgstr ""
+msgstr "观察通过直接引用"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:512
 msgid "Watch by Parent Slot"
-msgstr ""
+msgstr "手表由家长槽"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:513
 msgid "Watch by Module Slot"
-msgstr ""
+msgstr "手表的模槽"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:517
 msgid "Force Reload"
-msgstr ""
+msgstr "力加载"
 
 #: /Users/sdeibel/src/ide/src/debug/client/vartree.py:545
 msgid "%s(): %s, line %i"
@@ -2592,7 +2592,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:145
 msgid "\""
-msgstr ""
+msgstr "\\"
 
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:147
 msgid "<long "
@@ -2612,7 +2612,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:376
 msgid "No symbolic path available"
-msgstr ""
+msgstr "没有可用的象征性的路径"
 
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:487
 #: /Users/sdeibel/src/ide/src/debug/client/varutils.py:869

@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2015-07-21 22:31+0800\n"
-"Last-Translator: 小雨<rains31@gmail.com>\n"
+"PO-Revision-Date: 2015-07-25 16:47+0800\n"
+"Last-Translator: binai <msiiiu@qq.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -114,19 +114,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:120
 msgid "The defined commands in the OS Commands toolbox"
-msgstr ""
+msgstr "定义的命令操作系统命令的工具箱"
 
 #: /Users/sdeibel/src/ide/src/edit/attribs.py:125
 msgid "Seed value for command ids"
-msgstr ""
+msgstr "种子值命令id"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autocomplete.py:1344
 msgid "(symbol)"
-msgstr ""
+msgstr "(symbol)"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autocomplete.py:1355
 msgid "(snippet)"
-msgstr ""
+msgstr "(snippet)"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autocomplete.py:2967
 msgid "_Sort Alphabetically"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autocomplete.py:2969
 msgid "Sort items alphabetically rather than in the order found in the file"
-msgstr ""
+msgstr "条目按字母顺序排序的顺序,而不是在文件中找到"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autocomplete.py:2971
 msgid "Include _Args in Search"
@@ -142,71 +142,71 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autocomplete.py:2973
 msgid "Include the text of function arguments in the text on which to search"
-msgstr ""
+msgstr "包括文本函数参数的文本搜索"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autoeditor.py:1274
 msgid "Press : again to indent following block instead"
-msgstr ""
+msgstr "新闻:块后再缩进"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autoeditor.py:1307
 msgid "Press : again to select another possible indent"
-msgstr ""
+msgstr "记者:再选择另一个可能的缩进"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autoeditor.py:1321
 msgid "Press : again to indent following line"
-msgstr ""
+msgstr "线后再次按:缩进"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_autoeditor.py:2053
 msgid "Entering Invocation: Tab key moves between arguments"
-msgstr ""
+msgstr "进入调用:Tab键参数之间的移动"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:537
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:784
 msgid "Bookmarks"
-msgstr ""
+msgstr "书签"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:542
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:632
 msgid "Bookmark Manager"
-msgstr ""
+msgstr "书签管理器"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:654
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:660
 msgid "Scope"
-msgstr ""
+msgstr "范围"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:654
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:660
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:699
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:68
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:654
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:660
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1020
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1038
 msgid "Name"
-msgstr ""
+msgstr "的名字"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:654
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:660
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9100
 msgid "Line"
-msgstr ""
+msgstr "行"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:711
 msgid "undefined"
-msgstr ""
+msgstr "未定义的"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:716
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:717
 msgid "n/a"
-msgstr ""
+msgstr "n / a"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:756
 msgid "Remove All Bookmarks?"
-msgstr ""
+msgstr "删除所有的书签吗?"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:757
 msgid ""
@@ -217,29 +217,29 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:760
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:776
 msgid "Remove All Bookmarks"
-msgstr ""
+msgstr "删除所有的书签"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:761
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1191
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1370
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:773
 msgid "Goto Selected Bookmark"
-msgstr ""
+msgstr "扫描Selected书签"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:775
 msgid "Remove Selected Bookmark"
-msgstr ""
+msgstr "删除选中的书签"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_bookmarks.py:778
 msgid "Show Bookmarking Documentation"
-msgstr ""
+msgstr "显示书签文档"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:109
 msgid "Indent Style Mismatch"
-msgstr ""
+msgstr "缩进风格不匹配"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:110
 msgid ""
@@ -284,7 +284,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:162
 msgid "Cannot convert because a macro is being recorded"
-msgstr ""
+msgstr "无法转换,因为正在记录一个宏"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:167
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:219
@@ -294,7 +294,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:181
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:204
 msgid "This file can be converted.  Select the desired indent size above."
-msgstr ""
+msgstr "这个文件可以转换。选择所需的缩进上面的大小。"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:182
 msgid ""
@@ -312,19 +312,19 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:195
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:214
 msgid "Cannot convert indents because a macro is being recorded"
-msgstr ""
+msgstr "不能把缩进,因为正在记录一个宏"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:205
 msgid "Wing will convert all indentation in the file to use only spaces."
-msgstr ""
+msgstr "翼只会将所有文件中的缩进使用空间。"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:223
 msgid "Wing can convert this file."
-msgstr ""
+msgstr "翼可以转换该文件。"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:224
 msgid "Wing will place one tab per indentation level found in the file."
-msgstr ""
+msgstr "翼将文件中发现一个标签每级缩进。"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:577
 msgid "_Convert..."
@@ -342,7 +342,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:590
 msgid "Suspicious Indentation in File"
-msgstr ""
+msgstr "可疑文件的缩进"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:592
 msgid ""
@@ -358,7 +358,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:632
 msgid "Indentation Policy Violation"
-msgstr ""
+msgstr "缩进政策违反"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:634
 msgid ""
@@ -369,36 +369,36 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:664
 msgid "tabs and spaces"
-msgstr ""
+msgstr "制表符和空格"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:666
 msgid "spaces only"
-msgstr ""
+msgstr "空间只"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:668
 msgid "tabs only"
-msgstr ""
+msgstr "选项卡只"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:670
 msgid "no indents"
-msgstr ""
+msgstr "没有缩进"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:676
 msgid " (with indent errors)"
-msgstr ""
+msgstr "(缩进错误)"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:678
 msgid " (with indent warnings)"
-msgstr ""
+msgstr "(缩进警告)"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:762
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1040
 msgid "Indentation"
-msgstr ""
+msgstr "缩进"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:767
 msgid "Source Code Indent Analysis and Conversion"
-msgstr ""
+msgstr "代码缩进分析和转换"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:795
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8116
@@ -408,7 +408,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:822
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:882
 msgid "None.\n"
-msgstr ""
+msgstr "没有。\n"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:823
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:883
@@ -426,24 +426,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:917
 msgid "Convert"
-msgstr ""
+msgstr "转换"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1017
 msgid "File:"
-msgstr ""
+msgstr "文件:"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1025
 msgid "Status:"
-msgstr ""
+msgstr "状态:"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1039
 msgid "Counts:"
-msgstr ""
+msgstr "数量:"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1053
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1066
 msgid "(from existing contents)"
-msgstr ""
+msgstr "(从现有内容)"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1059
 msgid "T_ab size:"
@@ -455,7 +455,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1077
 msgid "Conversions:"
-msgstr ""
+msgstr "转换:"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1086
 msgid "_Spaces Only"
@@ -476,12 +476,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1168
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1172
 msgid "(from file contents)"
-msgstr ""
+msgstr "(从文件内容)"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1170
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1174
 msgid "(from preferences)"
-msgstr ""
+msgstr "(偏好)"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_indentmgr.py:1197
 msgid "<i>No active source editor</i>"
@@ -492,52 +492,52 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:94
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:293
 msgid "Open Files"
-msgstr ""
+msgstr "打开的文件"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:109
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:119
 msgid "Open files state"
-msgstr ""
+msgstr "打开的文件状态"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:262
 msgid "Goto File"
-msgstr ""
+msgstr "转到文件"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:264
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:265
 msgid "Close Selected"
-msgstr ""
+msgstr "关闭所选"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:266
 msgid "Close Others"
-msgstr ""
+msgstr "接近别人"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:278
 msgid "Select All"
-msgstr ""
+msgstr "选择所有"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:279
 msgid "Select None"
-msgstr ""
+msgstr "选择None"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:281
 msgid "Name Selected File Set..."
-msgstr ""
+msgstr "名字所选文件集…"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:282
 msgid "Open File Set"
-msgstr ""
+msgstr "打开的文件集"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:283
 msgid "Manage File Sets..."
-msgstr ""
+msgstr "牵头... Sets)组织"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_openfiles.py:287
 msgid "File Properties..."
-msgstr ""
+msgstr "...领导化学特性"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:214
 msgid "Build Command: %s"
@@ -548,11 +548,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:292
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:655
 msgid "Use Default"
-msgstr ""
+msgstr "使用默认"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:317
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:318
 msgid "Enter a title for the command if a non-default title is desired."
@@ -570,7 +570,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:330
 msgid "Line mode"
-msgstr ""
+msgstr "行模式"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:331
 msgid ""
@@ -597,15 +597,15 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1020
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1038
 msgid "Key Binding"
-msgstr ""
+msgstr "密钥绑定"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:350
 msgid "Press the desired key sequence to bind to this command."
-msgstr ""
+msgstr "按所需的键绑定到这个命令序列。"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:355
 msgid "Raise OS Commands when executed"
-msgstr ""
+msgstr "提高操作系统命令执行时"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:356
 msgid ""
@@ -615,7 +615,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:362
 msgid "I/O Encoding"
-msgstr ""
+msgstr "I / O编码"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:363
 msgid ""
@@ -625,7 +625,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:441
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:698
 msgid "Command Line"
-msgstr ""
+msgstr "命令行"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:442
 msgid ""
@@ -669,7 +669,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:703
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:85
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:704
 msgid ""
@@ -691,27 +691,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:791
 msgid "Entry Point"
-msgstr ""
+msgstr "入口点"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:792
 msgid "The named entry point to launch"
-msgstr ""
+msgstr "指定的入口点"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:900
 msgid "No File Name"
-msgstr ""
+msgstr "没有文件名称"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:901
 msgid "Please select a file before configuring the environment"
-msgstr ""
+msgstr "请选择一个文件之前配置环境"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:914
 msgid "Configure runtime environment for executing this file"
-msgstr ""
+msgstr "为执行这个文件配置运行时环境"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:925
 msgid "Python File"
-msgstr ""
+msgstr "Python文件"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:926
 msgid ""
@@ -729,15 +729,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:981
 msgid "Test Execute"
-msgstr ""
+msgstr "测试执行"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1031
 msgid "Definition"
-msgstr ""
+msgstr "定义"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1039
 msgid "Environment"
-msgstr ""
+msgstr "环境"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1129
 msgid "Initial directory '%s' does not exist"
@@ -749,7 +749,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1137
 msgid "No Python file was selected"
-msgstr ""
+msgstr "没有选择Python文件"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1142
 msgid "The file '%s' does not exist"
@@ -773,7 +773,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1195
 msgid "Environment must be in var=value form, one per line:"
-msgstr ""
+msgstr "环境必须在var =价值形式,每行一个:"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1197
 msgid "Env entry %s is invalid"
@@ -781,24 +781,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1205
 msgid "The command line is empty"
-msgstr ""
+msgstr "命令行是空的"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1571
 msgid "Save Session"
-msgstr ""
+msgstr "保存会话"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1572
 msgid "Choose file to which to save the session:"
-msgstr ""
+msgstr "选择文件保存会话:"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1953
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:1969
 msgid "OS Commands state"
-msgstr ""
+msgstr "操作系统命令的状态"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2037
 msgid "Delete Build Command?"
-msgstr ""
+msgstr "删除构建命令?"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2038
 msgid ""
@@ -808,7 +808,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2042
 msgid "Delete Command?"
-msgstr ""
+msgstr "删除命令?"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2048
 msgid "_Delete Command"
@@ -820,28 +820,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2069
 msgid "Execute current command"
-msgstr ""
+msgstr "执行当前命令"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2076
 msgid "Terminate current command"
-msgstr ""
+msgstr "终止当前命令"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2087
 msgid "Create new command"
-msgstr ""
+msgstr "创建新命令"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2094
 msgid "Edit current command"
-msgstr ""
+msgstr "编辑当前命令"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2101
 msgid "Delete current command"
-msgstr ""
+msgstr "删除当前命令"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2130
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2135
 msgid "Toolbox"
-msgstr ""
+msgstr "工具箱"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2257
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2720
@@ -915,7 +915,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2292
 msgid "Python Prompt after Execution"
-msgstr ""
+msgstr "Python提示符后执行"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2293
 msgid ""
@@ -926,15 +926,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2296
 msgid "Wrap Long Lines"
-msgstr ""
+msgstr "包装排长队"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2297
 msgid "Wrap long output lines to fit in available display area."
-msgstr ""
+msgstr "包裹长输出行可用的显示区域。"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2299
 msgid "Show OS Commands Documentation"
-msgstr ""
+msgstr "Show Commands文件骨"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2479
 msgid "Process terminated with an exit code of %s\n"
@@ -942,22 +942,22 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2502
 msgid "Process failed to start"
-msgstr ""
+msgstr "过程失败的开始"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2664
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2727
 msgid "New: Command Line..."
-msgstr ""
+msgstr "纽约:... Line司令部"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2665
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2728
 msgid "New: Python File..."
-msgstr ""
+msgstr "纽约:...牵头巨蟒"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2672
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2729
 msgid "New: Named Entry Point..."
-msgstr ""
+msgstr "新:指定入口点…"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2731
 msgid "_New..."
@@ -995,67 +995,67 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2884
 msgid "OS Commands"
-msgstr ""
+msgstr "操作系统命令"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_oscommands.py:2890
 msgid "Operating System Commands"
-msgstr ""
+msgstr "操作系统命令"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:67
 msgid "Symbol"
-msgstr ""
+msgstr "象征"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:69
 msgid "Invoking"
-msgstr ""
+msgstr "调用"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:70
 msgid "Python Keyword"
-msgstr ""
+msgstr "Python的关键字"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:71
 msgid "Completion"
-msgstr ""
+msgstr "完成"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:72
 msgid "Defining"
-msgstr ""
+msgstr "定义"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:75
 msgid "Not Python code"
-msgstr ""
+msgstr "不是Python代码"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:76
 msgid "No selected file"
-msgstr ""
+msgstr "没有选择文件"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:77
 msgid "No selected value"
-msgstr ""
+msgstr "没有选中的值"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:78
 msgid "No symbol at cursor"
-msgstr ""
+msgstr "在光标没有标志"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:79
 msgid "Introspection disabled"
-msgstr ""
+msgstr "内省禁用"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:80
 msgid "Invalid source code"
-msgstr ""
+msgstr "无效的源代码"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:81
 msgid "Cannot determine type"
-msgstr ""
+msgstr "不能确定类型"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:84
 msgid "Likely type"
-msgstr ""
+msgstr "可能的类型"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:86
 msgid "Runtime type"
-msgstr ""
+msgstr "运行时类型"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:297
 msgid "<i>Returns:</i> %s"
@@ -1071,110 +1071,110 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:427
 msgid "Source Assistant"
-msgstr ""
+msgstr "源的助理"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:432
 msgid "Source Symbol Point of Definition Information"
-msgstr ""
+msgstr "符号的定义信息来源"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:1648
 msgid "✔ PEP287"
-msgstr ""
+msgstr "✔PEP287"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:1650
 msgid "✖ PEP287"
-msgstr ""
+msgstr "✖PEP287"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:1657
 msgid "Rewrapped"
-msgstr ""
+msgstr "重新封装"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:1659
 msgid "Plain Text"
-msgstr ""
+msgstr "纯文本"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2077
 msgid "Copy Text to Clipboard"
-msgstr ""
+msgstr "将文本复制到剪贴板"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2078
 msgid "Copy HTML to Clipboard"
-msgstr ""
+msgstr "HTML复制到剪贴板"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2084
 msgid "Use PEP 287 for docstrings"
-msgstr ""
+msgstr "使用PEP 287文档"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2091
 msgid "Show PEP 287 parse errors"
-msgstr ""
+msgstr "显示PEP 287解析错误"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2098
 msgid "Rewrap plain text docstrings"
-msgstr ""
+msgstr "重新封装纯文本文档"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2105
 msgid "Always show docstrings"
-msgstr ""
+msgstr "总是显示文档"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2112
 msgid "Show docstring type and validity"
-msgstr ""
+msgstr "显示文档字符串类型和有效性"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2125
 msgid "Smaller Font"
-msgstr ""
+msgstr "更小的字体"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2126
 msgid "Larger Font"
-msgstr ""
+msgstr "更大的字体"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_sassist.py:2131
 msgid "Show Source Assistant Documentation"
-msgstr ""
+msgstr "显示源文档助理"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:542
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1666
 msgid "No Active Editor"
-msgstr ""
+msgstr "没有活动编辑器"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:543
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1667
 msgid "Could not paste the selected snippet because there is no active editor"
-msgstr ""
+msgstr "不能粘贴所选片段,因为没有活动编辑器吗"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:686
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1604
 msgid "Snippets"
-msgstr ""
+msgstr "片段"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:691
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:942
 msgid "Snippet Manager"
-msgstr ""
+msgstr "段经理"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:698
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:759
 msgid "Snippet Name"
-msgstr ""
+msgstr "片段的名字"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:721
 msgid "Mime Type"
-msgstr ""
+msgstr "Mime类型"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:761
 msgid "File Extension"
-msgstr ""
+msgstr "文件扩展名"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:960
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:972
 msgid "Snippet manager state"
-msgstr ""
+msgstr "代码管理器状态"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1020
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1038
 msgid "Context"
-msgstr ""
+msgstr "上下文"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1067
 msgid "Mime type: %s"
@@ -1192,7 +1192,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1190
 msgid "Remove Snippets"
-msgstr ""
+msgstr "删除片段"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1201
 msgid ""
@@ -1202,7 +1202,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1363
 msgid "Snippet already exists"
-msgstr ""
+msgstr "片段已经存在"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1364
 msgid ""
@@ -1212,11 +1212,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1369
 msgid "Open Existing"
-msgstr ""
+msgstr "打开现有的"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1446
 msgid "Remove Disk File?"
-msgstr ""
+msgstr "删除磁盘文件?"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1447
 msgid "Are you sure you want to move the snippet '%s' in %s to the trash?"
@@ -1242,7 +1242,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1573
 msgid "Add New Snippet..."
-msgstr ""
+msgstr "添加新代码片段……"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1577
 msgid "Edit Snippet '%s'"
@@ -1279,16 +1279,16 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1596
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1634
 msgid "Reload All Snippets"
-msgstr ""
+msgstr "重新加载所有片段"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1598
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1636
 msgid "Show Snippets Documentation"
-msgstr ""
+msgstr "显示文档片段"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1625
 msgid "Add File Type..."
-msgstr ""
+msgstr "添加文件类型…"
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1629
 msgid "Remove File Type '%s'"
@@ -1300,16 +1300,16 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/cap_snippets.py:1642
 msgid "Snippet File Types"
-msgstr ""
+msgstr "片段文件类型"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:113
 msgid "Source Editor"
-msgstr ""
+msgstr "源代码编辑器"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:125
 #: /Users/sdeibel/src/ide/src/edit/editor.py:127
 msgid " (r/o)"
-msgstr ""
+msgstr "(r / o)"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:394
 msgid "_Toggle Fold"
@@ -1357,11 +1357,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:2083
 msgid "Exited data entry mode"
-msgstr ""
+msgstr "退出数据输入模式"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:2215
 msgid "Entering Snippet: Tab key moves between fields"
-msgstr ""
+msgstr "进入片段:Tab键字段之间移动"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:2585
 msgid "Editors state for %s"
@@ -1396,7 +1396,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/editor.py:5754
 #: /Users/sdeibel/src/ide/src/edit/editor.py:5774
 msgid "Search wrapped"
-msgstr ""
+msgstr "搜索包裹"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:6453
 msgid "Auto-indented for context; use undo to restore indentation"
@@ -1432,7 +1432,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:7508
 msgid "Macro aborted::Macro aborted due to error in action "
-msgstr ""
+msgstr "宏流产:宏观的错误行动"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:7510
 msgid "Executed keyboard macro (register '%s')"
@@ -1440,7 +1440,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8005
 msgid "Cannot Convert"
-msgstr ""
+msgstr "不能转换"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8006
 msgid "Could not convert line endings because this file is read-only."
@@ -1489,7 +1489,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8475
 msgid "Find Points of Use"
-msgstr ""
+msgstr "发现点的使用"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8480
 msgid "Re_factor"
@@ -1498,7 +1498,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8483
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8518
 msgid "Toggle Bookmark"
-msgstr ""
+msgstr "切换书签"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8485
 msgid "Reanaly_ze File"
@@ -1506,23 +1506,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8493
 msgid "Run Tests"
-msgstr ""
+msgstr "运行测试"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8494
 msgid "Debug Tests"
-msgstr ""
+msgstr "调试测试"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8497
 msgid "Debug This File"
-msgstr ""
+msgstr "调试这个文件"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8498
 msgid "Debug To Here"
-msgstr ""
+msgstr "调试到这里"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8501
 msgid "Move Program Counter Here"
-msgstr ""
+msgstr "在这里将程序计数器"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8503
 msgid "_Evaluate Selection in Python Shell"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8505
 msgid "Evaluate Selection in Debug Probe"
-msgstr ""
+msgstr "在调试调查评估选择"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8507
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8598
@@ -1552,7 +1552,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8526
 msgid "Watch Selection in Debugger"
-msgstr ""
+msgstr "看选择调试器"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8528
 msgid "Watch '%s' in Debugger"
@@ -1580,7 +1580,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8563
 msgid "Configure Menu..."
-msgstr ""
+msgstr "...起见菜单"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8566
 msgid "P_roperties..."
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8976
 msgid "Brace match: no match found"
-msgstr ""
+msgstr "括号匹配:不匹配"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:8994
 msgid "Match at line %i: %s"
@@ -1632,43 +1632,43 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9057
 msgid " (r/o on disk)"
-msgstr ""
+msgstr "(r / o在磁盘上)"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9059
 msgid "(r/o)"
-msgstr ""
+msgstr "(r / o)"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9073
 msgid "INSERT"
-msgstr ""
+msgstr "插入"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9077
 msgid "REPLACE"
-msgstr ""
+msgstr "取代"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9084
 msgid "VISUAL LINE"
-msgstr ""
+msgstr "视觉线"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9086
 msgid "SELECT LINE"
-msgstr ""
+msgstr "选择行"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9089
 msgid "VISUAL BLOCK"
-msgstr ""
+msgstr "视觉块"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9091
 msgid "SELECT BLOCK"
-msgstr ""
+msgstr "选择块"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9094
 msgid "VISUAL"
-msgstr ""
+msgstr "视觉"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9096
 msgid "SELECT"
-msgstr ""
+msgstr "选择"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9102
 msgid "[Line Select] "
@@ -1688,15 +1688,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9112
 msgid "Block Entry | "
-msgstr ""
+msgstr "块条目|"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9141
 msgid " Col "
-msgstr ""
+msgstr "坳"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:9143
 msgid " Cols "
-msgstr ""
+msgstr "关口"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10047
 msgid "Failed to save portions of visual state for %s:"
@@ -1704,7 +1704,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10076
 msgid "Restoring state after abandoning changes failed"
-msgstr ""
+msgstr "恢复失败后放弃更改状态"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10130
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10151
@@ -1714,7 +1714,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10131
 msgid "Tab Size Forced to Eight"
-msgstr ""
+msgstr "标签大小被迫八"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10133
 msgid ""
@@ -1728,11 +1728,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10141
 msgid "Don't show this notice again"
-msgstr ""
+msgstr "不要再显示此通知"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10152
 msgid "Tab Size Restored"
-msgstr ""
+msgstr "标签尺寸恢复"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10153
 msgid "Tab size has been restored to %i spaces, as set in preferences."
@@ -1740,7 +1740,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10315
 msgid "Cannot decode file"
-msgstr ""
+msgstr "不能解码文件"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10316
 msgid ""
@@ -1750,7 +1750,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10321
 msgid "Cannot insert binary file"
-msgstr ""
+msgstr "不能插入二进制文件"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10322
 msgid "The selected file contains binary data -- insert file operation failed."
@@ -1758,7 +1758,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10379
 msgid "Cannot decode command output"
-msgstr ""
+msgstr "不能解码命令输出"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10380
 msgid ""
@@ -1768,7 +1768,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10385
 msgid "Cannot insert binary data"
-msgstr ""
+msgstr "不能插入二进制数据"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10386
 msgid "The command output binary data -- insert command operation failed."
@@ -1776,7 +1776,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10427
 msgid "Failed to Execute Command"
-msgstr ""
+msgstr "未能执行命令"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10428
 msgid ""
@@ -1785,7 +1785,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10442
 msgid "Command Timed Out"
-msgstr ""
+msgstr "命令超时"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10443
 msgid "The command %s timed out -- insert command operation failed."
@@ -1793,27 +1793,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10481
 msgid "Invalid line range (start after end)"
-msgstr ""
+msgstr "无效的行范围(开始后结束)"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10484
 msgid "Target cannot be within the range"
-msgstr ""
+msgstr "目标不能范围内"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10487
 msgid "Start line is outside of the file"
-msgstr ""
+msgstr "开始行之外的文件"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10490
 msgid "End line is outside of the file"
-msgstr ""
+msgstr "结束行之外的文件中"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10493
 msgid "Target line is outside of the file"
-msgstr ""
+msgstr "目标线以外的文件"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10679
 msgid "Disk file is newer"
-msgstr ""
+msgstr "磁盘文件更新"
 
 #: /Users/sdeibel/src/ide/src/edit/editor.py:10696
 msgid ""
@@ -1839,28 +1839,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/indentutils.py:64
 msgid "Default for Personality"
-msgstr ""
+msgstr "默认为个性"
 
 #: /Users/sdeibel/src/ide/src/edit/indentutils.py:65
 msgid "Indent to Match"
-msgstr ""
+msgstr "缩进相匹配"
 
 #: /Users/sdeibel/src/ide/src/edit/indentutils.py:66
 msgid "Move to Next Tab Stop"
-msgstr ""
+msgstr "移动到下一个标签停止"
 
 #: /Users/sdeibel/src/ide/src/edit/indentutils.py:67
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:472
 msgid "Indent Region"
-msgstr ""
+msgstr "缩进地区"
 
 #: /Users/sdeibel/src/ide/src/edit/indentutils.py:68
 msgid "Insert Tab Character"
-msgstr ""
+msgstr "插入制表符"
 
 #: /Users/sdeibel/src/ide/src/edit/indentutils.py:69
 msgid "Smart Tab (varies by context)"
-msgstr ""
+msgstr "智能标签(不同的上下文)"
 
 #: /Users/sdeibel/src/ide/src/edit/indentutils.py:79
 msgid "_Non-python files"
@@ -1872,39 +1872,39 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/manager.py:831
 msgid "VI Mode Registers"
-msgstr ""
+msgstr "六(www.pops.int/documents/registers/ ddt方式"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:507
 msgid "Failed "
-msgstr ""
+msgstr "失败的"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:510
 msgid "Wrapped "
-msgstr ""
+msgstr "包装"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:515
 msgid "Search:"
-msgstr ""
+msgstr "搜索:"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:520
 msgid "Regex Search:"
-msgstr ""
+msgstr "正则表达式搜索:"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:522
 msgid "Back Search:"
-msgstr ""
+msgstr "重新搜索:"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:527
 msgid "Back Regex Search:"
-msgstr ""
+msgstr "返回正则表达式搜索:"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:779
 msgid "Replace string:"
-msgstr ""
+msgstr "替换字符串:"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:781
 msgid "Query replace:"
-msgstr ""
+msgstr "查询替换:"
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:833
 msgid "Replace %s with:"
@@ -1917,15 +1917,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/minisearch.py:991
 msgid "Replace? (y or n):"
-msgstr ""
+msgstr "替换吗?(是或否):"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:35
 msgid "Default file extension for newly created files"
-msgstr ""
+msgstr "新创建的默认文件扩展名的文件"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:38
 msgid "Line Feed \\n (Posix/Unix/OS X)"
-msgstr ""
+msgstr "换行\\ \\ n(Posix / Unix / OS X)"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:39
 msgid "Carriage Return \\r (Mac OS <= 9)"
@@ -1933,7 +1933,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:40
 msgid "Carriage Return and Line Feed \\r\\n (Windows)"
-msgstr ""
+msgstr "回车和换行\\ \\ r \\ \\ n(Windows)"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:48
 msgid ""
@@ -1950,57 +1950,57 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:59
 msgid "Wing IDE"
-msgstr ""
+msgstr "翼IDE"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:61
 msgid "Selects editor personality"
-msgstr ""
+msgstr "选择编辑人格"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:62
 msgid "Normal"
-msgstr ""
+msgstr "正常的"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:64
 msgid "Brief"
-msgstr ""
+msgstr "短暂的"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:65
 msgid "VI/VIM"
-msgstr ""
+msgstr "VI / VIM"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:66
 msgid "Eclipse"
-msgstr ""
+msgstr "Eclipse"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:67
 msgid "Emacs"
-msgstr ""
+msgstr "Emacs"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:69
 msgid "Visual Studio"
-msgstr ""
+msgstr "Visual Studio"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:73
 msgid "OS X"
-msgstr ""
+msgstr "OS X"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:82
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:199
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:310
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:973
 msgid "Always"
-msgstr ""
+msgstr "总是"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:83
 msgid "In Python Only"
-msgstr ""
+msgstr "在Python中只"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:84
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:201
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:309
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:975
 msgid "Never"
-msgstr ""
+msgstr "从来没有"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:88
 msgid ""
@@ -2036,25 +2036,25 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:127
 msgid "None/Disabled"
-msgstr ""
+msgstr "没有/禁用"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:128
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:163
 msgid "Spaces Only"
-msgstr ""
+msgstr "空间只"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:129
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:163
 msgid "Tabs Only"
-msgstr ""
+msgstr "选项卡只"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:130
 msgid "Tabs and Spaces"
-msgstr ""
+msgstr "制表符和空格"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:131
 msgid "Match File"
-msgstr ""
+msgstr "匹配的文件"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:135
 msgid ""
@@ -2070,7 +2070,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:147
 msgid "Set size of tabs in the editor."
-msgstr ""
+msgstr "在编辑器中设置标签的大小。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:153
 msgid ""
@@ -2090,7 +2090,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:164
 msgid "Mixed Tabs and Spaces"
-msgstr ""
+msgstr "混合制表符和空格"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:167
 msgid ""
@@ -2102,15 +2102,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:174
 msgid "Show Warnings and Errors"
-msgstr ""
+msgstr "显示警告和错误"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:175
 msgid "Show Errors only"
-msgstr ""
+msgstr "只显示错误"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:176
 msgid "Show No Indicators"
-msgstr ""
+msgstr "没有显示出指标"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:179
 msgid ""
@@ -2121,11 +2121,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:187
 msgid "Set to true to show whitespace with visible characters by default"
-msgstr ""
+msgstr "设置为true来显示默认可见字符的空格"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:191
 msgid "Set to true to show indent guides by default"
-msgstr ""
+msgstr "默认设置为true来显示缩进指南"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:195
 msgid "Set to true to show end-of-line with visible characters by default"
@@ -2133,11 +2133,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:200
 msgid "On new blank lines"
-msgstr ""
+msgstr "新的空白行"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:204
 msgid "Controls when Wing automatically indents when return or enter is typed."
-msgstr ""
+msgstr "控制当机翼返回输入或输入时自动缩进。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:210
 msgid ""
@@ -2154,7 +2154,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:223
 msgid "(Posix only) Set the font size used to print Python files."
-msgstr ""
+msgstr "(Posix)所使用的字体大小设置为Python文件打印。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:227
 msgid ""
@@ -2182,11 +2182,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:250
 msgid "Use internal settings"
-msgstr ""
+msgstr "使用内部设置"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:251
 msgid "Use this command line:"
-msgstr ""
+msgstr "使用这个命令行:"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:255
 msgid ""
@@ -2219,17 +2219,17 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:282
 msgid "Font to use in print header."
-msgstr ""
+msgstr "字体使用在打印头。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:285
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:292
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:656
 msgid "Use Selected Font/Size:"
-msgstr ""
+msgstr "使用选定的字体/尺寸:"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:289
 msgid "Font to use in print footer."
-msgstr ""
+msgstr "字体使用在打印页脚。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:296
 msgid ""
@@ -2257,7 +2257,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:325
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:405
 msgid "After characters:"
-msgstr ""
+msgstr "字符后:"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:331
 msgid ""
@@ -2281,47 +2281,47 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:347
 msgid "Tab"
-msgstr ""
+msgstr "选项卡"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:348
 msgid "Enter"
-msgstr ""
+msgstr "输入"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:349
 msgid "Space"
-msgstr ""
+msgstr "空间"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:350
 msgid "F1"
-msgstr ""
+msgstr "F1"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:351
 msgid "F3"
-msgstr ""
+msgstr "F3"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:352
 msgid "F10"
-msgstr ""
+msgstr "弱点10"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:353
 msgid "F12"
-msgstr ""
+msgstr "弱点12"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:354
 msgid "Period"
-msgstr ""
+msgstr "期"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:355
 msgid "Left paren"
-msgstr ""
+msgstr "左括号"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:356
 msgid "Left bracket"
-msgstr ""
+msgstr "左括号"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:357
 msgid "Colon"
-msgstr ""
+msgstr "结肠"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:361
 msgid ""
@@ -2330,15 +2330,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:366
 msgid "Insert at Cursor"
-msgstr ""
+msgstr "在光标插入"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:367
 msgid "Replace Only Matching Symbols"
-msgstr ""
+msgstr "只替换匹配的符号"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:368
 msgid "Replace Any Existing Symbol"
-msgstr ""
+msgstr "替换任何现有的象征"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:372
 msgid ""
@@ -2360,11 +2360,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:391
 msgid "Disable"
-msgstr ""
+msgstr "禁用"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:392
 msgid "Enable"
-msgstr ""
+msgstr "启用"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:396
 msgid ""
@@ -2389,11 +2389,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:429
 msgid "Shows or hides line numbers on the editor."
-msgstr ""
+msgstr "显示或隐藏行号的编辑器。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:433
 msgid "Whether to enable folding source code."
-msgstr ""
+msgstr "是否启用折叠源代码。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:437
 msgid ""
@@ -2403,23 +2403,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:446
 msgid "Above Expanded"
-msgstr ""
+msgstr "上面的扩展"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:447
 msgid "Below Expanded"
-msgstr ""
+msgstr "下面的扩展"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:448
 msgid "Above Collapsed"
-msgstr ""
+msgstr "以上倒塌"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:449
 msgid "Below Collapsed"
-msgstr ""
+msgstr "下面的倒塌"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:450
 msgid "None"
-msgstr ""
+msgstr "没有一个"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:454
 msgid ""
@@ -2430,23 +2430,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:461
 msgid "Selects the type of indicators to draw at fold points."
-msgstr ""
+msgstr "选择的指标类型画在折点。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:462
 msgid "Arrows"
-msgstr ""
+msgstr "箭"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:462
 msgid "Plus/Minus"
-msgstr ""
+msgstr "更/联苏特派团"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:462
 msgid "Rounded Tree"
-msgstr ""
+msgstr "圆形的树"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:463
 msgid "Square Tree"
-msgstr ""
+msgstr "广场的树"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:466
 msgid ""
@@ -2456,31 +2456,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:473
 msgid "Outdent Region"
-msgstr ""
+msgstr "减少缩进地区"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:474
 msgid "Indent To Match"
-msgstr ""
+msgstr "缩进相匹配"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:475
 msgid "Comment out Region"
-msgstr ""
+msgstr "注释掉的地区"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:476
 msgid "Uncomment out Region"
-msgstr ""
+msgstr "取消了地区"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:479
 msgid "Always Select"
-msgstr ""
+msgstr "总是选择"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:480
 msgid "Retain Select"
-msgstr ""
+msgstr "保留选择"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:481
 msgid "Never Select"
-msgstr ""
+msgstr "没有选择"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:486
 msgid ""
@@ -2491,11 +2491,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:498
 msgid "Editor Action"
-msgstr ""
+msgstr "编辑操作"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:498
 msgid "Policy"
-msgstr ""
+msgstr "政策"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:503
 msgid ""
@@ -2591,39 +2591,39 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:623
 msgid "Control whether and how edge markers are shown in the editor."
-msgstr ""
+msgstr "控制是否以及如何边缘标记显示在编辑器中。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:626
 msgid "Column"
-msgstr ""
+msgstr "列"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:626
 msgid "Mode"
-msgstr ""
+msgstr "模式"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:626
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:769
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:627
 msgid "Border"
-msgstr ""
+msgstr "边境"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:627
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:674
 #: /Users/sdeibel/src/ide/src/edit/syntaxformatting.py:138
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:627
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:767
 msgid "Disabled"
-msgstr ""
+msgstr "禁用"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:638
 msgid "Enable to wrap long source lines on the editor display."
-msgstr ""
+msgstr "使包装长源行编辑器显示。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:651
 msgid ""
@@ -2633,7 +2633,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:655
 msgid "Match Display Font/Size"
-msgstr ""
+msgstr "显示字体/大小相匹配"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:663
 msgid ""
@@ -2645,11 +2645,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:672
 msgid "No marker"
-msgstr ""
+msgstr "没有标记"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:673
 msgid "Underline"
-msgstr ""
+msgstr "下划线"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:679
 msgid ""
@@ -2693,15 +2693,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:768
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:769
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:778
 msgid "Selects the color to use for the editor caret."
-msgstr ""
+msgstr "选择的颜色使用编辑器插入符号。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:786
 msgid ""
@@ -2711,19 +2711,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:792
 msgid "Always Use Current Split"
-msgstr ""
+msgstr "总是使用目前的分裂"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:793
 msgid "Reuse Visible or Use Current Split"
-msgstr ""
+msgstr "重用可见或使用目前的分裂"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:794
 msgid "Reuse Visible or Use Adjacent Split"
-msgstr ""
+msgstr "重用可见或使用相邻的分裂"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:795
 msgid "Always Use Adjacent Split"
-msgstr ""
+msgstr "总是使用相邻分割"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:800
 msgid ""
@@ -2756,19 +2756,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:844
 msgid "Block Comment in Column 0"
-msgstr ""
+msgstr "0块评论专栏"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:845
 msgid "Indented Comment"
-msgstr ""
+msgstr "缩进的评论"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:846
 msgid "Indented PEP8 Style Comment"
-msgstr ""
+msgstr "缩进PEP8风格的评论"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:851
 msgid "Style of commenting to use when commenting out blocks of Python code."
-msgstr ""
+msgstr "风格的评论评论时使用的Python代码块。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:858
 msgid ""
@@ -2785,15 +2785,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:878
 msgid "OS Default"
-msgstr ""
+msgstr "操作系统默认的"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:879
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:880
 msgid "Move"
-msgstr ""
+msgstr "移动"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:885
 msgid ""
@@ -2854,23 +2854,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:952
 msgid "Highlight Python builtins"
-msgstr ""
+msgstr "突出Python内置命令"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:957
 msgid "Match Keyboard Personality"
-msgstr ""
+msgstr "与键盘的个性"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:958
 msgid "If Upper Case Char is Typed"
-msgstr ""
+msgstr "如果大写字符类型"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:959
 msgid "Always Case Sensitive"
-msgstr ""
+msgstr "总是大小写敏感的"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:960
 msgid "Always Case Insensitive"
-msgstr ""
+msgstr "总是不分大小写"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:965
 msgid ""
@@ -2882,7 +2882,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:974
 msgid "Whole Words Only"
-msgstr ""
+msgstr "整个单词只"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:978
 msgid ""
@@ -2897,11 +2897,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:989
 msgid "Rectangle"
-msgstr ""
+msgstr "矩形"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:990
 msgid "Filled Block"
-msgstr ""
+msgstr "填充块"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:998
 msgid ""
@@ -2911,27 +2911,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1006
 msgid "The color used to indicate the current text selection on editable text."
-msgstr ""
+msgstr "颜色用于显示当前文本选择在可编辑的文本。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1013
 msgid "The maximum number of names allowed on a single symbol menu"
-msgstr ""
+msgstr "的最大数量允许在单个符号菜单名称"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1018
 msgid "Set this to allow scrolling the editor past the last line."
-msgstr ""
+msgstr "设置此编辑器允许滚动过去的最后一行。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1022
 msgid "Do Nothing"
-msgstr ""
+msgstr "什么也不做"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1023
 msgid "Copy Whole Line"
-msgstr ""
+msgstr "复制整行"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1024
 msgid "Cut or Copy Whole Line"
-msgstr ""
+msgstr "剪切或复制整个线"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1028
 msgid ""
@@ -2941,23 +2941,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1036
 msgid "Clipboard"
-msgstr ""
+msgstr "剪贴板"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1037
 msgid "Navigation"
-msgstr ""
+msgstr "导航"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1038
 msgid "Debug/Test"
-msgstr ""
+msgstr "调试/测试"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1039
 msgid "Commenting"
-msgstr ""
+msgstr "评论"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1041
 msgid "Revision Control"
-msgstr ""
+msgstr "版本控制"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1042
 msgid "Script-Defined Items"
@@ -2971,19 +2971,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1053
 msgid "Extra menu items to add to the editor context menu."
-msgstr ""
+msgstr "额外的菜单项添加到编辑器的上下文菜单。"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1055
 msgid "Command"
-msgstr ""
+msgstr "命令"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1055
 msgid "Item Name"
-msgstr ""
+msgstr "物品的名称"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1060
 msgid "Whether to add an eol at the end of the file when it is saved"
-msgstr ""
+msgstr "是否在文件的末尾添加一个终点时保存"
 
 #: /Users/sdeibel/src/ide/src/edit/prefs.py:1065
 msgid ""
@@ -2998,11 +2998,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:91
 msgid "Print Selection?"
-msgstr ""
+msgstr "打印选择?"
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:92
 msgid "Would you like to print only the current selection on the editor?"
-msgstr ""
+msgstr "你想打印只在编辑当前选择吗?"
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:94
 msgid "Print _Selection"
@@ -3022,7 +3022,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:205
 msgid "Preparing file for printing"
-msgstr ""
+msgstr "准备打印文件"
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:234
 msgid ""
@@ -3037,7 +3037,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/edit/printer.py:597
 #: /Users/sdeibel/src/ide/src/edit/printer.py:858
 msgid "Print Failed"
-msgstr ""
+msgstr "打印失败"
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:269
 msgid "Printing failed because py2pdf could not be found for Python version %s"
@@ -3055,7 +3055,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:326
 msgid "Printing Complete"
-msgstr ""
+msgstr "印刷完成"
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:328
 msgid ""
@@ -3066,7 +3066,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:332
 msgid "Your file has been printed to the default printer."
-msgstr ""
+msgstr "你的文件已经打印到默认打印机。"
 
 #: /Users/sdeibel/src/ide/src/edit/printer.py:598
 #: /Users/sdeibel/src/ide/src/edit/printer.py:859
@@ -3077,24 +3077,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/edit/syntaxformatting.py:126
 msgid "Foreground"
-msgstr ""
+msgstr "前景"
 
 #: /Users/sdeibel/src/ide/src/edit/syntaxformatting.py:154
 msgid "Bold"
-msgstr ""
+msgstr "大胆的"
 
 #: /Users/sdeibel/src/ide/src/edit/syntaxformatting.py:158
 msgid "Italic"
-msgstr ""
+msgstr "斜体"
 
 #: /Users/sdeibel/src/ide/src/edit/syntaxformatting.py:165
 msgid "EOL Filled"
-msgstr ""
+msgstr "终点了"
 
 #: /Users/sdeibel/src/ide/src/edit/utils.py:728
 msgid "Copy failed because text could not be copied to clipboard"
-msgstr ""
+msgstr "失败了,因为无法复制的文本复制到剪贴板"
 
 #: /Users/sdeibel/src/ide/src/edit/utils.py:749
 msgid "Cut failed because text could not be copied to clipboard"
-msgstr ""
+msgstr "减少失败是因为文本无法复制到剪贴板"

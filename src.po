@@ -295,19 +295,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/main.py:63
 msgid "kWingHome set to"
-msgstr ""
+msgstr "kWingHome设置为"
 
 #: /Users/sdeibel/src/ide/src/main.py:64
 msgid "kUserWingDir set to"
-msgstr ""
+msgstr "kUserWingDir设置为"
 
 #: /Users/sdeibel/src/ide/src/main.py:65
 msgid "kDefaultCacheDir set to"
-msgstr ""
+msgstr "kDefaultCacheDir设置为"
 
 #: /Users/sdeibel/src/ide/src/main.py:69
 msgid "Cannot run without WINGHOME: exiting"
-msgstr ""
+msgstr "的运行离不开WINGHOME:退出"
 
 #: /Users/sdeibel/src/ide/src/main.py:86
 msgid "Exit"
@@ -315,15 +315,15 @@ msgstr "退出"
 
 #: /Users/sdeibel/src/ide/src/main.py:92
 msgid "Could not create or access user settings directory "
-msgstr ""
+msgstr "无法创建或访问用户设置目录吗"
 
 #: /Users/sdeibel/src/ide/src/main.py:99
 msgid "Creating singletons..."
-msgstr ""
+msgstr "创建单例…"
 
 #: /Users/sdeibel/src/ide/src/main.py:109
 msgid "Checking for updates..."
-msgstr ""
+msgstr "检查更新…"
 
 #: /Users/sdeibel/src/ide/src/main.py:259
 msgid "_Use dotfile locking"
@@ -335,7 +335,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/main.py:261
 msgid "Wing may not have started correctly"
-msgstr ""
+msgstr "机翼可能没有正确的开始"
 
 #: /Users/sdeibel/src/ide/src/main.py:262
 msgid ""
@@ -384,7 +384,7 @@ msgstr "命名的文件集"
 #: /Users/sdeibel/src/ide/src/mainprefs.py:83
 #: /Users/sdeibel/src/ide/src/mainprefs.py:92
 msgid "Mime Type"
-msgstr ""
+msgstr "Mime类型"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:80
 msgid ""
@@ -396,7 +396,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/mainprefs.py:83
 #: /Users/sdeibel/src/ide/src/mainprefs.py:549
 msgid "Name"
-msgstr ""
+msgstr "的名字"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:89
 msgid ""
@@ -407,7 +407,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:92
 msgid "Comment Characters"
-msgstr ""
+msgstr "注释字符"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:93
 msgid "End"
@@ -442,7 +442,7 @@ msgstr "自动编辑"
 #: /Users/sdeibel/src/ide/src/mainprefs.py:120
 #: /Users/sdeibel/src/ide/src/mainprefs.py:127
 msgid "Immediately Request Reload"
-msgstr ""
+msgstr "立即请求重新加载"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:121
 #: /Users/sdeibel/src/ide/src/mainprefs.py:128
@@ -519,27 +519,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:203
 msgid "Used internally to keep track of updates the user is not interested in"
-msgstr ""
+msgstr "在内部使用跟踪更新用户不感兴趣"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:208
 msgid "Base on the Current File or Selection"
-msgstr ""
+msgstr "基于当前文件或选择"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:209
 msgid "Use Project's Home Directory"
-msgstr ""
+msgstr "使用项目的主目录"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:210
 msgid "Use Last Open/Save Directory"
-msgstr ""
+msgstr "使用最后一次打开/保存目录"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:211
 msgid "Use Startup or Current Directory"
-msgstr ""
+msgstr "使用启动或当前目录"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:212
 msgid "Use Fixed Directory Specified Below"
-msgstr ""
+msgstr "使用固定的目录指定如下"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:217
 msgid ""
@@ -552,7 +552,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:284
 msgid "Attributes"
-msgstr ""
+msgstr "属性"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:284
 msgid "Text Style"
@@ -590,23 +590,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:391
 msgid "Python Files"
-msgstr ""
+msgstr "Python文件"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:392
 msgid "Hidden & Temporary Files"
-msgstr ""
+msgstr "隐藏和临时文件"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:393
 msgid "All Source Files"
-msgstr ""
+msgstr "所有源文件"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:402
 msgid "C/C++ Files"
-msgstr ""
+msgstr "C / Files + + C"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:409
 msgid "HTML and XML Files"
-msgstr ""
+msgstr "HTML和XML文件"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:495
 #: /Users/sdeibel/src/ide/src/mainprefs.py:496
@@ -661,7 +661,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:549
 msgid "Specification"
-msgstr ""
+msgstr "规范"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:555
 msgid ""
@@ -686,36 +686,36 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:575
 msgid "Configure proxy server manually:"
-msgstr ""
+msgstr "手动配置代理服务器:"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:576
 msgid "Host name"
-msgstr ""
+msgstr "主机名"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:576
 msgid "Port"
-msgstr ""
+msgstr "港口"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:576
 msgid "User name"
-msgstr ""
+msgstr "用户名"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:577
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:583
 #: /Users/sdeibel/src/ide/src/mainprefs.py:631
 msgid "Never"
-msgstr ""
+msgstr "从来没有"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:584
 msgid "When saving files"
-msgstr ""
+msgstr "当挽救files"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:585
 msgid "When saving files in project"
-msgstr ""
+msgstr "在保存文件的项目"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:589
 msgid ""
@@ -726,15 +726,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:600
 msgid "Tools and Layout"
-msgstr ""
+msgstr "工具和布局"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:601
 msgid "Tools, Layout, and Editors"
-msgstr ""
+msgstr "工具、布局和编辑"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:602
 msgid "All Visual State"
-msgstr ""
+msgstr "所有的视觉状态"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:607
 msgid ""
@@ -755,19 +755,19 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/mainprefs.py:626
 #: /Users/sdeibel/src/ide/src/mainprefs.py:652
 msgid "File:"
-msgstr ""
+msgstr "文件:"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:630
 msgid "Always"
-msgstr ""
+msgstr "总是"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:632
 msgid "Prompt"
-msgstr ""
+msgstr "提示"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:633
 msgid "Configured by Perspective"
-msgstr ""
+msgstr "配置的角度"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:636
 msgid ""
@@ -785,7 +785,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:656
 msgid "Defines which plugins are enabled or disabled."
-msgstr ""
+msgstr "定义了哪些插件启用或禁用。"
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:663
 msgid ""
@@ -819,7 +819,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/mainprefs.py:693
 msgid "Whether show docstring type and validity in the Source Assistant."
-msgstr ""
+msgstr "是否显示在源文档字符串类型和有效性的助理。"
 
 #: /Users/sdeibel/src/ide/src/premain.py:51
 msgid "Warning: A filename must follow the --prefs-file option"
@@ -843,35 +843,35 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/premain.py:506
 msgid "Project Manager Commands"
-msgstr ""
+msgstr "项目经理的命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:508
 msgid "Editor Commands"
-msgstr ""
+msgstr "编辑器命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:510
 msgid "Search Manager Commands"
-msgstr ""
+msgstr "搜索经理的命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:512
 msgid "Unit Testing Commands"
-msgstr ""
+msgstr "单元测试命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:515
 msgid "Version Control Commands"
-msgstr ""
+msgstr "版本控制命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:518
 msgid "Debugger Commands"
-msgstr ""
+msgstr "调试器命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:520
 msgid "Refactoring Commands"
-msgstr ""
+msgstr "重构命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:523
 msgid "Source Browser Commands"
-msgstr ""
+msgstr "源代码浏览器的命令"
 
 #: /Users/sdeibel/src/ide/src/premain.py:526
 msgid "Script-provided Add-on Commands"
@@ -880,63 +880,63 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/premain.py:558
 #: /Users/sdeibel/src/ide/src/premain.py:658
 msgid "OS X"
-msgstr ""
+msgstr "OS X"
 
 #: /Users/sdeibel/src/ide/src/premain.py:759
 msgid "Preferences Dialog Path"
-msgstr ""
+msgstr "首选项对话框路径"
 
 #: /Users/sdeibel/src/ide/src/premain.py:761
 msgid "Internal Name"
-msgstr ""
+msgstr "内部名称"
 
 #: /Users/sdeibel/src/ide/src/premain.py:762
 msgid "Data Specification"
-msgstr ""
+msgstr "数据规范"
 
 #: /Users/sdeibel/src/ide/src/premain.py:766
 msgid "Default Value"
-msgstr ""
+msgstr "默认值"
 
 #: /Users/sdeibel/src/ide/src/premain.py:792
 msgid "Core Preferences"
-msgstr ""
+msgstr "核心的偏好"
 
 #: /Users/sdeibel/src/ide/src/premain.py:793
 msgid "User Interface Preferences"
-msgstr ""
+msgstr "用户界面的偏好"
 
 #: /Users/sdeibel/src/ide/src/premain.py:794
 msgid "Editor Preferences"
-msgstr ""
+msgstr "编辑器首选项"
 
 #: /Users/sdeibel/src/ide/src/premain.py:798
 msgid "Diff/Merge Preferences"
-msgstr ""
+msgstr "Diff / Merge偏好"
 
 #: /Users/sdeibel/src/ide/src/premain.py:801
 msgid "Project Manager Preferences"
-msgstr ""
+msgstr "项目经理的偏好"
 
 #: /Users/sdeibel/src/ide/src/premain.py:802
 msgid "Debugger Preferences"
-msgstr ""
+msgstr "调试器首选项"
 
 #: /Users/sdeibel/src/ide/src/premain.py:803
 msgid "Source Analysis Preferences"
-msgstr ""
+msgstr "源分析偏好"
 
 #: /Users/sdeibel/src/ide/src/premain.py:807
 msgid "Source Browser Preferences"
-msgstr ""
+msgstr "源代码浏览器首选项"
 
 #: /Users/sdeibel/src/ide/src/premain.py:809
 msgid "Version Control Preferences"
-msgstr ""
+msgstr "版本控制的偏好"
 
 #: /Users/sdeibel/src/ide/src/premain.py:811
 msgid "Internal Preferences"
-msgstr ""
+msgstr "内部偏好"
 
 #: /Users/sdeibel/src/ide/src/singleton.py:254
 msgid "Creating singletons... %s"
@@ -944,19 +944,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/singleton.py:581
 msgid "Enter Command Arguments"
-msgstr ""
+msgstr "输入命令参数"
 
 #: /Users/sdeibel/src/ide/src/singleton.py:910
 msgid "Wing IDE"
-msgstr ""
+msgstr "翼IDE"
 
 #: /Users/sdeibel/src/ide/src/wing.py:798
 msgid "No X Windows DISPLAY has been specified"
-msgstr ""
+msgstr "没有X Windows显示指定"
 
 #: /Users/sdeibel/src/ide/src/wing.py:799
 msgid "Exiting Wing IDE"
-msgstr ""
+msgstr "退出翼IDE"
 
 #: /Users/sdeibel/src/ide/src/wing.py:836
 msgid "Use console_%s to print a diagnostic log while running."
@@ -1010,31 +1010,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wing.py:1055
 msgid "Fatal startup error:  Exiting Wing IDE"
-msgstr ""
+msgstr "启动致命错误:退出翼IDE"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:320
 msgid "wingdb.py: Error: Debug file does not exist:"
-msgstr ""
+msgstr "wingdb。py:错误:调试文件不存在:"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:324
 msgid "wingdb.py: Error: Debug file is not a file:"
-msgstr ""
+msgstr "wingdb。py:错误:调试文件不是一个文件:"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:480
 msgid "Network peer is "
-msgstr ""
+msgstr "网络对等"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:481
 msgid "Attach port = "
-msgstr ""
+msgstr "连接端口="
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:482
 msgid "Initial stop = "
-msgstr ""
+msgstr "初始停止="
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:496
 msgid "wingdb.py: Could not create debug server"
-msgstr ""
+msgstr "wingdb。py:无法创建调试服务器"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:511
 msgid "wingdb.py: Running %s"
@@ -1042,15 +1042,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:519
 msgid "wingdb.py: Server exiting abnormally on exception"
-msgstr ""
+msgstr "wingdb。py:服务器退出异常例外"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:652
 msgid "wingdb.py: Error: Failed to start the debug server"
-msgstr ""
+msgstr "wingdb。py:错误:未开始调试服务器"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:653
 msgid "wingdb.py: Error: You may be running an unsupported version of Python"
-msgstr ""
+msgstr "wingdb。py:错误:你可能运行Python的一个不受支持的版本"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:654
 msgid "wingdb.py: Python version = %s"
@@ -1058,7 +1058,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:660
 msgid "wingdb.py: Error: Cannot run a debug process with optimized python"
-msgstr ""
+msgstr "wingdb。py:错误:不能运行调试过程优化的python"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:661
 msgid "wingdb.py: Error: You must omit the -O or -OO command line option, or"
@@ -1066,7 +1066,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:662
 msgid "wingdb.py: Error: undefine environment variable PYTHONOPTIMIZE"
-msgstr ""
+msgstr "wingdb。py:PYTHONOPTIMIZE错误:未定义环境变量"
 
 #: /Users/sdeibel/src/ide/src/wingdb.py:733
 #: /Users/sdeibel/src/ide/src/wingdb.py:735

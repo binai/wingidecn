@@ -37,28 +37,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:90
 msgid " Key press handler; must run before command map lookup "
-msgstr ""
+msgstr "按键处理程序;必须运行之前命令查找地图"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:122
 msgid " Move to different location. "
-msgstr ""
+msgstr "移动到不同的位置。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:157
 msgid "These are the high level application control commands."
-msgstr ""
+msgstr "这些高水平的应用程序控制命令。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:164
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2243
 msgid " Constructor; fGuiMgr is invariant. "
-msgstr ""
+msgstr "fGuiMgr;invariant is Constructor。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:182
 msgid " Quit the application. "
-msgstr ""
+msgstr "退出应用程序。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:187
 msgid " Restart the application "
-msgstr ""
+msgstr "重新启动应用程序"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:194
 msgid " Show the application-wide about box "
@@ -66,11 +66,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:206
 msgid " Open a file from disk "
-msgstr ""
+msgstr "打开一个文件从磁盘"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:213
 msgid "File open failed"
-msgstr ""
+msgstr "文件打开失败"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:214
 msgid "%s is a directory and cannot be opened."
@@ -84,19 +84,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:250
 msgid "Open File"
-msgstr ""
+msgstr "打开的文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:251
 msgid "Select file to open"
-msgstr ""
+msgstr "选择文件打开"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:265
 msgid "The file to select"
-msgstr ""
+msgstr "文件选择"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:270
 msgid "Select file to open:"
-msgstr ""
+msgstr "选择文件打开:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:275
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:282
@@ -105,7 +105,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:288
 msgid " Create a new file "
-msgstr ""
+msgstr "创建一个新文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:294
 msgid ""
@@ -121,15 +121,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:319
 msgid "Create a new panel window of given type"
-msgstr ""
+msgstr "创建一个新的面板窗口的特定类型"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:324
 msgid "Hide/remove all tools and restore to original default state"
-msgstr ""
+msgstr "隐藏/删除所有工具和恢复原来的默认状态"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:329
 msgid "Close the current window and all documents and panels in it"
-msgstr ""
+msgstr "关闭当前窗口,所有文档和面板"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:344
 msgid ""
@@ -139,7 +139,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:352
 msgid " Check whether anything needs saving "
-msgstr ""
+msgstr "检查是否需要保存"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:364
 msgid ""
@@ -162,31 +162,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:452
 msgid "Save active document.  Also close it if close is True."
-msgstr ""
+msgstr "保存活动文档。如果关闭是真的也关闭它。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:472
 msgid "Save active document to a new file"
-msgstr ""
+msgstr "将活动文档保存到一个新文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:486
 msgid "The location to write the file"
-msgstr ""
+msgstr "写文件的位置"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:491
 msgid "Write file:"
-msgstr ""
+msgstr "写文件:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:492
 msgid "First line to write or None for all"
-msgstr ""
+msgstr "第一line or for all to write None"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:496
 msgid "Last line to write or None for all"
-msgstr ""
+msgstr "最后一行写或没有"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:500
 msgid "Set to False to keep the editor pointed at the old file"
-msgstr ""
+msgstr "设置为False编辑器指向旧的文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:509
 msgid ""
@@ -199,7 +199,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:520
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:652
 msgid "Conflicting Filenames"
-msgstr ""
+msgstr "冲突的文件名"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:521
 msgid ""
@@ -229,23 +229,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:597
 msgid "The new filename for the file"
-msgstr ""
+msgstr "新文件名的文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:602
 msgid "Rename file:"
-msgstr ""
+msgstr "重命名文件:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:607
 msgid " Rename current file, moving the file on disk if it exists. "
-msgstr ""
+msgstr "重命名当前文件,磁盘上的文件是否存在。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:626
 msgid "Name of the new file"
-msgstr ""
+msgstr "新文件的名称"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:632
 msgid "New file:"
-msgstr ""
+msgstr "新文件:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:640
 msgid ""
@@ -260,23 +260,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:672
 msgid "Name of the new directory"
-msgstr ""
+msgstr "新目录的名称"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:679
 msgid "New directory:"
-msgstr ""
+msgstr "新目录:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:687
 msgid "Create a new directory on disk and add it to the current project."
-msgstr ""
+msgstr "磁盘上创建一个新的目录,并将其添加到当前项目。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:707
 msgid "Name of the new package"
-msgstr ""
+msgstr "新包的名称"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:713
 msgid "New package:"
-msgstr ""
+msgstr "新方案:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:721
 msgid ""
@@ -294,7 +294,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:741
 msgid "Abandon Changes?"
-msgstr ""
+msgstr "放弃修改?"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:742
 msgid ""
@@ -315,11 +315,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:768
 msgid "Document to switch to"
-msgstr ""
+msgstr "文档切换到"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:774
 msgid "Switch to document:"
-msgstr ""
+msgstr "切换到文档:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:779
 msgid ""
@@ -370,11 +370,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:988
 msgid "Switch to the next window alphabetically by title"
-msgstr ""
+msgstr "切换到下一个窗口由标题按字母顺序"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1005
 msgid "Switch to the previous window alphabetically by title"
-msgstr ""
+msgstr "切换到前一个窗口由标题按字母顺序"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1020
 msgid ""
@@ -399,15 +399,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1145
 msgid "Name of the command to execute"
-msgstr ""
+msgstr "执行命令的名称"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1148
 msgid "Command"
-msgstr ""
+msgstr "命令"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1153
 msgid " Execute given command by name, collecting any args as needed "
-msgstr ""
+msgstr "执行特定命令的名字,收集所需的任何参数"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1158
 msgid "Cannot parse command name: %s"
@@ -426,11 +426,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1190
 msgid " Display interactive tip manager "
-msgstr ""
+msgstr "显示交互式提示经理"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1196
 msgid " Show the HTML version of the Wing IDE users manual "
-msgstr ""
+msgstr "显示翼IDE的HTML版本的用户手册"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1201
 msgid ""
@@ -440,43 +440,43 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1207
 msgid " Show the Python users manual "
-msgstr ""
+msgstr "显示了Python用户手册"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1213
 msgid " Show the Wingware home page "
-msgstr ""
+msgstr "显示Wingware主页"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1216
 msgid " Show the Wingware store for purchasing a license "
-msgstr ""
+msgstr "显示Wingware商店购买许可证"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1219
 msgid " Show the Wingware wiki for sharing scripts, tips, and tricks"
-msgstr ""
+msgstr "显示Wingware维基共享脚本,提示和技巧"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1222
 msgid " Show the Wing IDE support site home page "
-msgstr ""
+msgstr "显示翼IDE支持网站主页"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1225
 msgid " Show the Python Success Stories page"
-msgstr ""
+msgstr "显示Python成功故事页"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1228
 msgid " Show the python.org site home page "
-msgstr ""
+msgstr "显示了python.org网站的主页"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1231
 msgid " Show the python.org site search page "
-msgstr ""
+msgstr "显示了python.org网站搜索页面"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1234
 msgid " Show the Python for Beginners web page "
-msgstr ""
+msgstr "初学者的Python web页面"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1237
 msgid " Show the Python donations web page "
-msgstr ""
+msgstr "显示了Python web页面的捐款"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1242
 msgid ""
@@ -531,7 +531,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1298
 msgid "Panel Type"
-msgstr ""
+msgstr "板类型"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1426
 msgid ""
@@ -541,15 +541,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1433
 msgid " Show the plugins GUI for enabling and disabling plugins "
-msgstr ""
+msgstr "显示的GUI插件启用和禁用插件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1439
 msgid "Show the File Sets preference editor"
-msgstr ""
+msgstr "显示文件集首选项编辑器"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1448
 msgid " Edit the preferences as a text file "
-msgstr ""
+msgstr "编辑preferences作为文本文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1458
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1464
@@ -569,15 +569,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1525
 msgid "VI style repeat/numeric modifier for following command"
-msgstr ""
+msgstr "六世风格对以下命令重复/数字修饰符"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1531
 msgid "Show the line numbers in editors"
-msgstr ""
+msgstr "在编辑器显示行号"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1543
 msgid "Hide line numbers in editors"
-msgstr ""
+msgstr "隐藏编辑的行号"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1549
 msgid "Process query-end-session message on win32"
@@ -607,11 +607,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1614
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1616
 msgid "Title:"
-msgstr ""
+msgstr "标题:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1619
 msgid ""
@@ -630,15 +630,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1645
 msgid "Show the given documentation section"
-msgstr ""
+msgstr "显示给定的文档部分"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1650
 msgid "Show the tutorial"
-msgstr ""
+msgstr "显示本教程"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1654
 msgid "Show the quick start guide"
-msgstr ""
+msgstr "快速入门指南"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1658
 msgid "Show the How-Tos index"
@@ -646,7 +646,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1662
 msgid "Show the Wing Tips window"
-msgstr ""
+msgstr "显示了翼尖窗口"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1666
 msgid ""
@@ -656,7 +656,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1684
 msgid "Show the given document section in HTML format."
-msgstr ""
+msgstr "以HTML格式显示给定文档部分。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1706
 msgid ""
@@ -666,19 +666,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1759
 msgid "Search successful (wrapped)"
-msgstr ""
+msgstr "搜索成功的(包装)"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1764
 msgid "No search match"
-msgstr ""
+msgstr "没有搜索匹配"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1771
 msgid "Search successful"
-msgstr ""
+msgstr "搜索成功"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1786
 msgid "Move to next match of text already entered in the toolbar search area"
-msgstr ""
+msgstr "移动到下一个匹配的文本已经进入在工具栏的搜索区域"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1795
 msgid ""
@@ -687,15 +687,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1804
 msgid " Move focus to toolbar search entry. "
-msgstr ""
+msgstr "焦点移到工具栏的搜索条目。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1823
 msgid "Show the feedback submission dialog"
-msgstr ""
+msgstr "显示反馈提交对话框"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1828
 msgid "Show the bug reporting dialog"
-msgstr ""
+msgstr "显示出bug报告对话框"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1833
 msgid ""
@@ -712,15 +712,15 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1848
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1862
 msgid "Could not copy tutorial"
-msgstr ""
+msgstr "无法复制的教程"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1849
 msgid "No valid directory was selected."
-msgstr ""
+msgstr "没有选定有效目录。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1860
 msgid "tutorial"
-msgstr ""
+msgstr "教程"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1863
 msgid ""
@@ -730,7 +730,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1897
 msgid "Tutorial copied"
-msgstr ""
+msgstr "教程复制"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1898
 msgid "Tutorial was copied to %s"
@@ -738,11 +738,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1904
 msgid "Choose Target Folder"
-msgstr ""
+msgstr "选择目标文件夹"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1905
 msgid "Please select a target folder to which to copy the tutorial files"
-msgstr ""
+msgstr "请选择一个目标文件夹,复制本教程文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1913
 msgid "Show the contents of all non-empty text registers in a temporary editor"
@@ -750,7 +750,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1920
 msgid "Utility to get current editor"
-msgstr ""
+msgstr "实用程序来获得当前编辑器"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1929
 msgid ""
@@ -764,7 +764,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1948
 msgid "Name:"
-msgstr ""
+msgstr "名称:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1958
 msgid ""
@@ -782,7 +782,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1975
 msgid "Remove the given named bookmark"
-msgstr ""
+msgstr "删除给定的命名为书签"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:1984
 msgid ""
@@ -801,15 +801,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2012
 msgid "Goto named bookmark"
-msgstr ""
+msgstr "转到指定书签"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2026
 msgid "Bookmark"
-msgstr ""
+msgstr "书签"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2028
 msgid "Bookmark:"
-msgstr ""
+msgstr "书签:"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2033
 msgid ""
@@ -827,15 +827,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2049
 msgid "Show a list of all currently defined bookmarks"
-msgstr ""
+msgstr "显示所有当前定义的书签的列表"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2055
 msgid " Returns list of menu items for selecting among defined bookmarks "
-msgstr ""
+msgstr "返回选择的菜单项列表中定义的书签"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2067
 msgid "No bookmarks defined"
-msgstr ""
+msgstr "没有定义的书签"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2073
 msgid ""
@@ -851,7 +851,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2095
 msgid "Remove one or more bookmarks (pass in space separated list of names)"
-msgstr ""
+msgstr "删除一个或多个书签(通过在空间分隔名单)"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2101
 msgid ""
@@ -869,7 +869,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2152
 msgid "Restore the given named perspective."
-msgstr ""
+msgstr "恢复给定命名为视角。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2155
 msgid "Invalid Perspective::The perspective '%s' does not exist"
@@ -877,7 +877,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2162
 msgid "Display the perspectives manager dialog"
-msgstr ""
+msgstr "显示的角度管理器对话框"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2169
 msgid "Enable auto-perspectives"
@@ -889,7 +889,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2195
 msgid "Load the given named file set"
-msgstr ""
+msgstr "加载给定的命名文件集"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2198
 msgid "Invalid File Set::The named file set '%s' does not exist"
@@ -897,27 +897,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2205
 msgid "Display the file set manager dialog"
-msgstr ""
+msgstr "显示文件设置管理器对话框"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2211
 msgid "Create a new named file set with the currently open files"
-msgstr ""
+msgstr "创建一个新的命名文件设置与当前打开的文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2221
 msgid "Create a new named file set with the currently selected files"
-msgstr ""
+msgstr "创建一个新的命名文件设置与当前选中的文件"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2229
 msgid "Enter a new license code, replacing any existing license activation"
-msgstr ""
+msgstr "输入一个新的注册码,替换任何现有许可激活"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2236
 msgid "Commands to dynamically generate menu items for the top level menus."
-msgstr ""
+msgstr "命令来动态生成菜单项顶级菜单。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2254
 msgid " Returns list of menu item definitions for all windows. "
-msgstr ""
+msgstr "返回所有窗口的菜单项定义列表。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2308
 msgid ""
@@ -927,11 +927,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2319
 msgid "Buy Now"
-msgstr ""
+msgstr "现在购买"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2320
 msgid "Enter License..."
-msgstr ""
+msgstr "嫁接...证书"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2332
 msgid ""
@@ -941,52 +941,52 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2358
 msgid "Wing IDE Help"
-msgstr ""
+msgstr "翼IDE帮助"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2385
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2399
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2417
 msgid " Debug loc; used to implement recent menu. "
-msgstr ""
+msgstr "最近调试loc;用于实现菜单。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2390
 msgid " Generates list of menu items for recent files menu. "
-msgstr ""
+msgstr "最近生成的菜单项列表文件菜单。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2410
 msgid " Generates list of menu items for recent projects menu. "
-msgstr ""
+msgstr "为最近的工程生成的菜单项列表菜单。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2436
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2481
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2526
 msgid " Generates list of menu items for recent debug menu. "
-msgstr ""
+msgstr "生成最近调试菜单的菜单项列表。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2452
 msgid " Generates list of menu items for named debug entry points. "
-msgstr ""
+msgstr "生成的菜单项列表命名调试入口点。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2464
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2503
 msgid "Manage Named Entry Points..."
-msgstr ""
+msgstr "入境点... Named机关"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2469
 msgid " Execute loc; used to implement recent menu. "
-msgstr ""
+msgstr "最近执行loc;用于实现菜单。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2493
 msgid " Generates list of menu items to execute named entry points. "
-msgstr ""
+msgstr "生成的菜单项列表来执行指定入口点。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2509
 msgid " Invoke script; used to implement recent menu. "
-msgstr ""
+msgstr "最近调用脚本,用于实现菜单。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2514
 msgid " Returns label to use for script. "
-msgstr ""
+msgstr "返回标签用于脚本。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2534
 msgid ""
@@ -997,7 +997,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2578
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2583
 msgid " Returns list of menu items for the tools menu. "
-msgstr ""
+msgstr "返回菜单的菜单项列表的工具。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2588
 msgid ""
@@ -1031,11 +1031,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2601
 msgid "Show Toolbar"
-msgstr ""
+msgstr "显示工具栏"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2602
 msgid "Hide Toolbar"
-msgstr ""
+msgstr "隐藏工具栏"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2607
 msgid ""
@@ -1045,20 +1045,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2643
 msgid " Returns list of menu items for setting current perspective "
-msgstr ""
+msgstr "返回当前设置的菜单项列表的视角"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2649
 msgid " Returns list of menu items for deleting perspectives "
-msgstr ""
+msgstr "返回删除的菜单项列表的观点"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2658
 msgid " Returns list of menu items for selecting keyboard personality "
-msgstr ""
+msgstr "返回选择的菜单项列表键盘的个性"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2685
 msgid " Generates list of menu items for all named file sets. "
-msgstr ""
+msgstr "所有的菜单项列表生成指定的文件集。"
 
 #: /Users/sdeibel/src/ide/src/wingide/topcommands.py:2691
 msgid "Beep once"
-msgstr ""
+msgstr "响一次"

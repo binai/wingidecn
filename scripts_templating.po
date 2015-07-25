@@ -221,7 +221,7 @@ msgstr "模板管理器"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:673
 msgid "Commands available on a specific instance of the template manager tool"
-msgstr "命令可以在一个特定的实例模板管理器工具"
+msgstr "The Commands available on a specific instance of the template manager tool"
 
 #: /Users/sdeibel/src/ide/scripts/templating.py:686
 msgid "Add a new template"
