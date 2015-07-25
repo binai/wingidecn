@@ -228,7 +228,7 @@ msgstr "禁用这个测试"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:348
 msgid "Perform given svn operation on the given files or directories"
-msgstr "之下给予人道on the operation svn详尽而directories"
+msgstr "对给定的文件或目录执行给定的svn操作"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:368
 msgid "Login for %s:"
@@ -389,7 +389,7 @@ msgstr "SVN的选项"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:997
 msgid "Create and return the form pages to use"
-msgstr ""
+msgstr "创建并返回表单页面使用"
 
 #: /Users/sdeibel/src/ide/scripts/svn.py:999
 msgid "SVN Executable"

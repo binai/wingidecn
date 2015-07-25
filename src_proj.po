@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2015-07-25 16:48+0800\n"
-"Last-Translator: binai <msiiiu@qq.com>\n"
+"PO-Revision-Date: 2003-07-10 12:24GMT\n"
+"Last-Translator: 小雨<rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.4\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: KBabel 0.9.5\n"
 
 #: /Users/sdeibel/src/ide/src/proj/anastats.py:77
 msgid ""
@@ -28,23 +28,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/anastats.py:88
 msgid "Interpreter:"
-msgstr "Interpreter:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/anastats.py:99
 msgid "Effective Python Path:"
-msgstr "有效巨蟒Path:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/anastats.py:122
 msgid "Change Settings"
-msgstr "改变设置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/anastats.py:124
 msgid "Close"
-msgstr "关闭"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/anastats.py:163
 msgid "Python Environment"
-msgstr "Python环境"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/anastats.py:198
 msgid "<untitled>"
@@ -74,15 +74,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:31
 msgid "The list of files in the project"
-msgstr "在项目文件的列表"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:33
 msgid "The list of directories in the project"
-msgstr "在项目目录的列表"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:37
 msgid "The type of project file: shared or unshared"
-msgstr "项目文件的类型:共享或非共享"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:61
 msgid ""
@@ -124,7 +124,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:94
 msgid "Command to execute before running the debug process."
-msgstr "命令执行之前运行调试过程。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:103
 msgid ""
@@ -176,12 +176,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:209
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:238
 msgid "Use Preferences Setting"
-msgstr "使用偏好设置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:181
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1992
 msgid "Line Feed \\n (Posix/Unix/OS X)"
-msgstr "换行\\ \\ n(Posix / Unix / OS X)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:182
 msgid "Carriage Return \\r (Mac OS <=9)"
@@ -189,7 +189,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:183
 msgid "Carriage Return and Line Feed \\r\\n (Windows)"
-msgstr "该运输饲料\\ \\ \\ Line r . n(Windows)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:188
 msgid ""
@@ -200,12 +200,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:195
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:224
 msgid "Ignore Conflicts"
-msgstr "忽略冲突"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:196
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:225
 msgid "Warn About Conflicts"
-msgstr "警告冲突"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:197
 msgid "Auto-convert on Open"
@@ -219,15 +219,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:210
 msgid "Spaces Only"
-msgstr "空间只"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:211
 msgid "Tabs Only"
-msgstr "选项卡只"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:212
 msgid "Mixed Tabs and Spaces"
-msgstr "混合制表符和空格"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:217
 msgid ""
@@ -250,7 +250,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:253
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2392
 msgid "Use Preference Setting"
-msgstr "使用偏好设置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:255
 msgid ""
@@ -262,7 +262,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:265
 msgid "Enables Zope2/Plone support"
-msgstr "使Zope2 / Plone支持"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:270
 msgid ""
@@ -298,7 +298,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:295
 msgid "A container in which scripts can store information in the project file."
-msgstr "容器的脚本可以在项目文件中存储信息。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/attribs.py:301
 msgid ""
@@ -312,7 +312,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:80
 msgid "Click to open recent projects"
-msgstr "点击打开最近的项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:87
 msgid "_Options"
@@ -320,19 +320,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:96
 msgid "Follow Selection"
-msgstr "遵循选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:97
 msgid "Follow Current Editor"
-msgstr "按照当前的编辑器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:99
 msgid "View As Tree"
-msgstr "认为树"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:100
 msgid "View As Flattened Tree"
-msgstr "认为扁平的树"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:103
 msgid ""
@@ -349,19 +349,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:132
 msgid "Sort By Name"
-msgstr "按名称排序"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:133
 msgid "Sort By Mime Type"
-msgstr "按Mime类型排序"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:134
 msgid "Sort By Extension"
-msgstr "这种通过扩展"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:144
 msgid "List Files Before Directories"
-msgstr "之前文件目录列表"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:195
 msgid "Project: %s%s [%i files / %i dirs]"
@@ -369,11 +369,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:216
 msgid "Project"
-msgstr "项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:222
 msgid "Project Manager"
-msgstr "项目经理"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:382
 msgid "Project: <none>"
@@ -386,7 +386,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:422
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:434
 msgid "Project panel state"
-msgstr "项目小组"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:451
 msgid "Directory P_roperties..."
@@ -402,15 +402,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:483
 msgid "Show in Explorer"
-msgstr "在资源管理器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:485
 msgid "Show in Finder"
-msgstr "在仪"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:487
 msgid "Show Directory"
-msgstr "显示目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:489
 msgid "Open in External _Viewer"
@@ -490,31 +490,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:562
 msgid "Configure Menu..."
-msgstr "...起见菜单"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:588
 msgid "Project File"
-msgstr "项目文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:609
 msgid "New name for the directory"
-msgstr "新目录的名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:610
 msgid "New Directory Name"
-msgstr "新目录名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:612
 msgid "New name for the file"
-msgstr "新文件的名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:613
 msgid "New File Name"
-msgstr "新文件的名字"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:859
 msgid "Recycle Selected Files and Directories?"
-msgstr "回收利用选定的文件和目录吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:860
 msgid ""
@@ -528,7 +528,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:863
 msgid "Move Selected Files and Directories to Trash?"
-msgstr "选定的文件和目录移动到垃圾吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:864
 msgid ""
@@ -542,11 +542,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:868
 msgid "Recycle Selected Files?"
-msgstr "回收所选文件?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:869
 msgid "Are you sure you want to move the selected files to the recycling bin?"
-msgstr "你确定你想要选择的文件移动到回收站吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:870
 msgid "_Recycle Selected Files"
@@ -554,11 +554,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:872
 msgid "Move Selected Files to Trash?"
-msgstr "选定的文件移动到垃圾吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:873
 msgid "Are you sure you want to move the selected files to the trash?"
-msgstr "您确定要将选中的文件移动到垃圾吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:874
 msgid "_Move Selected Files to Trash"
@@ -566,7 +566,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:877
 msgid "Recycle Selected Directories?"
-msgstr "回收所选目录吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:878
 msgid ""
@@ -580,7 +580,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:881
 msgid "Move Selected Directories to Trash?"
-msgstr "移动所选目录垃圾吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_panel.py:882
 msgid ""
@@ -609,12 +609,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/cap_shared.py:75
 #: /Users/sdeibel/src/ide/src/proj/project.py:1680
 msgid "Failed to write parts of the project file: "
-msgstr "没有写的部分项目文件:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:647
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:1230
 msgid "Move Selected Files?"
-msgstr "移动选定的文件?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:648
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:1231
@@ -624,7 +624,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:651
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:1233
 msgid "Copy Selected Files?"
-msgstr "复制选定的文件吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:652
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:1234
@@ -636,14 +636,14 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/manager.py:382
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:431
 msgid "OK"
-msgstr "好吧"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:659
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:1240
 #: /Users/sdeibel/src/ide/src/proj/manager.py:323
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:432
 msgid "Cancel"
-msgstr "取消"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:664
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:1245
@@ -652,27 +652,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:727
 msgid ". (project home directory)"
-msgstr "。(项目主目录)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/cap_treepanel.py:1140
 msgid "File"
-msgstr "文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:95
 msgid "Choose file to create"
-msgstr "选择文件创建"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:98
 msgid "Select file to add to project"
-msgstr "选择文件添加到项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:186
 msgid "Select Directory to Remove"
-msgstr "选择要删除目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:211
 msgid "Invalid selection"
-msgstr "无效的选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:212
 msgid "Sorry, %s is not a directory."
@@ -680,11 +680,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:279
 msgid "Cannot Move Files"
-msgstr "不能移动文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:281
 msgid "Cannot Copy Files"
-msgstr "无法复制文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:282
 msgid "%s::The directory %s already exists.  Please remove or rename it first."
@@ -692,7 +692,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:299
 msgid "Replace existing files?"
-msgstr "替换现有的文件吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:300
 msgid ""
@@ -702,11 +702,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:322
 msgid "Replace the Selected Files"
-msgstr "替换所选文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:374
 msgid "Could not Move"
-msgstr "不能动弹"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:375
 msgid ""
@@ -716,7 +716,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:378
 msgid "Could not Copy"
-msgstr "不能复制"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:379
 msgid ""
@@ -726,19 +726,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:668
 msgid "Open Project"
-msgstr "开放项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:669
 msgid "Select project to open"
-msgstr "选择项目开"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:695
 msgid "Converting project..."
-msgstr "将项目……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:706
 msgid "Project Conversion Options"
-msgstr "项目转换选项"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:707
 msgid ""
@@ -758,20 +758,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:719
 msgid "Use Static Project"
-msgstr "使用静态项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:728
 msgid "Creating project instance..."
-msgstr "创建项目实例…"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:732
 msgid "Reading project..."
-msgstr "阅读项目……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:738
 #: /Users/sdeibel/src/ide/src/proj/manager.py:751
 msgid "Failed to load project"
-msgstr "未能加载项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:739
 msgid ""
@@ -795,23 +795,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:770
 msgid "Close prior project..."
-msgstr "关闭之前项目……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:773
 msgid "Project opened"
-msgstr "项目开"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:791
 msgid "Failed to save portions of visual state:"
-msgstr "未能保存部分的视觉状态:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:844
 msgid "Creating GUI..."
-msgstr "创建GUI……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:848
 msgid "Update command GUI..."
-msgstr "更新命令GUI……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:879
 msgid ""
@@ -844,11 +844,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:1338
 msgid "Select Project File to Open"
-msgstr "选择打开项目文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:1457
 msgid "Enter fragments separated by spaces:"
-msgstr "输入碎片隔开空间:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/manager.py:1541
 msgid "Match on _Full Path"
@@ -856,23 +856,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:35
 msgid "Generic Python"
-msgstr "通用的Python"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:36
 msgid "Generic with virtualenv"
-msgstr "通用与virtualenv"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:38
 msgid "Matplotlib"
-msgstr "Matplotlib"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:40
 msgid "Django"
-msgstr "Django"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:41
 msgid "Google App Engine"
-msgstr "谷歌App发动机"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:42
 msgid "mod_python"
@@ -884,51 +884,51 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:44
 msgid "Plone"
-msgstr "Plone"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:45
 msgid "Pyramid"
-msgstr "金字塔"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:46
 msgid "Turbogears"
-msgstr "Turbogears"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:47
 msgid "Web2py"
-msgstr "Web2py"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:49
 msgid "PyGTK"
-msgstr "PyGTK"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:50
 msgid "PyGObject"
-msgstr "PyGObject"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:51
 msgid "PyQt"
-msgstr "PyQt"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:52
 msgid "WxPython"
-msgstr "WxPython"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:54
 msgid "Blender"
-msgstr "搅拌机"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:55
 msgid "Autodesk Maya"
-msgstr "Autodesk Maya"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:56
 msgid "NUKE/NUKEX"
-msgstr "核/ NUKEX"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:57
 msgid "Source Filmmaker"
-msgstr "源导演"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:59
 msgid "Hex-Rays IDA"
@@ -936,23 +936,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:60
 msgid "Paste/Pylons"
-msgstr "Paste / Pylons"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:61
 msgid "PyGame"
-msgstr "PyGame"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:62
 msgid "Twisted"
-msgstr "扭曲的"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:63
 msgid "Webware"
-msgstr "Webware"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:64
 msgid "Zope2 (without Plone)"
-msgstr "Zope2(没有Plone)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:82
 msgid ""
@@ -968,31 +968,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:97
 msgid "This can be changed later in Project Properties."
-msgstr "这在项目属性,以后可以修改。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:100
 msgid "The Python executable to use with this project."
-msgstr "Python可执行使用这个项目。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:102
 msgid "The python.exe to use with this project."
-msgstr "python。exe使用这个项目。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:103
 msgid "The virtualenv Python to use with this project."
-msgstr "virtualenv Python使用这个项目。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:115
 msgid "The PYTHONPATH to use for this project."
-msgstr "到PYTHONPATH用于这个项目。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:149
 msgid "Python Executable"
-msgstr "Python可执行"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:184
 msgid "Project Created"
-msgstr "项目创建"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:185
 msgid ""
@@ -1003,41 +1003,41 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:206
 msgid "Project Properties"
-msgstr "项目属性"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:207
 msgid "Save Now"
-msgstr "保存现在"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:208
 msgid "Save Later"
-msgstr "保存后"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:225
 msgid "Virtualenv Python"
-msgstr "Virtualenv Python"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:260
 msgid "Source Directory"
-msgstr "源目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:283
 msgid "Scanning Directory"
-msgstr "扫描目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:287
 msgid "Scanning the disk for project files.  Please wait."
-msgstr "项目文件的扫描磁盘。请稍等。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:361
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1776
 msgid "Zope2 Instance Home"
-msgstr "Zope2实例主"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:363
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1778
 msgid "Zope2 Host (if remote)"
-msgstr "如果远程Zope2主机()"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:421
 msgid ""
@@ -1047,11 +1047,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:435
 msgid "New Project"
-msgstr "新项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:445
 msgid "Show this dialog when creating projects"
-msgstr "创建项目时显示此对话框"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/newproject.py:478
 msgid "_New Project"
@@ -1093,27 +1093,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:62
 msgid "Clipboard"
-msgstr "剪贴板"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:63
 msgid "Navigation"
-msgstr "导航"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:64
 msgid "Debug/Test"
-msgstr "调试/测试"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:65
 msgid "Revision Control"
-msgstr "版本控制"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:66
 msgid "Project Management"
-msgstr "项目管理"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:67
 msgid "File Management"
-msgstr "文件管理"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:68
 msgid "Script-Defined Items"
@@ -1127,15 +1127,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:79
 msgid "Extra menu items to add to the Project tool context menu."
-msgstr "额外的菜单项添加到项目上下文菜单的工具。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:81
 msgid "Command"
-msgstr "命令"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:81
 msgid "Item Name"
-msgstr "物品的名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/prefs.py:86
 msgid ""
@@ -1147,12 +1147,12 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/projcvt.py:464
 #: /Users/sdeibel/src/ide/src/proj/properties.py:89
 msgid "Build Command"
-msgstr "建造的命令"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/projcvt.py:504
 #: /Users/sdeibel/src/ide/src/proj/properties.py:510
 msgid "Launch Config"
-msgstr "启动配置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/project.py:1087
 msgid "New Project #%d.wpr"
@@ -1208,7 +1208,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/project.py:1651
 #: /Users/sdeibel/src/ide/src/proj/project.py:1670
 msgid "General write error"
-msgstr "一般写错误"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/project.py:1674
 msgid ""
@@ -1218,7 +1218,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/project.py:2045
 msgid "Cannot add Unsaved Files"
-msgstr "不能添加未保存的文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/project.py:2046
 msgid ""
@@ -1228,25 +1228,25 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:62
 msgid "Run Arguments"
-msgstr "运行参数"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:68
 #: /Users/sdeibel/src/ide/src/proj/properties.py:408
 msgid "Enter any run arguments here"
-msgstr "在这里输入任何运行参数"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:79
 msgid "Show this dialog before each run"
-msgstr "每次运行之前显示这个对话框"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:80
 #: /Users/sdeibel/src/ide/src/proj/properties.py:90
 msgid "Environment"
-msgstr "环境"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:81
 msgid "Project Home Directory"
-msgstr "项目主目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:82
 msgid "Python _Executable"
@@ -1258,24 +1258,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:85
 msgid "Main Entry Point"
-msgstr "主入口点"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:87
 msgid "Main Debug File"
-msgstr "主要调试文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:88
 msgid "Initial Directory"
-msgstr "最初的目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:92
 msgid "Python Options"
-msgstr "Python的选项"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:108
 #: /Users/sdeibel/src/ide/src/proj/properties.py:131
 msgid "Use inherited environment"
-msgstr "使用继承的环境"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:109
 msgid ""
@@ -1286,7 +1286,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/properties.py:112
 #: /Users/sdeibel/src/ide/src/proj/properties.py:135
 msgid "Add to inherited environment"
-msgstr "添加到继承的环境"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:113
 #: /Users/sdeibel/src/ide/src/proj/properties.py:136
@@ -1297,7 +1297,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:122
 msgid "Use project values"
-msgstr "使用项目的值"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:123
 msgid ""
@@ -1307,11 +1307,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:126
 msgid "Add to project values"
-msgstr "增加项目价值"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:127
 msgid "Add the values listed below to the values set by the project"
-msgstr "下面列出的值添加到值设定的项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:132
 msgid ""
@@ -1321,49 +1321,49 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:149
 msgid "View/edit project environment"
-msgstr "查看/编辑项目环境"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:226
 msgid "Unspecified Build Command"
-msgstr "未指明的构建命令"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:227
 #: /Users/sdeibel/src/ide/src/proj/properties.py:274
 msgid "Configure..."
-msgstr "...起见"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:228
 #: /Users/sdeibel/src/ide/src/proj/properties.py:275
 msgid "Edit command and run environment for build"
-msgstr "编辑命令和运行环境构建"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:257
 msgid "Unspecified"
-msgstr "未指明的"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:261
 msgid "Unknown Command"
-msgstr "未知的命令"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:271
 msgid "Create New..."
-msgstr "Create New……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:272
 msgid "Create new command for build"
-msgstr "为构建创建新命令"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:371
 msgid "Use Project Settings and the Following Run Args:"
-msgstr "使用项目设置和运行参数如下:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:372
 msgid "Use the environment and Python settings from Project Properties"
-msgstr "使用环境和Python项目属性设置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:374
 msgid "Use Selected Launch Configuration:"
-msgstr "使用选中的启动配置:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:375
 msgid ""
@@ -1372,11 +1372,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:386
 msgid "View/edit project properties"
-msgstr "查看/编辑项目属性"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:398
 msgid "Edit the selected Launch Configuration"
-msgstr "编辑所选的启动配置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:398
 #: /Users/sdeibel/src/ide/src/proj/properties.py:557
@@ -1385,7 +1385,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:399
 msgid "Create and use a new Launch Configuration"
-msgstr "创建和使用一个新的启动配置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:399
 #: /Users/sdeibel/src/ide/src/proj/properties.py:558
@@ -1405,28 +1405,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:402
 msgid "Unspecified Launch Config"
-msgstr "未指明的启动配置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:480
 msgid "Create Launch Configuration"
-msgstr "创建启动配置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:483
 msgid "Name of the new launch configuration"
-msgstr "新的启动配置的名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:486
 #: /Users/sdeibel/src/ide/src/proj/properties.py:599
 msgid "Name"
-msgstr "的名字"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:557
 msgid "Edit the selected Named Entry Point"
-msgstr "编辑所选的入口点"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:558
 msgid "Create and use a new Named Entry Point"
-msgstr "创建和使用一个新命名的入口点"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:559
 msgid ""
@@ -1436,45 +1436,45 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:593
 msgid "Create Named Entry Point"
-msgstr "创建名为入口点"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:596
 msgid "Name of the new entry point"
-msgstr "新入口点的名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:618
 msgid "Entry Point"
-msgstr "入口点"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:671
 msgid "No File Name"
-msgstr "没有文件名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:672
 msgid "Please select a file before configuring the environment"
-msgstr "请选择一个文件之前配置环境"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:679
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1564
 msgid "Start Debug in Current Editor File"
-msgstr "在当前编辑器文件开始调试"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:680
 msgid "Debug starts in the current file in the editor."
-msgstr "调试开始在当前文件在编辑器中。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:682
 msgid "Use Selected Entry Point:"
-msgstr "使用选定的入口点:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:683
 msgid "Always stat debugging with the selected named entry point."
-msgstr "总是与所选统计调试命名的入口点。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:685
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1565
 msgid "Start Debug in Selected File:"
-msgstr "在选择开始调试文件:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:686
 msgid ""
@@ -1484,28 +1484,28 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:697
 msgid "View/edit runtime environment"
-msgstr "查看/编辑运行时环境"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:794
 msgid "Use default"
-msgstr "使用默认"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:815
 msgid "View/edit preference setting"
-msgstr "查看/编辑首选项设置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:834
 #: /Users/sdeibel/src/ide/src/proj/properties.py:858
 msgid "Custom"
-msgstr "自定义"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:839
 msgid "Use project setting"
-msgstr "使用项目设置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:847
 msgid "View/edit project property"
-msgstr "查看/编辑项目属性"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1238
 msgid "Initial directory '%s' does not exist"
@@ -1525,7 +1525,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1261
 msgid "Cannot use a Named Entry Point in this version of Wing"
-msgstr "不能使用Named a规定项目in this版本Wing"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1264
 msgid "Named Entry Point '%s' does not exist"
@@ -1557,7 +1557,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1298
 msgid "Python executable cannot be found so must be specified here"
-msgstr "Python可执行文件无法找到所以必须指定"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1300
 msgid "Python executable '%s' is not a file"
@@ -1599,7 +1599,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1363
 msgid "Environment must be in var=value form, one per line:"
-msgstr "环境必须在var =价值形式,每行一个:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1365
 msgid "Env entry %s is invalid"
@@ -1607,11 +1607,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1387
 msgid "The selected launch configuration no longer exists."
-msgstr "所选的启动配置已不复存在。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1413
 msgid "Zope2 instance directory must be specified when Zope support is enabled"
-msgstr "Zope2实例目录时必须指定Zope支持启用"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1416
 msgid "Zope2 instance directory '%s' does not exist or is not a directory"
@@ -1647,11 +1647,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1466
 msgid "Single User (One File)"
-msgstr "单用户(一个文件)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1467
 msgid "Shared (Two Files)"
-msgstr "共享(两个文件)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1472
 msgid ""
@@ -1664,7 +1664,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1543
 msgid "Python Configuration"
-msgstr "Python的配置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1545
 msgid "Project Properties: %s"
@@ -1673,7 +1673,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1579
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2361
 msgid "None"
-msgstr "没有一个"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1585
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2378
@@ -1682,15 +1682,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1589
 msgid "Debug Server Port"
-msgstr "调试服务器端口"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1598
 msgid "Automatic Perspectives"
-msgstr "自动的视角"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1624
 msgid "Analyze main debug file for sys.path changes"
-msgstr "分析主要调试文件系统。路径变化"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1630
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2499
@@ -1716,65 +1716,65 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1712
 msgid "Project Type"
-msgstr "项目类型"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1718
 msgid "Default Encoding"
-msgstr "默认编码"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1720
 msgid "View/edit Default Encoding Preference"
-msgstr "查看/编辑默认编码的偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1724
 msgid "Location of Project File"
-msgstr "项目文件的位置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1725
 msgid "Specified Directory:"
-msgstr "指定的目录:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1726
 msgid "Preferred Line Ending"
-msgstr "首选的行结束"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1728
 msgid "View/edit Line Ending preference"
-msgstr "查看/编辑行结束的偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1731
 msgid "Line Ending Policy"
-msgstr "行结束政策"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1733
 msgid "Preferred Indent Style"
-msgstr "首选缩进风格"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1735
 msgid "View/edit Indent Style preference"
-msgstr "查看/编辑缩进风格偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1738
 msgid "Indent Style Policy"
-msgstr "缩进风格政策"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1740
 msgid "Strip Trailing White Space"
-msgstr "带尾随空格"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1742
 msgid "View/edit Strip Trailing White Space preference"
-msgstr "查看/编辑带拖尾空白的偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1764
 msgid "Enable Django Template Debugging"
-msgstr "让Django模板调试"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1765
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1769
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1773
 msgid "Help"
-msgstr "帮助"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1766
 msgid "Show Django setup How-To in the help viewer"
@@ -1782,7 +1782,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1768
 msgid "Matplotlib Event Loop Support"
-msgstr "Matplotlib事件循环支持"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1770
 msgid "Show Matplotlib How-To in the help viewer"
@@ -1790,7 +1790,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1772
 msgid "Enable Zope2/Plone Support"
-msgstr "启用Zope2 / Plone支持"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1774
 msgid "Show Zope setup How-To in the help viewer"
@@ -1798,7 +1798,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1854
 msgid "Add Zope Files?"
-msgstr "添加Zope文件吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1855
 msgid ""
@@ -1817,7 +1817,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1926
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1935
 msgid "Could not install WingDBG"
-msgstr "不能安装WingDBG"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1927
 msgid ""
@@ -1832,7 +1832,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1952
 msgid "Install Zope Debugging Support?"
-msgstr "安装Zope Debugging支持吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1953
 msgid ""
@@ -1850,7 +1850,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1994
 msgid "Carriage Return + Line Feed \\r\\n (Windows)"
-msgstr "A Carriage Return and Line Feed \\ \\ r \\ \\ n (Windows)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:1999
 msgid ""
@@ -1874,7 +1874,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2174
 msgid "Could not convert encoding"
-msgstr "不能转换编码"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2175
 msgid ""
@@ -1884,12 +1884,12 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2202
 msgid "Reload file with new encoding?"
-msgstr "重新加载文件,新编码吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2204
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2208
 msgid "\"set by preference\""
-msgstr "偏好\\ \\”"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2211
 msgid ""
@@ -1902,7 +1902,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2224
 msgid "Abandon Changes?"
-msgstr "放弃修改?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2225
 msgid ""
@@ -1915,15 +1915,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2237
 msgid "Reload Now"
-msgstr "现在重新加载"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2238
 msgid "Do Not Reload"
-msgstr "不重新加载"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2239
 msgid "Cancel Encoding Change"
-msgstr "取消编码改变"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2273
 msgid "File Properties: %s"
@@ -1936,7 +1936,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2419
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2423
 msgid "Plain Text"
-msgstr "纯文本"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2424
 msgid "By File Name (%s)"
@@ -1944,31 +1944,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2429
 msgid "File Type"
-msgstr "文件类型"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2431
 msgid "Encoding"
-msgstr "编码"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2433
 msgid "View/edit Default Text Encoding preference"
-msgstr "查看/编辑默认文本编码的偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2437
 msgid "Line Ending Style"
-msgstr "行结束的风格"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2439
 msgid "Indent Style"
-msgstr "缩进风格"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2441
 msgid "Convert Indents"
-msgstr "将缩进"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2442
 msgid "Display the indentation conversion tool"
-msgstr "显示缩进转换工具"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2446
 msgid "Read-only on Disk"
@@ -1976,43 +1976,43 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2455
 msgid "Show White Space"
-msgstr "显示空白"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2457
 msgid "View/edit Show Whitespace preference"
-msgstr "查看/编辑显示空白的偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2460
 msgid "Show EOL"
-msgstr "显示EOL"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2462
 msgid "View/edit Show EOL preference"
-msgstr "查看/编辑显示EOL偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2465
 msgid "Show Indent Guides"
-msgstr "显示缩进指南"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2467
 msgid "View/edit Show Indent Guides preference"
-msgstr "查看/编辑显示缩进指南的偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2470
 msgid "Ignore Indent Errors"
-msgstr "忽略缩进错误"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2472
 msgid "Ignore EOL Errors"
-msgstr "EOL尚不明确"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2474
 msgid "Ensure Ending EOL"
-msgstr "确保终点结束"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2476
 msgid "View/edit Ensure Ending EOL When Saving preference"
-msgstr "查看/编辑时确保结束EOL储蓄偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2488
 msgid "_File Attributes"
@@ -2032,7 +2032,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2611
 msgid "Name of directory"
-msgstr "目录的名称"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2613
 msgid "Check this to scan all sub-directories recursively."
@@ -2080,7 +2080,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2639
 msgid "The name of the directory."
-msgstr "目录的名称。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2641
 msgid ""
@@ -2091,57 +2091,57 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2651
 msgid "Add Directory"
-msgstr "添加目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2653
 msgid "Directory Properties"
-msgstr "目录属性"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2679
 msgid "No Excludes"
-msgstr "不排除"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2680
 msgid "Hidden and Temporary files"
-msgstr "隐藏的,临时文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2689
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2697
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2705
 msgid "Directory"
-msgstr "目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2713
 msgid "Include"
-msgstr "包括"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2721
 msgid "Exclude"
-msgstr "排除"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2728
 msgid "Recursive"
-msgstr "递归"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2730
 msgid "Watch for external changes"
-msgstr "注意外部的变化"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2738
 msgid "Clear Excludes"
-msgstr "明确的排除"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2739
 msgid "Immediately clear all exclusions for this directory"
-msgstr "清楚这个目录的所有除外责任"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2950
 msgid "The following referenced environment variables were undefined: "
-msgstr "以下环境变量引用未定义:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2954
 msgid "Invalid Properties"
-msgstr "无效的属性"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2954
 msgid ""
@@ -2171,4 +2171,4 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/proj/properties.py:2976
 msgid "Properties Warnings"
-msgstr "属性的警告"
+msgstr ""

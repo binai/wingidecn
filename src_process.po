@@ -75,7 +75,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:618
 msgid "License is valid."
-msgstr "资格证书,以便确定。"
+msgstr "许可证是有效的。"
 
 #: /Users/sdeibel/src/ide/src/process/abstract.py:621
 msgid "License file not found or could not be read."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2015-07-25 16:48+0800\n"
+"PO-Revision-Date: 2015-07-25 11:17+0800\n"
 "Last-Translator: binai <msiiiu@qq.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -491,7 +491,7 @@ msgstr "错误::"
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:125
 msgid "Fatal Error::"
-msgstr "致命错误::"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/wingutils/usererror.py:170
 msgid "NOTE"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2015-07-25 16:47+0800\n"
+"PO-Revision-Date: 2015-07-25 11:13+0800\n"
 "Last-Translator: binai <msiiiu@qq.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
@@ -48,7 +48,7 @@ msgstr "只在异常停止时将被打印出来"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:92
 msgid "Clear list of exceptions being ignored during debugging"
-msgstr "明显的例外列表在调试的过程中被忽略"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:101
 msgid "Execute the build command defined in the project, if any"
@@ -332,7 +332,7 @@ msgstr "重新启动python shell。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:941
 msgid " Clear python shell. "
-msgstr "清晰的python shell。"
+msgstr "Clear巨蟒壳牌石油公司。"
 
 #: /Users/sdeibel/src/ide/src/debug/client/cmdmanager.py:956
 msgid " Kill python shell process. "

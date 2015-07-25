@@ -228,27 +228,27 @@ msgstr "显示详细信息"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:304
 msgid "Support+Upgrades Expired"
-msgstr "支持+升级过期"
+msgstr "支持升级过期"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:305
 msgid "Renew Support+Upgrades"
-msgstr "更新支持+升级"
+msgstr "更新支持升级"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:308
 msgid "Support+Upgrades Expiring Soon"
-msgstr "支持+升级很快到期"
+msgstr "支持升级很快到期"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:309
 msgid "Extend Support+Upgrades"
-msgstr "扩展支持+升级"
+msgstr "扩展支持升级"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:312
 msgid "No Support+Upgrades Subscription"
-msgstr "不支持订阅+升级"
+msgstr "不支持升级订阅"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:313
 msgid "Add Support+Upgrades"
-msgstr "添加+升级的支持"
+msgstr "添加升级的支持"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:324
 msgid "New Release Available"
@@ -267,7 +267,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:350
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:654
 msgid "Automatically check for updates"
-msgstr "自动检查更新"
+msgstr "Automatically check for updates"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:360
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1405
@@ -318,7 +318,7 @@ msgstr "新更新!"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:539
 msgid "Select updates you wish to install:"
-msgstr "选择您希望更新的安装:"
+msgstr "你希望to install Select更新:"
 
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:581
 #: /Users/sdeibel/src/ide/src/wingide/patchmgr.py:585
@@ -628,7 +628,7 @@ msgstr "打开默认的项目…"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1293
 msgid "Displaying windows..."
-msgstr "显示窗口……"
+msgstr "Displaying ...视窗"
 
 #: /Users/sdeibel/src/ide/src/wingide/wingapp.py:1297
 msgid "Opening files..."

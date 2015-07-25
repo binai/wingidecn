@@ -6,15 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wingide 5.0.0\n"
 "POT-Creation-Date: 2013-11-13 10:33+EST\n"
-"PO-Revision-Date: 2015-07-25 16:47+0800\n"
-"Last-Translator: binai <msiiiu@qq.com>\n"
+"PO-Revision-Date: 2004-02-23 15:25 EST\n"
+"Last-Translator: 小雨<rains31@gmail.com>\n"
 "Language-Team: www.knownsec.com\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: text/plain\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 1.8.1\n"
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:46
 msgid ""
@@ -24,7 +23,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:59
 msgid "Search all documentation. "
-msgstr "搜索所有文档。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:74
 msgid ""
@@ -34,23 +33,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:92
 msgid "Go back to prior page in the history of those that have been viewed"
-msgstr "回到之前的页面在那些被浏览的历史"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:99
 msgid "Go forward to next page in the history of those that have been viewed"
-msgstr "前进到下一个页面上的那些被浏览"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:106
 msgid "Go to the previous page in the current document"
-msgstr "在当前文档到前一页"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:113
 msgid "Go to the next page in the current document"
-msgstr "进入下一个页面在当前文档"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:120
 msgid "Go to the document contents page"
-msgstr "文档内容页面"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:127
 msgid ""
@@ -98,19 +97,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:211
 msgid " Copy any selected text. "
-msgstr "复制选中的文本。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:240
 msgid "Increase documentation font size"
-msgstr "增加文档字体大小"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:245
 msgid "Decrease documentation font size"
-msgstr "减少文档字体大小"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:250
 msgid "Reset documentation font size to default"
-msgstr "文档字体大小重置为默认值"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:259
 msgid ""
@@ -120,23 +119,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:272
 msgid "Go to the previous page in Wing Tips"
-msgstr "在翼尖去前面的页面"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:279
 msgid "Go to the next page in Wing Tips"
-msgstr "在翼尖进入下一个页面"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:286
 msgid "Go to the Wing Tips contents page"
-msgstr "去翼尖内容页面"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:291
 msgid "Go to a next unseen Wing Tips page"
-msgstr "去下一个看不见的翼尖页面"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:296
 msgid "Close the Wing Tips window"
-msgstr "关闭翼尖窗口"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:305
 msgid ""
@@ -153,35 +152,35 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:766
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:837
 msgid " Constructor"
-msgstr "构造函数"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:319
 msgid " Activate the file menu for the editor. "
-msgstr "激活的文件菜单编辑器。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:326
 msgid "Move back in history to previous visited editor position"
-msgstr "搬回以前历史上访问编辑位置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:333
 msgid "Move forward in history to next visited editor position"
-msgstr "历史上向前下访问编辑位置"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:340
 msgid "Increase height of this split"
-msgstr "增加高度的分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:344
 msgid "Decrease height of this split"
-msgstr "降低高度的分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:348
 msgid "Increase width of this split"
-msgstr "增加宽度的分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:352
 msgid "Decrease width of this split"
-msgstr "减少宽度的分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:356
 msgid ""
@@ -191,19 +190,19 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:369
 msgid " Split current view horizontally. "
-msgstr "水平分割当前视图。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:377
 msgid " Split current view horizontally and open selected file"
-msgstr "水平分割当前视图,打开选择文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:390
 msgid "The file to select"
-msgstr "文件选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:394
 msgid "Select file:"
-msgstr "选择文件:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:399
 msgid ""
@@ -212,7 +211,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:407
 msgid " Split current view vertically and open selected file"
-msgstr "垂直分割当前视图,打开选择文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:417
 msgid ""
@@ -254,7 +253,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:494
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:685
 msgid "Exit visual mode and return back to default mode"
-msgstr "退出的视觉模式,并返回到默认的模式"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:512
 msgid ""
@@ -265,11 +264,11 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:529
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:690
 msgid "Enter editor insert mode"
-msgstr "进入插入模式编辑"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:534
 msgid "Enter editor replace mode"
-msgstr "进入编辑器替换模式"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:539
 msgid ""
@@ -284,7 +283,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:566
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:696
 msgid "Execute a VI command (implements \":\" commands from VI)"
-msgstr "执行一个VI命令(实现\\ \":\\ \"从VI命令)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:585
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:715
@@ -319,8 +318,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:627
 msgid ""
-"Perform vi's :set action. The command is the portion after :set.  "
-"Currently\n"
+"Perform vi's :set action. The command is the portion after :set.  Currently\n"
 "    supports ic, noic, ai, noai, number or nu, nonumber or nonu, ro, noro, "
 "sm, and\n"
 "    nosm.  Multiple options can be specied in one call as for :set ic sm ai"
@@ -336,7 +334,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:776
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:843
 msgid "Enter editor browse mode"
-msgstr "进入编辑浏览模式"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:679
 msgid ""
@@ -385,39 +383,39 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:874
 msgid "Show or minimize the horizontal tool area"
-msgstr "显示或最小化水平工具领域"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:883
 msgid "Show or minimize the vertical tool area"
-msgstr "显示或者减少垂直工具领域"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:919
 msgid " Returns if panel window is in front of editor or dock window. "
-msgstr "返回如果面板窗口的编辑器或停靠窗口。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:999
 msgid "Show the horizontal tool area"
-msgstr "显示水平工具领域"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1007
 msgid "Minimize the horizontal tool area"
-msgstr "减少区域水平的工具"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1015
 msgid "Show the vertical tool area"
-msgstr "显示垂直的工具"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1023
 msgid "Minimize the vertical tool area"
-msgstr "减少垂直工具领域"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1031
 msgid "Hide the horizontal tool area"
-msgstr "隐藏区域水平的工具"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1039
 msgid "Hide the vertical tool area"
-msgstr "隐藏区域垂直工具"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1047
 msgid ""
@@ -432,11 +430,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1094
 msgid " Show toolbars in all document windows "
-msgstr "显示所有文档窗口的工具栏"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1103
 msgid " Hide toolbars in all document windows "
-msgstr "隐藏在所有文档窗口工具栏"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1113
 msgid ""
@@ -458,15 +456,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1327
 msgid "Move focus to first editor split"
-msgstr "焦点移动到第一个编辑分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1336
 msgid "Move focus to last editor split"
-msgstr "焦点移动到最后一个编辑器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1345
 msgid "Move focus to previous editor split"
-msgstr "焦点转移到先前的编辑器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1352
 msgid ""
@@ -483,47 +481,47 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1386
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1402
 msgid " Cut selection "
-msgstr "减少选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1414
 msgid " Paste from clipboard "
-msgstr "从剪贴板粘贴"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1422
 msgid "Move forward one character"
-msgstr "向前移动一个字符"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1429
 msgid "Move forward one character, extending the selection"
-msgstr "向前移动一个字符,扩展选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1436
 msgid "Move forward one word"
-msgstr "前进一个词"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1443
 msgid "Move forward one word, extending the selection"
-msgstr "前进一个词,扩展选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1450
 msgid "Move backward one character"
-msgstr "向后移动一个字符"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1457
 msgid "Move backward one character, extending the selection"
-msgstr "向后移动一个字符,扩展选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1464
 msgid "Move backward one word"
-msgstr "向后移动一个词"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1471
 msgid "Move backward one word, extending the selection"
-msgstr "向后移动一个词,扩展选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1478
 msgid "Move to the beginning of the toolbar search entry"
-msgstr "搬到工具栏的搜索条目的开始"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1485
 msgid ""
@@ -532,27 +530,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1492
 msgid "Move to the end of the toolbar search entry"
-msgstr "移动工具栏的搜索条目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1499
 msgid "Move to the end of the toolbar search entry, extending the selection"
-msgstr "移动工具栏的搜索条目,扩展选择"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1506
 msgid "Delete character in front of the cursor"
-msgstr "删除字符前的游标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1513
 msgid "Delete word in front of the cursor"
-msgstr "删除单词前面的游标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1521
 msgid "Delete character behind the cursor"
-msgstr "光标后面删除字符"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1528
 msgid "Delete word behind the cursor"
-msgstr "删除单词背后的游标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1536
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1734
@@ -564,7 +562,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1550
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1748
 msgid " Returns start, end of selection; when no selection, start == end "
-msgstr "返回开始,年底选择;当没有选择,开始= =结束"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/commands.py:1774
 msgid ""

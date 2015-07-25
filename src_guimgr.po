@@ -147,7 +147,7 @@ msgstr "绑定快捷键..."
 
 #: /Users/sdeibel/src/ide/src/guimgr/cap_filesets.py:638
 msgid "Update with Currently Opened Files"
-msgstr "更新当前打开的文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/cap_filesets.py:694
 msgid "FileSet Key Binding"
@@ -1647,7 +1647,7 @@ msgstr "內容"
 
 #: /Users/sdeibel/src/ide/src/guimgr/constants.py:810
 msgid "Close"
-msgstr "关闭"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/document.py:428
 msgid "Select from recently visited documents"
@@ -1679,19 +1679,19 @@ msgstr "无法找到文档"
 
 #: /Users/sdeibel/src/ide/src/guimgr/document.py:683
 msgid "Copy Text to Clipboard"
-msgstr "将文本复制到剪贴板"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/document.py:684
 msgid "Copy HTML to Clipboard"
-msgstr "HTML复制到剪贴板"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/document.py:686
 msgid "Smaller Font"
-msgstr "更小的字体"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/document.py:687
 msgid "Larger Font"
-msgstr "更大的字体"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/document.py:738
 #: /Users/sdeibel/src/ide/src/guimgr/document.py:755
@@ -1763,7 +1763,7 @@ msgstr "细节:"
 
 #: /Users/sdeibel/src/ide/src/guimgr/feedback.py:167
 msgid "Where did you hear about Wing IDE?"
-msgstr "你在哪里听到翼IDE ?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/feedback.py:175
 msgid "If you want us to respond, please include a valid email address:"
@@ -2030,7 +2030,7 @@ msgstr "添加目录到项目?"
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3043
 msgid "Please select directories to add to the project:"
-msgstr "请选择目录添加到项目:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3049
 msgid "Add Selected Dirs"
@@ -2053,7 +2053,7 @@ msgstr "Wing IDE"
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3233
 msgid "Failed to set panel window state:"
-msgstr "未能设置面板窗口状态:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3288
 msgid "Toolbox: %s: Wing IDE"
@@ -2077,7 +2077,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3464
 msgid "Really Restore Default Tools?"
-msgstr "真的恢复默认的工具吗?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3469
 msgid ""
@@ -2108,23 +2108,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3586
 msgid " (named entry point)"
-msgstr "(名为入口点)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3712
 msgid "Left"
-msgstr "离开了"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3714
 msgid "Right"
-msgstr "正确的"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3718
 msgid "Bottom"
-msgstr "底"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3720
 msgid "Top"
-msgstr "前"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3743
 msgid "%sToolbox"
@@ -2137,12 +2137,12 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3779
 msgid "Insert Tool"
-msgstr "插入工具"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3796
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3390
 msgid "New Window"
-msgstr "新窗口"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3816
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3381
@@ -2176,23 +2176,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3869
 msgid "Move Toolbox to Right"
-msgstr "工具箱移到右"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3870
 msgid "Move Toolbox to Left"
-msgstr "工具箱移到左"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3871
 msgid "Move Toolbox to Top"
-msgstr "工具箱移到顶部"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3872
 msgid "Move Toolbox to Bottom"
-msgstr "移动工具箱到下"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3883
 msgid "Move Toolbox to New Window"
-msgstr "转移到新窗口的工具箱"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3891
 msgid "Move Toolbox Split #%i to New Window"
@@ -2200,55 +2200,55 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3902
 msgid "Add Toolbox Split"
-msgstr "添加工具箱分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3906
 msgid "Remove Toolbox Split"
-msgstr "删除工具箱分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3912
 msgid "Hide Toolbox"
-msgstr "隐藏工具箱"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3927
 msgid "Use Vertical Splits"
-msgstr "使用垂直分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3929
 msgid "Use Horizontal Splits"
-msgstr "使用水平分割"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3953
 msgid "Place Tabs at Bottom"
-msgstr "标签在底部"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3955
 msgid "Place Tabs at Top"
-msgstr "标签在上面"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3958
 msgid "Place Tabs at Right"
-msgstr "标签在正确的"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3960
 msgid "Place Tabs at Left"
-msgstr "标签在左"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3975
 msgid "The window title (blank for internal default)"
-msgstr "窗口标题(空白内部默认)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3982
 msgid "Set Window Title..."
-msgstr "设置窗口标题……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:3992
 msgid "Keep Window on Top"
-msgstr "保持窗户上"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:4566
 msgid "Failed to set colors"
-msgstr "未能设置颜色"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:4567
 msgid "Failed to set selected colors because the file %s could not be written"
@@ -2271,7 +2271,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/guimanager.py:4599
 msgid "Restart for Display Changes"
-msgstr "重新启动显示更改"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/initialprefs.py:45
 msgid "_Tab Key Action"
@@ -2303,7 +2303,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/initialprefs.py:97
 msgid "Select Initial Preferences"
-msgstr "选择初始偏好"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/initialprefs.py:113
 msgid "Configuring window %i..."
@@ -2335,51 +2335,51 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/keyboard.py:2155
 msgid "Repeat: "
-msgstr "重复一遍:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/keyboard.py:2226
 msgid "Count: "
-msgstr "数:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:39
 msgid "general"
-msgstr "一般"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:40
 msgid "editor"
-msgstr "编辑器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:41
 msgid "debugger"
-msgstr "调试器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:42
 msgid "search"
-msgstr "搜索"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:43
 msgid "transient"
-msgstr "瞬态"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:44
 msgid "scripts"
-msgstr "脚本"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:45
 msgid "project"
-msgstr "项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:46
 msgid "browser"
-msgstr "浏览器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:47
 msgid "analysis"
-msgstr "分析"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:108
 msgid "Messages"
-msgstr "消息"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:113
 msgid "Wing IDE Sub-System Messages"
@@ -2387,20 +2387,20 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:237
 msgid "Error"
-msgstr "错误"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:376
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:391
 msgid "Messages visual state"
-msgstr "信息可视化的状态"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/messages.py:414
 msgid "Show Messages:  "
-msgstr "显示信息:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:638
 msgid "Switch between open files"
-msgstr "打开的文件之间切换"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:836
 msgid ""
@@ -2438,7 +2438,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1051
 msgid "Configure..."
-msgstr "...起见"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1131
 msgid "Next visit in history (%s)"
@@ -2446,7 +2446,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1133
 msgid "Next visit in history"
-msgstr "下一个访问历史"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1137
 msgid "Previous visit in history (%s)"
@@ -2454,27 +2454,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1139
 msgid "Previous visit in history"
-msgstr "以前历史上访问"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1159
 msgid "Diff/Merge session options"
-msgstr "Diff / Merge会话的选项"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1161
 msgid "Navigate to bookmarks in this file"
-msgstr "导航到书签在这个文件中"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1165
 msgid "Close Document"
-msgstr "关闭文档"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1167
 msgid "Document View Options"
-msgstr "文档视图选项"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1219
 msgid "Remove Bookmarks in this File"
-msgstr "在这个文件中删除书签"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:1978
 msgid "General failure getting multi-editor visual state"
@@ -2482,7 +2482,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:2018
 msgid "Current editor file"
-msgstr "当前编辑的文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:2035
 msgid "General failure setting multi-editor visual state"
@@ -2494,7 +2494,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:2471
 msgid "File open failed"
-msgstr "文件打开失败"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3388
 msgid "Move %s to New Window"
@@ -2506,83 +2506,83 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3427
 msgid "Close Others"
-msgstr "接近别人"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3430
 msgid "Close All"
-msgstr "关闭所有"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3437
 msgid "Copy File Path"
-msgstr "复制文件路径"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3444
 msgid "Show in Explorer"
-msgstr "在资源管理器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3446
 msgid "Show in Finder"
-msgstr "在仪"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3448
 msgid "Show Directory"
-msgstr "显示目录"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3454
 msgid "Show in Project"
-msgstr "显示在项目"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3458
 msgid "Split Top and Bottom"
-msgstr "分裂的顶部和底部"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3459
 msgid "Split Side by Side"
-msgstr "分离并排"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3461
 msgid "Join all Splits"
-msgstr "加入所有分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3467
 msgid "Show All Files in All Splits"
-msgstr "显示所有文件在所有分裂"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3474
 msgid "Hide Notebook Tabs"
-msgstr "隐藏的笔记本选项卡"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3476
 msgid "Show Notebook Tabs"
-msgstr "显示笔记本选项卡"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3481
 msgid "Keep Tabs Alphabetized"
-msgstr "保持标签按字母顺序排序"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3484
 msgid "Sort Symbol Menus Alphabetically"
-msgstr "按字母顺序排序菜单象征"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3486
 msgid "Sort Symbol Menus in File Order"
-msgstr "符号菜单文件顺序排序"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3666
 msgid "General failure getting paned editor state"
-msgstr "一般故障得到镶嵌玻璃的编辑状态"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3701
 msgid "Currently open editor files"
-msgstr "当前打开的编辑文件"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/multieditor.py:3721
 msgid "General failure setting paned editor state"
-msgstr "一般故障设置镶嵌玻璃的编辑状态"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/personality.py:128
 msgid "Could not read key map"
-msgstr "不能读键映射"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/personality.py:129
 msgid ""
@@ -2593,15 +2593,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:39
 msgid "Combined Toolbox and Editor Windows"
-msgstr "结合工具箱和编辑窗口"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:40
 msgid "Separate Toolbox Windows"
-msgstr "单独的工具箱窗口"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:41
 msgid "One Window per Editor"
-msgstr "每一个窗口编辑器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:46
 msgid ""
@@ -2622,11 +2622,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:61
 msgid "Override with selected:"
-msgstr "选择覆盖:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:61
 msgid "Use Default for Personality"
-msgstr "使用默认的个性"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:64
 msgid ""
@@ -2640,12 +2640,12 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:71
 msgid "Key"
-msgstr "关键"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:71
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:760
 msgid "Command"
-msgstr "命令"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:78
 msgid ""
@@ -2655,31 +2655,31 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:81
 msgid "Full Screen"
-msgstr "全屏"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:81
 msgid "Height"
-msgstr "高度"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:81
 msgid "This Rectangle:"
-msgstr "这个矩形:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:81
 msgid "Width"
-msgstr "宽度"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:81
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:81
 msgid "Y"
-msgstr "Y"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:87
 msgid "Whether toolbar is shown in any window."
-msgstr "是否工具栏所示窗口。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:91
 msgid "Auto-Size"
@@ -2687,7 +2687,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:92
 msgid "Tiny (Text Height)"
-msgstr "小(文本高度)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:93
 msgid "Small"
@@ -2718,7 +2718,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:125
 msgid "Adjust for Size"
-msgstr "调整大小"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:126
 msgid "Icon Only"
@@ -2730,11 +2730,11 @@ msgstr "仅文字"
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:128
 msgid "Icon and Text Below"
-msgstr "下面的图标和文字"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:129
 msgid "Icon and Text to Side"
-msgstr "图标和文本"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:150
 msgid ""
@@ -2744,27 +2744,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:156
 msgid "Primary color for icons"
-msgstr "主要颜色图标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:161
 msgid "Secondary color for icons"
-msgstr "二次颜色图标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:166
 msgid "Tertiary color for icons"
-msgstr "三级颜色图标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:171
 msgid "Quaternary color for icons"
-msgstr "第四纪颜色图标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:176
 msgid "Quinary color for icons"
-msgstr "第五位的颜色图标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:181
 msgid "Senary color for icons"
-msgstr "六的颜色图标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:187
 msgid ""
@@ -2774,7 +2774,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:198
 msgid "The base font and size to use for the user interface's menus and labels"
-msgstr "基本字体和大小使用用户界面的菜单和标签"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:201
 msgid "Use Default"
@@ -2782,23 +2782,23 @@ msgstr "使用默认值"
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:201
 msgid "Use Selected Font/Size:"
-msgstr "使用选定的字体/尺寸:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:219
 msgid "Configures the overall display style used by Wing IDE."
-msgstr "配置使用的整体显示风格翼IDE。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:232
 msgid "Native for OS"
-msgstr "本机的操作系统"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:233
 msgid "Selected Style"
-msgstr "选择风格"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:234
 msgid "Match Palette:"
-msgstr "Match调色板:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:241
 msgid ""
@@ -2812,11 +2812,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:257
 msgid "Use Windows Defaults"
-msgstr "使用Windows默认值"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:260
 msgid "Use System Default Theme"
-msgstr "使用系统默认主题"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:263
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:266
@@ -2825,7 +2825,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:297
 msgid " (Wing Default)"
-msgstr "(翼违约)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:303
 msgid ""
@@ -2837,7 +2837,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:314
 msgid "Use Selected Theme:"
-msgstr "使用选定的主题:"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:320
 msgid ""
@@ -2847,27 +2847,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:325
 msgid "Maximum number of items to display in the Recent menus."
-msgstr "最大数量的物品显示在最近的菜单。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:328
 msgid "Base Name Only"
-msgstr "基本名称唯一"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:329
 msgid "Prepend Relative Path"
-msgstr "预先考虑相对路径"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:330
 msgid "Append Relative Path"
-msgstr "附加相对路径"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:331
 msgid "Prepend Full Path"
-msgstr "预先考虑完整路径"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:332
 msgid "Append Full Path"
-msgstr "添加完整路径"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:335
 msgid ""
@@ -2881,7 +2881,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:346
 msgid "Maximum size of files that Wing will try to open, in MB."
-msgstr "最大大小翼会尝试打开的文件,在MB。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:350
 msgid ""
@@ -2907,12 +2907,12 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:369
 msgid "Mime Type"
-msgstr "Mime类型"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:369
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:384
 msgid "Display Commands"
-msgstr "显示命令"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:372
 msgid ""
@@ -2929,7 +2929,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:384
 msgid "Protocol"
-msgstr "协议"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:393
 msgid ""
@@ -2972,7 +2972,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:450
 msgid "The color used to indicate the current text selection on editable text."
-msgstr "颜色用于显示当前文本选择在可编辑的文本。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:456
 msgid ""
@@ -2988,11 +2988,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:468
 msgid "File Order"
-msgstr "文件顺序"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:469
 msgid "Alphabetical Order"
-msgstr "字母顺序排列"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:474
 msgid ""
@@ -3002,11 +3002,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:482
 msgid "Whether to show all open editors in a window in every split."
-msgstr "是否显示所有打开的编辑器窗口中每一个分裂。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:487
 msgid "Whether to keep tabs in alphabetical order."
-msgstr "是否要保持标签按字母顺序排列的。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:493
 msgid "All"
@@ -3018,15 +3018,15 @@ msgstr "常规"
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:495
 msgid "Debugger"
-msgstr "调试器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:496
 msgid "Editor"
-msgstr "编辑器"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:497
 msgid "Search Progress"
-msgstr "搜索进展"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:498
 msgid "Browser"
@@ -3034,11 +3034,11 @@ msgstr "浏览器"
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:499
 msgid "Project Manager"
-msgstr "项目经理"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:500
 msgid "Source Analysis"
-msgstr "来源分析"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:501
 msgid "Scripts"
@@ -3046,11 +3046,11 @@ msgstr "脚本"
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:505
 msgid "All Messages"
-msgstr "所有消息"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:506
 msgid "Only Warnings and Errors"
-msgstr "唯一的警告和错误"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:507
 msgid "Only Errors"
@@ -3080,15 +3080,15 @@ msgstr "格式"
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:524
 msgid "Max Lines"
-msgstr "马克斯行"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:524
 msgid "Minimum Level"
-msgstr "最低水平"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:530
 msgid "Whether feedback dialog is shown to user on quit."
-msgstr "反馈对话框是否显示用户退出。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:534
 msgid ""
@@ -3117,7 +3117,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:558
 msgid "Email address to use by default in the Feedback and Bug Report dialogs"
-msgstr "电子邮件地址默认使用的反馈和错误报告对话框"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:572
 msgid ""
@@ -3132,15 +3132,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:584
 msgid "Use System Qt if 4.8"
-msgstr "使用系统Qt如果4.8"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:585
 msgid "Use System Qt"
-msgstr "Qt使用系统"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:586
 msgid "Use Wing's private Qt"
-msgstr "使用翼的私人Qt"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:592
 msgid ""
@@ -3155,24 +3155,24 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:608
 msgid "Scan for pythoncom shell extensions on Windows"
-msgstr "在Windows上扫描pythoncom shell扩展"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:616
 msgid "Both Option keys"
-msgstr "这两个选项键"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:617
 msgid "Left Option key"
-msgstr "左选择键"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:618
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:649
 msgid "Command keys"
-msgstr "命令键"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:619
 msgid "No Alt key"
-msgstr "没有Alt键"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:623
 msgid ""
@@ -3198,15 +3198,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:646
 msgid "No alt key / not Apple X11"
-msgstr "苹果没有alt键/ X11"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:647
 msgid "Left option key"
-msgstr "左选择键"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:648
 msgid "Both option keys"
-msgstr "这两个选项键"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:652
 msgid ""
@@ -3230,7 +3230,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:675
 msgid "Query X11"
-msgstr "查询X11"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:676
 msgid "Yes"
@@ -3267,15 +3267,15 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:706
 msgid "Use Default for OS"
-msgstr "使用默认的操作系统"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:707
 msgid "Use for Copy/Cut/Paste"
-msgstr "用于复制/剪切/粘贴"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:708
 msgid "Use for VI Native Actions"
-msgstr "使用VI本地操作"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:711
 msgid ""
@@ -3293,47 +3293,47 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:727
 msgid "File Operations"
-msgstr "文件操作"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:728
 msgid "Clipboard"
-msgstr "剪贴板"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:731
 msgid "Indentation"
-msgstr "缩进"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:732
 msgid "Project Management"
-msgstr "项目管理"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:741
 msgid "Bookmarks"
-msgstr "书签"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:744
 msgid "Testing"
-msgstr "测试"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:747
 msgid "Version Control"
-msgstr "版本控制"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:750
 msgid "Controls which groups of tools will be shown in the toolbar."
-msgstr "控制这组工具将工具栏所示。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:758
 msgid "Extra items to add to the tool bar."
-msgstr "额外的条目添加到工具栏。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:760
 msgid "Icon"
-msgstr "图标"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/prefs.py:766
 msgid "Quit application when last document window closes"
-msgstr "当最后一个文档窗口关闭退出应用程序"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/reloader.py:98
 msgid " -- Editor has unsaved changes!"
@@ -3375,7 +3375,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/reloader.py:125
 msgid "Confirm Reload"
-msgstr "确认重新加载"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/reloader.py:141
 msgid "Con_figure Reloading"
@@ -3403,23 +3403,23 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:166
 msgid "  (Could not encode)"
-msgstr "(不能编码)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:168
 msgid "  (Changing file format)"
-msgstr "(改变文件格式)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:170
 msgid "  (Disk file is newer)"
-msgstr "(磁盘文件更新)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:172
 msgid "  (Write failed)"
-msgstr "(写失败了)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:213
 msgid "Save Files?"
-msgstr "保存文件?"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:215
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:220
@@ -3433,7 +3433,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:324
 msgid "File is open"
-msgstr "文件是开放的"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:325
 msgid ""
@@ -3451,15 +3451,15 @@ msgstr "项目另存为...(_A)"
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:359
 msgid "Project Files (*.wpr)"
-msgstr "项目.wpr(*)详尽"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:361
 msgid "Python Files (*.py); All Files (*.*)"
-msgstr "Python文件(* . py);所有文件(* . *)"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:475
 msgid "Failed to write file"
-msgstr "写文件失败"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:476
 msgid "Failed to write %s.  Save to another file?"
@@ -3467,7 +3467,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:486
 msgid "Disk file is newer"
-msgstr "磁盘文件更新"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:487
 msgid ""
@@ -3511,11 +3511,11 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:517
 msgid "Could not encode file contents"
-msgstr "不能编码文件内容"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:522
 msgid "Could not encode."
-msgstr "不能进行编码。"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/savemanager.py:523
 msgid "_Save using Specified Encoding"
@@ -3541,27 +3541,27 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/toolbar_qt.py:855
 msgid "Icon Size"
-msgstr "图标大小"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/toolbar_qt.py:864
 msgid "Tool Style"
-msgstr "工具的风格"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/toolbar_qt.py:871
 msgid "Show Tool Tips"
-msgstr "显示工具提示"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/toolbar_qt.py:881
 msgid "Hide this Group"
-msgstr "隐藏这组"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/toolbar_qt.py:894
 msgid "Groups Shown"
-msgstr "组显示"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/toolbar_qt.py:898
 msgid "Customize Toolbar..."
-msgstr "定制工具栏……"
+msgstr ""
 
 #: /Users/sdeibel/src/ide/src/guimgr/wingtips.py:88
 msgid "Show at startup"

@@ -242,7 +242,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:366
 msgid "Result File Na&me"
-msgstr "结果文件Na&me"
+msgstr "结果文件钠"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:369
 msgid "Result File Na_me"
@@ -250,7 +250,7 @@ msgstr ""
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:377
 msgid "Show Search T&ype In Tool"
-msgstr "显示搜索T&ype工具"
+msgstr "显示搜索T"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:382
 msgid "Show Search T_ype In Tool"
@@ -310,7 +310,7 @@ msgstr ""
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:654
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:676
 msgid "Search in files state"
-msgstr "搜索文件状态"
+msgstr "在Search files总公司"
 
 #: /Users/sdeibel/src/ide/src/search/cap_batch.py:997
 msgid "Line %s: "
